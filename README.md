@@ -56,6 +56,11 @@ data/
 └── IDSQR_reference.png
 └── IDSR_reference.png
 ```
+## 3D Bioprnting Features
+
+```
+All bioprinting parameter features are available in the 3D bioprinting features Excel file.
+```
 
 ## Configuration
 
