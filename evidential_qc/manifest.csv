@@ -1,0 +1,865 @@
+path,label,geometry,geometry_id,tip,prefix,print_id,gauge,temp_c,pressure_psi,speed_mm_s,session,width,md5,label_conflict,usable
+data/Good_png/IDCBR_03.png,1,circle_grid,3,regular,IDCBR,3,27,35,40,1,IDCBR_G27_T35,256,b479c62c6dd6b56838e29bfb309d70d3,False,True
+data/Good_png/IDCBR_08.png,1,circle_grid,3,regular,IDCBR,8,27,35,50,3,IDCBR_G27_T35,256,16536b3b17b081e8856ea01d5ce66c81,False,True
+data/Good_png/IDCBR_100.png,1,circle_grid,3,regular,IDCBR,100,30,30,50,3,IDCBR_G30_T30,256,be80688bfca553099efb9218178915d6,False,True
+data/Good_png/IDCBR_101.png,1,circle_grid,3,regular,IDCBR,101,30,30,55,3,IDCBR_G30_T30,256,84c690f8740ca7128123f8e37dd86005,False,True
+data/Good_png/IDCBR_102.png,1,circle_grid,3,regular,IDCBR,102,30,30,60,3,IDCBR_G30_T30,256,3a8770ecd28419a2f190afbf77c46610,False,True
+data/Good_png/IDCBR_103.png,1,circle_grid,3,regular,IDCBR,103,30,30,45,2,IDCBR_G30_T30,256,3d7a0c87590f2c643451123e7a87a26b,False,True
+data/Good_png/IDCBR_104.png,1,circle_grid,3,regular,IDCBR,104,30,30,50,2,IDCBR_G30_T30,256,ebc0319e49aba9b6e132c68f92174b9b,False,True
+data/Good_png/IDCBR_105.png,1,circle_grid,3,regular,IDCBR,105,30,30,55,2,IDCBR_G30_T30,256,a641ff7a3d7e216e954224fde51c9c39,False,True
+data/Good_png/IDCBR_106.png,1,circle_grid,3,regular,IDCBR,106,30,30,45,1,IDCBR_G30_T30,256,917854af91f9c8f3ae1a364643467de6,False,True
+data/Good_png/IDCBR_107.png,1,circle_grid,3,regular,IDCBR,107,30,30,50,1,IDCBR_G30_T30,256,7321fb78d677b409f9c54192ddd2229d,False,True
+data/Good_png/IDCBR_108.png,1,circle_grid,3,regular,IDCBR,108,30,30,55,1,IDCBR_G30_T30,256,204e125ebbc0a5b242ae236abcf3d9cc,False,True
+data/Good_png/IDCBR_11.png,1,circle_grid,3,regular,IDCBR,11,27,35,50,4,IDCBR_G27_T35,256,d862a4a40fe8ecee50599b5e71f11701,False,True
+data/Good_png/IDCBR_14.png,1,circle_grid,3,regular,IDCBR,14,27,35,50,5,IDCBR_G27_T35,256,2f0876e24ca61bdfb7e2e1015056ec0d,False,True
+data/Good_png/IDCBR_15.png,1,circle_grid,3,regular,IDCBR,15,27,35,55,5,IDCBR_G27_T35,256,4aec5ac745e9e0abc564dfdf65564396,False,True
+data/Good_png/IDCBR_17.png,1,circle_grid,3,regular,IDCBR,17,27,35,45,6,IDCBR_G27_T35,256,69c8d40509251fc7d1c7b30794ec99fd,False,True
+data/Good_png/IDCBR_20.png,1,circle_grid,3,regular,IDCBR,20,27,30,30,1,IDCBR_G27_T30,256,52c621daeeef88adc309387011c66e72,False,True
+data/Good_png/IDCBR_21.png,1,circle_grid,3,regular,IDCBR,21,27,30,35,1,IDCBR_G27_T30,256,d22d16c365138b88d7547874b51fa0fa,False,True
+data/Good_png/IDCBR_22.png,1,circle_grid,3,regular,IDCBR,22,27,30,30,2,IDCBR_G27_T30,256,589537be29ab6aa4303d1ed6df113ab8,False,True
+data/Good_png/IDCBR_23.png,1,circle_grid,3,regular,IDCBR,23,27,30,35,2,IDCBR_G27_T30,256,0c79dc4b1b4087f25dc77d11a3debcdf,False,True
+data/Good_png/IDCBR_24.png,1,circle_grid,3,regular,IDCBR,24,27,30,40,2,IDCBR_G27_T30,256,405335134cbc3beb0697f0402095b49c,False,True
+data/Good_png/IDCBR_27.png,1,circle_grid,3,regular,IDCBR,27,27,30,45,3,IDCBR_G27_T30,256,a98032895f7c8321c112b7e1cebb7cb9,False,True
+data/Good_png/IDCBR_29.png,1,circle_grid,3,regular,IDCBR,29,27,30,50,4,IDCBR_G27_T30,256,866821561ea539f959ce9e9005cee11a,False,True
+data/Good_png/IDCBR_30.png,1,circle_grid,3,regular,IDCBR,30,27,30,55,4,IDCBR_G27_T30,256,39179aa5190171df85d1351d5b063ddc,False,True
+data/Good_png/IDCBR_31.png,1,circle_grid,3,regular,IDCBR,31,27,30,35,5,IDCBR_G27_T30,256,50917481b63f4e16e24fd4674c569a1d,False,True
+data/Good_png/IDCBR_32.png,1,circle_grid,3,regular,IDCBR,32,27,30,40,5,IDCBR_G27_T30,256,1a80d2fcb8c92028f7f4d36c5ede29fa,False,True
+data/Good_png/IDCBR_35.png,1,circle_grid,3,regular,IDCBR,35,27,30,40,6,IDCBR_G27_T30,256,d11576df79ce47ed198e0ca16f66c021,False,True
+data/Good_png/IDCBR_38.png,1,circle_grid,3,regular,IDCBR,38,25,30,25,1,IDCBR_G25_T30,256,2ad491a76846f7118a9098a7d10b627c,False,True
+data/Good_png/IDCBR_39.png,1,circle_grid,3,regular,IDCBR,39,25,30,30,1,IDCBR_G25_T30,256,359d48f147c28bb70a0b38007cdabd12,False,True
+data/Good_png/IDCBR_41.png,1,circle_grid,3,regular,IDCBR,41,25,30,25,2,IDCBR_G25_T30,256,729b4573ac12a954f7e1a8d18d55d708,False,True
+data/Good_png/IDCBR_42.png,1,circle_grid,3,regular,IDCBR,42,25,30,30,2,IDCBR_G25_T30,256,c82491ac26756b71950aa09494c732c3,False,True
+data/Good_png/IDCBR_46.png,1,circle_grid,3,regular,IDCBR,46,25,30,30,4,IDCBR_G25_T30,256,246acef9a8436257d92847ee1782dd9f,False,True
+data/Good_png/IDCBR_47.png,1,circle_grid,3,regular,IDCBR,47,25,30,35,4,IDCBR_G25_T30,256,66d10a23b394737652b6e0f38eb43d82,False,True
+data/Good_png/IDCBR_51.png,1,circle_grid,3,regular,IDCBR,51,25,30,40,5,IDCBR_G25_T30,256,657050aa0cf53d3bf80123a5fdca243d,False,True
+data/Good_png/IDCBR_53.png,1,circle_grid,3,regular,IDCBR,53,25,30,35,6,IDCBR_G25_T30,256,b0a98bda2d0d36ff6473951ed11e5c93,False,True
+data/Good_png/IDCBR_54.png,1,circle_grid,3,regular,IDCBR,54,25,30,40,6,IDCBR_G25_T30,256,31185358475b67648f07768596a56bfe,False,True
+data/Good_png/IDCBR_56.png,1,circle_grid,3,regular,IDCBR,56,25,35,25,1,IDCBR_G25_T35,256,6ef6c2268bc58da741ba404587bc55e6,False,True
+data/Good_png/IDCBR_57.png,1,circle_grid,3,regular,IDCBR,57,25,35,30,1,IDCBR_G25_T35,256,51794a584a81011fccc4c1a4c18fa012,False,True
+data/Good_png/IDCBR_59.png,1,circle_grid,3,regular,IDCBR,59,25,35,25,2,IDCBR_G25_T35,256,d64079df3637e29c3ceb36f64fe4444a,False,True
+data/Good_png/IDCBR_60.png,1,circle_grid,3,regular,IDCBR,60,25,35,30,2,IDCBR_G25_T35,256,28b53e18a9eedd564a83e9757526006e,False,True
+data/Good_png/IDCBR_61.png,1,circle_grid,3,regular,IDCBR,61,25,35,30,3,IDCBR_G25_T35,256,4e7ac8e71979bf28579f5573af236ab7,False,True
+data/Good_png/IDCBR_62.png,1,circle_grid,3,regular,IDCBR,62,25,35,35,3,IDCBR_G25_T35,256,6b81a3d381012d452ccbb3d1a079a475,False,True
+data/Good_png/IDCBR_63.png,1,circle_grid,3,regular,IDCBR,63,25,35,40,3,IDCBR_G25_T35,256,2cfa25899d9f1daaf0d9e1150bce8e18,False,True
+data/Good_png/IDCBR_65.png,1,circle_grid,3,regular,IDCBR,65,25,35,35,4,IDCBR_G25_T35,256,352401e719e1c1e8642478bae44be504,False,True
+data/Good_png/IDCBR_68.png,1,circle_grid,3,regular,IDCBR,68,25,35,40,5,IDCBR_G25_T35,256,bd517c1049693334657c5eca264195bf,False,True
+data/Good_png/IDCBR_69.png,1,circle_grid,3,regular,IDCBR,69,25,35,45,5,IDCBR_G25_T35,256,154a05476ecc614d537dfdf25800d89c,False,True
+data/Good_png/IDCBR_70.png,1,circle_grid,3,regular,IDCBR,70,25,35,35,6,IDCBR_G25_T35,256,c42003edd3a59145213111eebce92200,False,True
+data/Good_png/IDCBR_72.png,1,circle_grid,3,regular,IDCBR,72,25,35,45,6,IDCBR_G25_T35,256,96edda322ccee1c28a8a9792771d5f47,False,True
+data/Good_png/IDCBR_74.png,1,circle_grid,3,regular,IDCBR,74,30,35,45,6,IDCBR_G30_T35,256,8ed59e3e32a3ec73ae5910db707489ff,False,True
+data/Good_png/IDCBR_76.png,1,circle_grid,3,regular,IDCBR,76,30,35,40,5,IDCBR_G30_T35,256,833461fc3f59138839e0ca0801d3ff30,False,True
+data/Good_png/IDCBR_77.png,1,circle_grid,3,regular,IDCBR,77,30,35,45,5,IDCBR_G30_T35,256,c91fde2716dd61a573850a81762ba3ec,False,True
+data/Good_png/IDCBR_80.png,1,circle_grid,3,regular,IDCBR,80,30,35,40,4,IDCBR_G30_T35,256,4f8bc90830ae98fa1473d8033efd6a92,False,True
+data/Good_png/IDCBR_83.png,1,circle_grid,3,regular,IDCBR,83,30,35,40,3,IDCBR_G30_T35,256,fe6db952d236b29fed37fffef0894306,False,True
+data/Good_png/IDCBR_84.png,1,circle_grid,3,regular,IDCBR,84,30,35,45,3,IDCBR_G30_T35,256,f2d21da9b295375ca87684cdde9d16e8,False,True
+data/Good_png/IDCBR_86.png,1,circle_grid,3,regular,IDCBR,86,30,35,35,2,IDCBR_G30_T35,256,9401970a281dc45e4b7a4c47b2414cb6,False,True
+data/Good_png/IDCBR_91.png,1,circle_grid,3,regular,IDCBR,91,30,30,55,6,IDCBR_G30_T30,256,68d9bc9767896ee4cb4c092dd2181916,False,True
+data/Good_png/IDCBR_92.png,1,circle_grid,3,regular,IDCBR,92,30,30,60,6,IDCBR_G30_T30,256,5a031fb6755d4d710038d5877933809c,False,True
+data/Good_png/IDCBR_95.png,1,circle_grid,3,regular,IDCBR,95,30,30,60,5,IDCBR_G30_T30,256,c1d2dd833e1fdc772588d1c9211aeec7,False,True
+data/Good_png/IDCBR_96.png,1,circle_grid,3,regular,IDCBR,96,30,30,65,5,IDCBR_G30_T30,256,ef8ca482dc0333cecc69822552b9b715,False,True
+data/Good_png/IDCBR_97.png,1,circle_grid,3,regular,IDCBR,97,30,30,50,4,IDCBR_G30_T30,256,e3218a101646ba2b599ae1619203e6aa,False,True
+data/Good_png/IDCBR_98.png,1,circle_grid,3,regular,IDCBR,98,30,30,55,4,IDCBR_G30_T30,256,3b8c001b2c3981d58b9ae8ea536f1037,False,True
+data/Good_png/IDCBR_99.png,1,circle_grid,3,regular,IDCBR,99,30,30,60,4,IDCBR_G30_T30,256,222bcac7925832b3574cbc3f3c6f7846,False,True
+data/Good_png/IDCB_103.png,1,circle_grid,3,tapered,IDCB,103,25,30,25,5,IDCB_G25_T30,256,723e84dc7310bda0a227816b6cd3970c,False,True
+data/Good_png/IDCB_104.png,1,circle_grid,3,tapered,IDCB,104,25,30,30,5,IDCB_G25_T30,256,74a09b73a6202cc0752b21d489cdae89,False,True
+data/Good_png/IDCB_105.png,1,circle_grid,3,tapered,IDCB,105,25,30,35,5,IDCB_G25_T30,256,d3ba7fa64780472a2878026982bd5305,False,True
+data/Good_png/IDCB_106.png,1,circle_grid,3,tapered,IDCB,106,25,30,25,6,IDCB_G25_T30,256,8e17658b1ef78bd20441684a03ea50a8,False,True
+data/Good_png/IDCB_107.png,1,circle_grid,3,tapered,IDCB,107,25,30,30,6,IDCB_G25_T30,256,0a14b1555f032288af5b7a54e2c22313,False,True
+data/Good_png/IDCB_108.png,1,circle_grid,3,tapered,IDCB,108,25,30,35,6,IDCB_G25_T30,256,46eafd4e91a0791b75ff212f6b3c9ddf,False,True
+data/Good_png/IDCB_11.png,1,circle_grid,3,tapered,IDCB,11,27,25,15,4,IDCB_G27_T25,256,b0f07b81279bbd0786927250181f81eb,False,True
+data/Good_png/IDCB_12.png,1,circle_grid,3,tapered,IDCB,12,27,25,20,4,IDCB_G27_T25,256,90e14ab3484cc49c1a47b5c9f135c94a,False,True
+data/Good_png/IDCB_13.png,1,circle_grid,3,tapered,IDCB,13,27,25,10,5,IDCB_G27_T25,256,6714c19427d3e3aebf03352317ce5388,False,True
+data/Good_png/IDCB_16.png,1,circle_grid,3,tapered,IDCB,16,27,25,10,6,IDCB_G27_T25,256,00606762c97c7b82356e0e19c7fcdbf7,False,True
+data/Good_png/IDCB_18.png,1,circle_grid,3,tapered,IDCB,18,27,25,20,6,IDCB_G27_T25,256,61e0b2b568cab2c09736c6b3bf230a00,False,True
+data/Good_png/IDCB_20.png,1,circle_grid,3,tapered,IDCB,20,27,30,15,1,IDCB_G27_T30,256,6c697c84b6a9fc52043a564b0457c91e,False,True
+data/Good_png/IDCB_21.png,1,circle_grid,3,tapered,IDCB,21,27,30,20,1,IDCB_G27_T30,256,3084914313a115b3b94c5c916ebc3f26,False,True
+data/Good_png/IDCB_22.png,1,circle_grid,3,tapered,IDCB,22,27,30,10,2,IDCB_G27_T30,256,8f1acb8a872553a99652f3e8ecc18a44,False,True
+data/Good_png/IDCB_23.png,1,circle_grid,3,tapered,IDCB,23,27,30,15,2,IDCB_G27_T30,256,57fb1dd9fdc37c1a9036ab26e251132a,False,True
+data/Good_png/IDCB_26.png,1,circle_grid,3,tapered,IDCB,26,27,30,15,3,IDCB_G27_T30,256,8492cd9b57f79b67dc31a24275bf2a30,False,True
+data/Good_png/IDCB_29.png,1,circle_grid,3,tapered,IDCB,29,27,30,15,4,IDCB_G27_T30,256,1b2226f59537a3d04dc35d8b96266e65,False,True
+data/Good_png/IDCB_30.png,1,circle_grid,3,tapered,IDCB,30,27,30,20,4,IDCB_G27_T30,256,049ce45baa080e7dd2a6d1c8cdb25356,False,True
+data/Good_png/IDCB_31.png,1,circle_grid,3,tapered,IDCB,31,27,30,10,5,IDCB_G27_T30,256,aeed6c6a8de2f9bbc7f2233b12ffd46f,False,True
+data/Good_png/IDCB_32.png,1,circle_grid,3,tapered,IDCB,32,27,30,15,5,IDCB_G27_T30,256,1853bf4d480b4355edd950721d4458e4,False,True
+data/Good_png/IDCB_33.png,1,circle_grid,3,tapered,IDCB,33,27,30,20,5,IDCB_G27_T30,256,7a096b7535c1c24f935f796416383f42,False,True
+data/Good_png/IDCB_34.png,1,circle_grid,3,tapered,IDCB,34,27,30,10,6,IDCB_G27_T30,256,76d3e3d930d37ac99f2f690f4d572866,False,True
+data/Good_png/IDCB_35.png,1,circle_grid,3,tapered,IDCB,35,27,30,15,6,IDCB_G27_T30,256,83f313246a029288605ed90c3cecae82,False,True
+data/Good_png/IDCB_36.png,1,circle_grid,3,tapered,IDCB,36,27,30,20,6,IDCB_G27_T30,256,466eac6f5ec9d8cb53608f553e051a55,False,True
+data/Good_png/IDCB_38.png,1,circle_grid,3,tapered,IDCB,38,30,30,20,1,IDCB_G30_T30,256,5826b65d287ce3d14d5d32613611b3d8,False,True
+data/Good_png/IDCB_40.png,1,circle_grid,3,tapered,IDCB,40,30,30,25,2,IDCB_G30_T30,256,f7bef463193a801d247503ed03afaba4,False,True
+data/Good_png/IDCB_41.png,1,circle_grid,3,tapered,IDCB,41,30,30,20,2,IDCB_G30_T30,256,d78a4b9fe55818253228c6bed57a5a78,False,True
+data/Good_png/IDCB_43.png,1,circle_grid,3,tapered,IDCB,43,30,30,25,3,IDCB_G30_T30,256,867c086c0d091a2bd848e3aed194ad86,False,True
+data/Good_png/IDCB_44.png,1,circle_grid,3,tapered,IDCB,44,30,30,20,3,IDCB_G30_T30,256,3bf1a06330f505a7de81866dac174021,False,True
+data/Good_png/IDCB_45.png,1,circle_grid,3,tapered,IDCB,45,30,30,15,3,IDCB_G30_T30,256,8e3430602792ef5c681a7fd7848094e8,False,True
+data/Good_png/IDCB_48.png,1,circle_grid,3,tapered,IDCB,48,30,30,10,4,IDCB_G30_T30,256,c33651c122c3a794151418aeca0a3e3b,False,True
+data/Good_png/IDCB_50.png,1,circle_grid,3,tapered,IDCB,50,30,30,15,5,IDCB_G30_T30,256,52e6f66d5ea2515dc9193ac45eb2954e,False,True
+data/Good_png/IDCB_52.png,1,circle_grid,3,tapered,IDCB,52,30,30,20,6,IDCB_G30_T30,256,ed91ed6b7e5654a818d9cb32a7c93dae,False,True
+data/Good_png/IDCB_60.png,1,circle_grid,3,tapered,IDCB,60,30,25,20,2,IDCB_G30_T25,256,3538b8045b5a1808c96670275ce9fc50,False,True
+data/Good_png/IDCB_63.png,1,circle_grid,3,tapered,IDCB,63,30,25,20,3,IDCB_G30_T25,256,988867e6a3eefdbf417e4073f8a3fc29,False,True
+data/Good_png/IDCB_64.png,1,circle_grid,3,tapered,IDCB,64,30,25,15,4,IDCB_G30_T25,256,312235001e3522326725987ae95a388d,False,True
+data/Good_png/IDCB_66.png,1,circle_grid,3,tapered,IDCB,66,30,25,25,4,IDCB_G30_T25,256,8ec7dfc9e3d1335ce30e5fd7401ebb8e,False,True
+data/Good_png/IDCB_68.png,1,circle_grid,3,tapered,IDCB,68,30,25,20,5,IDCB_G30_T25,256,8c4575612021a2b4e074d178cfad0419,False,True
+data/Good_png/IDCB_71.png,1,circle_grid,3,tapered,IDCB,71,30,25,20,6,IDCB_G30_T25,256,76134c82b1be0182cf4609e1b6e109ef,False,True
+data/Good_png/IDCB_72.png,1,circle_grid,3,tapered,IDCB,72,30,25,25,6,IDCB_G30_T25,256,0625dd1e7b52054847bca8d1d8215480,False,True
+data/Good_png/IDCB_73.png,1,circle_grid,3,tapered,IDCB,73,25,25,10,1,IDCB_G25_T25,256,89bde6304ea83b4bb58d2e34a38335d6,False,True
+data/Good_png/IDCB_76.png,1,circle_grid,3,tapered,IDCB,76,25,25,10,2,IDCB_G25_T25,256,744e9280a923c8b37a5a545832c10c09,False,True
+data/Good_png/IDCB_77.png,1,circle_grid,3,tapered,IDCB,77,25,25,15,2,IDCB_G25_T25,256,e7e292efa556452a935882071b874fc7,False,True
+data/Good_png/IDCB_80.png,1,circle_grid,3,tapered,IDCB,80,25,25,15,3,IDCB_G25_T25,256,27655eb525144a374cc8aef9654cd942,False,True
+data/Good_png/IDCB_83.png,1,circle_grid,3,tapered,IDCB,83,25,25,15,4,IDCB_G25_T25,256,4a2208b35cf213234f5cf3abf3bb6046,False,True
+data/Good_png/IDCB_84.png,1,circle_grid,3,tapered,IDCB,84,25,25,20,4,IDCB_G25_T25,256,89cf123dcc1f652c2c2814eded21912d,False,True
+data/Good_png/IDCB_86.png,1,circle_grid,3,tapered,IDCB,86,25,25,15,5,IDCB_G25_T25,256,b5863c46878be53cfc5e0ca90c4ad462,False,True
+data/Good_png/IDCB_90.png,1,circle_grid,3,tapered,IDCB,90,25,25,20,6,IDCB_G25_T25,256,977e93a3b60e7c6635ac33dd4caf0180,False,True
+data/Good_png/IDCB_91.png,1,circle_grid,3,tapered,IDCB,91,25,30,25,1,IDCB_G25_T30,256,2a1594c4b3828767df8e18dacc6f121c,False,True
+data/Good_png/IDCB_92.png,1,circle_grid,3,tapered,IDCB,92,25,30,30,1,IDCB_G25_T30,256,b3a0b0879b73daee67c29be2308d3730,False,True
+data/Good_png/IDCB_94.png,1,circle_grid,3,tapered,IDCB,94,25,30,25,2,IDCB_G25_T30,256,87d44a34ad32f08b4ffeee2eeb78406a,False,True
+data/Good_png/IDCB_99.png,1,circle_grid,3,tapered,IDCB,99,25,30,35,3,IDCB_G25_T30,256,0fd7b07e4aaf5f233c64e219ae6fd2b6,False,True
+data/Good_png/IDCR_001.png,1,circle,2,regular,IDCR,1,27,35,30,1,IDCR_G27_T35,256,7a1ac80c035dfae65802dddb9edaf6d2,False,True
+data/Good_png/IDCR_03.png,1,circle,2,regular,IDCR,3,27,35,40,1,IDCR_G27_T35,256,481def436b4974c90141854b06c5c6b1,False,True
+data/Good_png/IDCR_09.png,1,circle,2,regular,IDCR,9,27,35,55,3,IDCR_G27_T35,256,2cec6d4fe4e34a56b67c9566c09ede22,False,True
+data/Good_png/IDCR_10.png,1,circle,2,regular,IDCR,10,27,35,45,4,IDCR_G27_T35,256,b4214baa710b20e5d4a8fbbd9b3cd6d4,False,True
+data/Good_png/IDCR_104.png,1,circle,2,regular,IDCR,104,30,30,50,2,IDCR_G30_T30,256,d213050f9d5caa4a1d6d7f9fa6dc71cc,False,True
+data/Good_png/IDCR_105.png,1,circle,2,regular,IDCR,105,30,30,55,2,IDCR_G30_T30,256,21607dd31da8255d1532eb4109349d60,False,True
+data/Good_png/IDCR_106.png,1,circle,2,regular,IDCR,106,30,30,45,1,IDCR_G30_T30,256,8eceaaf47ecd3e91437f8e8d42e5d6dd,False,True
+data/Good_png/IDCR_107.png,1,circle,2,regular,IDCR,107,30,30,50,1,IDCR_G30_T30,256,ce5ee19c74dba58c13bcee500695a45c,False,True
+data/Good_png/IDCR_108.png,1,circle,2,regular,IDCR,108,30,30,55,1,IDCR_G30_T30,256,24799b3154ce6ddd0568b1d7087e0384,False,True
+data/Good_png/IDCR_11.png,1,circle,2,regular,IDCR,11,27,35,50,4,IDCR_G27_T35,256,d383601b3c13b11961bfb2fa228ed612,False,True
+data/Good_png/IDCR_12.png,1,circle,2,regular,IDCR,12,27,35,55,4,IDCR_G27_T35,256,24087f9ce7f54cfa9f9cb7d5a127b612,False,True
+data/Good_png/IDCR_13.png,1,circle,2,regular,IDCR,13,27,35,45,5,IDCR_G27_T35,256,a419ebeae9eef54a6707405c938146c7,False,True
+data/Good_png/IDCR_14.png,1,circle,2,regular,IDCR,14,27,35,50,5,IDCR_G27_T35,256,92a88d8c11d7b7eb7a6f8707f19eb4a4,False,True
+data/Good_png/IDCR_16.png,1,circle,2,regular,IDCR,16,27,35,40,6,IDCR_G27_T35,256,a79b421fce1d551188a47a163ef74e26,False,True
+data/Good_png/IDCR_17.png,1,circle,2,regular,IDCR,17,27,35,45,6,IDCR_G27_T35,256,8bf0cd4d35eb4abced9f5467ae987723,False,True
+data/Good_png/IDCR_18.png,1,circle,2,regular,IDCR,18,27,35,55,6,IDCR_G27_T35,256,3f3de774316c36fb98e33a1fa9367383,False,True
+data/Good_png/IDCR_20.png,1,circle,2,regular,IDCR,20,27,30,30,1,IDCR_G27_T30,256,382ca722c6a1bc7ccf604ffb9b2ae0a9,False,True
+data/Good_png/IDCR_25.png,1,circle,2,regular,IDCR,25,27,30,35,3,IDCR_G27_T30,256,da3d4d647518063f00062b9721c5c35e,False,True
+data/Good_png/IDCR_26.png,1,circle,2,regular,IDCR,26,27,30,40,3,IDCR_G27_T30,256,931709dba0f4361700be09d95fb2ed5f,False,True
+data/Good_png/IDCR_28.png,1,circle,2,regular,IDCR,28,27,30,45,4,IDCR_G27_T30,256,e54d5a156383943c39557ed0575b9c6e,False,True
+data/Good_png/IDCR_29.png,1,circle,2,regular,IDCR,29,27,30,50,4,IDCR_G27_T30,256,aac617d8a029ee56380c12496d9fcb1d,False,True
+data/Good_png/IDCR_30.png,1,circle,2,regular,IDCR,30,27,30,55,4,IDCR_G27_T30,256,6fbc5507741f6fda92200d739507edd0,False,True
+data/Good_png/IDCR_31.png,1,circle,2,regular,IDCR,31,27,30,35,5,IDCR_G27_T30,256,6b1a9ce16aa9643eb4e5027a67686b87,False,True
+data/Good_png/IDCR_32.png,1,circle,2,regular,IDCR,32,27,30,40,5,IDCR_G27_T30,256,7120fb42a191d583e3823477d33c06c1,False,True
+data/Good_png/IDCR_34.png,1,circle,2,regular,IDCR,34,27,30,35,6,IDCR_G27_T30,256,63ee7a110549c5138ce9bc5315c42983,False,True
+data/Good_png/IDCR_44.png,1,circle,2,regular,IDCR,44,25,30,30,3,IDCR_G25_T30,256,e6b3604d4183a89ebaacde6d976c73da,False,True
+data/Good_png/IDCR_45.png,1,circle,2,regular,IDCR,45,25,30,35,3,IDCR_G25_T30,256,9f9b44ff38ad644f95bfcf7274797ddb,False,True
+data/Good_png/IDCR_46.png,1,circle,2,regular,IDCR,46,25,30,30,4,IDCR_G25_T30,256,59d227bd13b8aef3ed939cf4e4abb9f6,False,True
+data/Good_png/IDCR_47.png,1,circle,2,regular,IDCR,47,25,30,35,4,IDCR_G25_T30,256,426773e3786ced1bb095e9edd6875aeb,False,True
+data/Good_png/IDCR_49.png,1,circle,2,regular,IDCR,49,25,30,30,5,IDCR_G25_T30,256,345b89d4c5ffe3fe5ecbb72a74c4f1c9,False,True
+data/Good_png/IDCR_50.png,1,circle,2,regular,IDCR,50,25,30,35,5,IDCR_G25_T30,256,d2cce288fe56efd39068aaa5b8a7c502,False,True
+data/Good_png/IDCR_51.png,1,circle,2,regular,IDCR,51,25,30,40,5,IDCR_G25_T30,256,fb4945c44045813bf556bb2479c6bf0b,False,True
+data/Good_png/IDCR_52.png,1,circle,2,regular,IDCR,52,25,30,30,6,IDCR_G25_T30,256,d389554e38ad347eaf0c78f153b64d83,False,True
+data/Good_png/IDCR_55.png,1,circle,2,regular,IDCR,55,25,35,20,1,IDCR_G25_T35,256,436be209897d79007f9dcb54a5a97c63,False,True
+data/Good_png/IDCR_58.png,1,circle,2,regular,IDCR,58,25,35,20,2,IDCR_G25_T35,256,17f42ace088a57bd9c3193857b2d20eb,False,True
+data/Good_png/IDCR_64.png,1,circle,2,regular,IDCR,64,25,35,30,4,IDCR_G25_T35,256,6e1806110c876ee6e1c0ad60330ea1de,False,True
+data/Good_png/IDCR_65.png,1,circle,2,regular,IDCR,65,25,35,35,4,IDCR_G25_T35,256,1ea6b9add84ba4cefd4b7c9c71ee5b1d,False,True
+data/Good_png/IDCR_68.png,1,circle,2,regular,IDCR,68,25,35,40,5,IDCR_G25_T35,256,50bc7565d20378c7c805987dad8c8bf2,False,True
+data/Good_png/IDCR_71.png,1,circle,2,regular,IDCR,71,25,35,40,6,IDCR_G25_T35,256,950306624599201eb707d4dcd4b64419,False,True
+data/Good_png/IDCR_73.png,1,circle,2,regular,IDCR,73,30,35,40,6,IDCR_G30_T35,256,ccc62204403408bbf074b25f9746f9f0,False,True
+data/Good_png/IDCR_74.png,1,circle,2,regular,IDCR,74,30,35,45,6,IDCR_G30_T35,256,d599b306b0c82825e3289c888704eb23,False,True
+data/Good_png/IDCR_75.png,1,circle,2,regular,IDCR,75,30,35,50,6,IDCR_G30_T35,256,7ae28177cae17c1bbfb74bc5973e4db6,False,True
+data/Good_png/IDCR_76.png,1,circle,2,regular,IDCR,76,30,35,40,5,IDCR_G30_T35,256,e25ac04b0325339c4c3a35d2f7d0a673,False,True
+data/Good_png/IDCR_79.png,1,circle,2,regular,IDCR,79,30,35,35,4,IDCR_G30_T35,256,6a27df55977703c5427de1189857d388,False,True
+data/Good_png/IDCR_80.png,1,circle,2,regular,IDCR,80,30,35,40,4,IDCR_G30_T35,256,3d055506a934892c9e96de9755b205d4,False,True
+data/Good_png/IDCR_82.png,1,circle,2,regular,IDCR,82,30,35,35,3,IDCR_G30_T35,256,5a1dc1e90c01df15287a93e3fac76c3c,False,True
+data/Good_png/IDCR_84.png,1,circle,2,regular,IDCR,84,30,35,45,3,IDCR_G30_T35,256,f2ff085644d28cf58ef6630c5e6d75b7,False,True
+data/Good_png/IDCR_85.png,1,circle,2,regular,IDCR,85,30,35,30,2,IDCR_G30_T35,256,491748382c6ed021d2689d9ee035c24c,False,True
+data/Good_png/IDCR_86.png,1,circle,2,regular,IDCR,86,30,35,35,2,IDCR_G30_T35,256,5dec290eb8464e0ffec7a4e9f57856ae,False,True
+data/Good_png/IDCR_94.png,1,circle,2,regular,IDCR,94,30,30,55,5,IDCR_G30_T30,256,ec6ecc1d55c9086b098e73aacaa07660,False,True
+data/Good_png/IDCR_95.png,1,circle,2,regular,IDCR,95,30,30,60,5,IDCR_G30_T30,256,da7f953076037977602eab93a23467c8,False,True
+data/Good_png/IDCR_99.png,1,circle,2,regular,IDCR,99,30,30,60,4,IDCR_G30_T30,256,e4aeaecdd914fb5c38e34b8aecabd4a7,False,True
+data/Good_png/IDCT_01.png,1,circle,2,tapered,IDCT,1,27,25,15,1,IDCT_G27_T25,256,fd33a81c1439ed0be29724c99f28ea20,False,True
+data/Good_png/IDCT_02.png,1,circle,2,tapered,IDCT,2,27,25,20,1,IDCT_G27_T25,256,28156220f2a72fb968a2e09a14300744,False,True
+data/Good_png/IDCT_04.png,1,circle,2,tapered,IDCT,4,27,25,15,2,IDCT_G27_T25,256,83f14086c3e5facb991b7004e1437523,False,True
+data/Good_png/IDCT_05.png,1,circle,2,tapered,IDCT,5,27,25,20,2,IDCT_G27_T25,256,a8f80a4bb7860b379a74408cb4b79492,False,True
+data/Good_png/IDCT_06.png,1,circle,2,tapered,IDCT,6,27,25,25,2,IDCT_G27_T25,256,975d1384bbf292dab5ac588efd22a793,False,True
+data/Good_png/IDCT_07.png,1,circle,2,tapered,IDCT,7,27,25,15,3,IDCT_G27_T25,256,d1fa43fce6f4944a29e0fc9aae7d1624,False,True
+data/Good_png/IDCT_08.png,1,circle,2,tapered,IDCT,8,27,25,20,3,IDCT_G27_T25,256,2b83afc4309104b52ac7d40c8893451e,False,True
+data/Good_png/IDCT_09.png,1,circle,2,tapered,IDCT,9,27,25,25,3,IDCT_G27_T25,256,e13dd5630e781afd64e8fc7ddbb338d5,False,True
+data/Good_png/IDCT_10.png,1,circle,2,tapered,IDCT,10,27,25,10,4,IDCT_G27_T25,256,0b461e3c407e387678696910d8bf9bb4,False,True
+data/Good_png/IDCT_101.png,1,circle,2,tapered,IDCT,101,25,30,30,4,IDCT_G25_T30,256,e0271fe4da6c04612b9e11678f3841b7,False,True
+data/Good_png/IDCT_102.png,1,circle,2,tapered,IDCT,102,25,30,35,4,IDCT_G25_T30,256,7ec0fcdad77d3e3e7c997b1eecf78005,False,True
+data/Good_png/IDCT_104.png,1,circle,2,tapered,IDCT,104,25,30,30,5,IDCT_G25_T30,256,f05a9709b61950edc85ced7ac6d0f1f3,False,True
+data/Good_png/IDCT_105.png,1,circle,2,tapered,IDCT,105,25,30,35,5,IDCT_G25_T30,256,853e1e98fc265ff4980b93e4faa7aab1,False,True
+data/Good_png/IDCT_107.png,1,circle,2,tapered,IDCT,107,25,30,30,6,IDCT_G25_T30,256,63eb1c381f5913f292253a81c57de7ef,False,True
+data/Good_png/IDCT_108.png,1,circle,2,tapered,IDCT,108,25,30,35,6,IDCT_G25_T30,256,aa4187d87b7a4cf644fc2b3744fcc572,False,True
+data/Good_png/IDCT_12.png,1,circle,2,tapered,IDCT,12,27,25,20,4,IDCT_G27_T25,256,d0adca02731268d348b0f48b25f98a53,False,True
+data/Good_png/IDCT_14.png,1,circle,2,tapered,IDCT,14,27,25,15,5,IDCT_G27_T25,256,79b3c58bbdda5db5c13cd918e91722f0,False,True
+data/Good_png/IDCT_15.png,1,circle,2,tapered,IDCT,15,27,25,20,5,IDCT_G27_T25,256,391b1d98a2f8a1ef7dcec1e8ee811f12,False,True
+data/Good_png/IDCT_17.png,1,circle,2,tapered,IDCT,17,27,25,15,6,IDCT_G27_T25,256,b2569cdb8a41423c8716b228a271c7b4,False,True
+data/Good_png/IDCT_19.png,1,circle,2,tapered,IDCT,19,27,30,10,1,IDCT_G27_T30,256,46d3d9d02e2c8058d7a47ba402c80528,True,False
+data/Good_png/IDCT_20.png,1,circle,2,tapered,IDCT,20,27,30,15,1,IDCT_G27_T30,256,465c5b9843edb4f0be8d738bb77e9533,False,True
+data/Good_png/IDCT_21.png,1,circle,2,tapered,IDCT,21,27,30,20,1,IDCT_G27_T30,256,d6517abc8e61a5165ea4ce6bdf6d2a4f,False,True
+data/Good_png/IDCT_23.png,1,circle,2,tapered,IDCT,23,27,30,15,2,IDCT_G27_T30,256,2eb0c1d6c3cf7c757ea59334da64538d,False,True
+data/Good_png/IDCT_24.png,1,circle,2,tapered,IDCT,24,27,30,20,2,IDCT_G27_T30,256,54d00399e26e25b51bd41b3aca52dc4b,False,True
+data/Good_png/IDCT_26.png,1,circle,2,tapered,IDCT,26,27,30,15,3,IDCT_G27_T30,256,52356527f152b08272772b15cb052e80,False,True
+data/Good_png/IDCT_29.png,1,circle,2,tapered,IDCT,29,27,30,15,4,IDCT_G27_T30,256,06e09e35cf66bdeeab4c345318602273,False,True
+data/Good_png/IDCT_35.png,1,circle,2,tapered,IDCT,35,27,30,15,6,IDCT_G27_T30,256,01daf1b85ebaeed6f8de4e25a0961aa0,False,True
+data/Good_png/IDCT_36.png,1,circle,2,tapered,IDCT,36,27,30,20,6,IDCT_G27_T30,256,a24c5ab3862257c358f86655f5274752,False,True
+data/Good_png/IDCT_37.png,1,circle,2,tapered,IDCT,37,30,30,25,1,IDCT_G30_T30,256,a8bb9833f3357a827c839c574e2b9db8,False,True
+data/Good_png/IDCT_38.png,1,circle,2,tapered,IDCT,38,30,30,20,1,IDCT_G30_T30,256,cc7911f19bc93df19cf2e803d23695e3,False,True
+data/Good_png/IDCT_41.png,1,circle,2,tapered,IDCT,41,30,30,20,2,IDCT_G30_T30,256,dadb319c836e2d6471a0dbff02534427,False,True
+data/Good_png/IDCT_42.png,1,circle,2,tapered,IDCT,42,30,30,15,2,IDCT_G30_T30,256,e6b233a01d28d6ba537a1c12d975a3bc,False,True
+data/Good_png/IDCT_43.png,1,circle,2,tapered,IDCT,43,30,30,25,3,IDCT_G30_T30,256,712765718faabadd5fe1483ebdbd6707,False,True
+data/Good_png/IDCT_44.png,1,circle,2,tapered,IDCT,44,30,30,20,3,IDCT_G30_T30,256,5635b121d1b44cfd6e1aa435e79fe497,False,True
+data/Good_png/IDCT_46.png,1,circle,2,tapered,IDCT,46,30,30,20,4,IDCT_G30_T30,256,7b952a2da31a493068e2db5bf1960f44,False,True
+data/Good_png/IDCT_47.png,1,circle,2,tapered,IDCT,47,30,30,15,4,IDCT_G30_T30,256,14bbf20a3ca678c5312f43473d2a8cc1,False,True
+data/Good_png/IDCT_48.png,1,circle,2,tapered,IDCT,48,30,30,10,4,IDCT_G30_T30,256,63a1c78587bae6f5b8d6fe478ff88e97,False,True
+data/Good_png/IDCT_49.png,1,circle,2,tapered,IDCT,49,30,30,20,5,IDCT_G30_T30,256,62a4cf7f05055cffb1ec1fb2d8c1251f,False,True
+data/Good_png/IDCT_51.png,1,circle,2,tapered,IDCT,51,30,30,10,5,IDCT_G30_T30,256,aa4f2e6832ecdd416713ce760f964409,False,True
+data/Good_png/IDCT_54.png,1,circle,2,tapered,IDCT,54,30,30,10,6,IDCT_G30_T30,256,1e935ecd601e5a5adbb9a00a62508a11,False,True
+data/Good_png/IDCT_55.png,1,circle,2,tapered,IDCT,55,30,25,10,1,IDCT_G30_T25,256,667b01b09ba1b830fe4f7f4c6e8346dd,False,True
+data/Good_png/IDCT_56.png,1,circle,2,tapered,IDCT,56,30,25,15,1,IDCT_G30_T25,256,5277c0d257d2419b73fff7fe0736ff53,False,True
+data/Good_png/IDCT_58.png,1,circle,2,tapered,IDCT,58,30,25,10,2,IDCT_G30_T25,256,42b7b4f2aedec8ff583899c3dee828e3,False,True
+data/Good_png/IDCT_59.png,1,circle,2,tapered,IDCT,59,30,25,15,2,IDCT_G30_T25,256,c97981d8a18a7bd9affac96d5f974c23,False,True
+data/Good_png/IDCT_61.png,1,circle,2,tapered,IDCT,61,30,25,10,3,IDCT_G30_T25,256,9ecdbf2f02d2694fcb32083863227873,False,True
+data/Good_png/IDCT_62.png,1,circle,2,tapered,IDCT,62,30,25,15,3,IDCT_G30_T25,256,d063b737370b858200966f9bea717fcd,False,True
+data/Good_png/IDCT_63.png,1,circle,2,tapered,IDCT,63,30,25,20,3,IDCT_G30_T25,256,7fd90edf5dc368426343f445eb04caf6,False,True
+data/Good_png/IDCT_65.png,1,circle,2,tapered,IDCT,65,30,25,20,4,IDCT_G30_T25,256,33c4bdc256b05dd9617cf5e7af2ca03f,False,True
+data/Good_png/IDCT_68.png,1,circle,2,tapered,IDCT,68,30,25,20,5,IDCT_G30_T25,256,18b911a197947733184536b965b8a531,False,True
+data/Good_png/IDCT_71.png,1,circle,2,tapered,IDCT,71,30,25,20,6,IDCT_G30_T25,256,5470e9079f437463c04833bb721ca3c2,False,True
+data/Good_png/IDCT_84.png,1,circle,2,tapered,IDCT,84,25,25,20,4,IDCT_G25_T25,256,a58de37369a38913dab57870ea760afb,False,True
+data/Good_png/IDCT_87.png,1,circle,2,tapered,IDCT,87,25,25,20,5,IDCT_G25_T25,256,112ff5620a1afeb257074df237631727,False,True
+data/Good_png/IDCT_90.png,1,circle,2,tapered,IDCT,90,25,25,20,6,IDCT_G25_T25,256,45d013bf3bba14ab5f3edc1dc20fc0ef,False,True
+data/Good_png/IDCT_91.png,1,circle,2,tapered,IDCT,91,25,30,25,1,IDCT_G25_T30,256,b58b372249ed0e2aa3354d5b3eb1a556,False,True
+data/Good_png/IDCT_95.png,1,circle,2,tapered,IDCT,95,25,30,30,2,IDCT_G25_T30,256,62036d2b24013485be7196e779d060ba,False,True
+data/Good_png/IDCT_99.png,1,circle,2,tapered,IDCT,99,25,30,35,3,IDCT_G25_T30,256,7ef0aa8b92f1ac5a25a4a636a2263d18,False,True
+data/Good_png/IDSQR_ (25).png,1,square_grid,1,regular,IDSQR,25,27,30,50,3,IDSQR_G27_T30,512,7dbbb7460b74421fd483fc1e171d96e1,False,True
+data/Good_png/IDSQR_ (43).png,1,square_grid,1,regular,IDSQR,43,25,30,40,3,IDSQR_G25_T30,512,183c8e0263c2467145a5d596eef02a3f,False,True
+data/Good_png/IDSQR_ (44).png,1,square_grid,1,regular,IDSQR,44,25,30,35,3,IDSQR_G25_T30,512,61304a26dc94947c28e5683387904438,False,True
+data/Good_png/IDSQR_ (52).png,1,square_grid,1,regular,IDSQR,52,25,30,40,6,IDSQR_G25_T30,512,cbe94f46a4ee5803d2e5d52bc988dad3,False,True
+data/Good_png/IDSQR_ (53).png,1,square_grid,1,regular,IDSQR,53,25,30,35,6,IDSQR_G25_T30,512,b27bc7bbae8e8ad0623a0954cef5f240,False,True
+data/Good_png/IDSQR_ (56).png,1,square_grid,1,regular,IDSQR,56,25,35,35,4,IDSQR_G25_T35,512,ec2ca67bd2c123f2bb7abfc3acfa3330,False,True
+data/Good_png/IDSQR_ (61).png,1,square_grid,1,regular,IDSQR,61,25,35,40,6,IDSQR_G25_T35,512,856a61d55576f1c926cbfa022b783d79,False,True
+data/Good_png/IDSQR_ (62).png,1,square_grid,1,regular,IDSQR,62,25,35,35,6,IDSQR_G25_T35,512,b8445eac5ff39230d1cf6b4398047863,False,True
+data/Good_png/IDSQR_ (72).png,1,square_grid,1,regular,IDSQR,72,25,35,30,3,IDSQR_G25_T35,512,4e97caf56b42d65c3a781732d9b55d55,False,True
+data/Good_png/IDSQR_ (73).png,1,square_grid,1,regular,IDSQR,73,30,35,80,6,IDSQR_G30_T35,512,55ea3185e48ba50069189e01b04b11ef,False,True
+data/Good_png/IDSQR_ (76).png,1,square_grid,1,regular,IDSQR,76,30,35,80,5,IDSQR_G30_T35,512,d2c94701b4e349211772de47e59199ca,False,True
+data/Good_png/IDSR_01.png,1,line,0,regular,IDSR,1,27,35,20,1,IDSR_G27_T35,256,a1a827b962acb0600c96c305064ee9ae,False,True
+data/Good_png/IDSR_04.png,1,line,0,regular,IDSR,4,27,35,20,2,IDSR_G27_T35,256,f120ad99c7f8b87aeea1417a13db0260,False,True
+data/Good_png/IDSR_07.png,1,line,0,regular,IDSR,7,27,35,20,3,IDSR_G27_T35,256,393d88d8a2a33e2c7179fa978a7aba91,False,True
+data/Good_png/IDSR_08.png,1,line,0,regular,IDSR,8,27,35,25,3,IDSR_G27_T35,256,2e76515bfc817a7637a3619d77c87003,False,True
+data/Good_png/IDSR_10.png,1,line,0,regular,IDSR,10,27,35,20,4,IDSR_G27_T35,256,89a02c6e0728c13f2e5372d19c2d2fbc,False,True
+data/Good_png/IDSR_101.png,1,line,0,regular,IDSR,101,30,30,40,3,IDSR_G30_T30,256,6f5ca45bb028b21b341154978fed2b52,False,True
+data/Good_png/IDSR_102.png,1,line,0,regular,IDSR,102,30,30,45,3,IDSR_G30_T30,256,6f7f10197676f0d86a8b33f33a617831,False,True
+data/Good_png/IDSR_103.png,1,line,0,regular,IDSR,103,30,30,25,2,IDSR_G30_T30,256,844fe6f87c258692a8b5b503f286fe04,False,True
+data/Good_png/IDSR_104.png,1,line,0,regular,IDSR,104,30,30,30,2,IDSR_G30_T30,256,4be4e7e4a9af6baddca59fbb57399367,False,True
+data/Good_png/IDSR_105.png,1,line,0,regular,IDSR,105,30,30,35,2,IDSR_G30_T30,256,c46e6f8cce819c6a1789b5ec94ac5d5b,False,True
+data/Good_png/IDSR_107.png,1,line,0,regular,IDSR,107,30,30,30,1,IDSR_G30_T30,256,cfc54b3efd07751e6430b6b47c09bdc2,False,True
+data/Good_png/IDSR_14.png,1,line,0,regular,IDSR,14,27,35,25,5,IDSR_G27_T35,256,1171907391836b715c6dd951d9cd8705,False,True
+data/Good_png/IDSR_15.png,1,line,0,regular,IDSR,15,27,35,30,5,IDSR_G27_T35,256,a51735b7873697268580875395af9484,True,False
+data/Good_png/IDSR_17.png,1,line,0,regular,IDSR,17,27,35,25,6,IDSR_G27_T35,256,752f8803e79b7999e8b3d2ea4ef9eeee,False,True
+data/Good_png/IDSR_18.png,1,line,0,regular,IDSR,18,27,35,30,6,IDSR_G27_T35,256,6786d5dd658a9b4ee7e04367799a4195,False,True
+data/Good_png/IDSR_19.png,1,line,0,regular,IDSR,19,27,30,20,1,IDSR_G27_T30,256,ff81a9c8b942c2bef68b9c07d7e56aab,False,True
+data/Good_png/IDSR_23.png,1,line,0,regular,IDSR,23,27,30,25,2,IDSR_G27_T30,256,4f03415fc4ca7c815541f6abadc4bee3,False,True
+data/Good_png/IDSR_24.png,1,line,0,regular,IDSR,24,27,30,30,2,IDSR_G27_T30,256,6ed23b5dbf0a9cd13eb1b5a6f4616c3c,False,True
+data/Good_png/IDSR_25.png,1,line,0,regular,IDSR,25,27,30,35,3,IDSR_G27_T30,256,5bc5beae8fc945cf7066463286e447dd,False,True
+data/Good_png/IDSR_26.png,1,line,0,regular,IDSR,26,27,30,40,3,IDSR_G27_T30,256,e280cdf7383be40e83120b551018de82,False,True
+data/Good_png/IDSR_27.png,1,line,0,regular,IDSR,27,27,30,45,3,IDSR_G27_T30,256,9460050af02d5eb7db1a3df7c503e95c,False,True
+data/Good_png/IDSR_28.png,1,line,0,regular,IDSR,28,27,30,45,4,IDSR_G27_T30,256,480536959cbd7aec7cdba6659d87284f,False,True
+data/Good_png/IDSR_29.png,1,line,0,regular,IDSR,29,27,30,50,4,IDSR_G27_T30,256,434e8438b22713c4d035c690ebd2accb,False,True
+data/Good_png/IDSR_32.png,1,line,0,regular,IDSR,32,27,30,55,5,IDSR_G27_T30,256,7cde41cea6620b30d3db4130f10b59c8,False,True
+data/Good_png/IDSR_33.png,1,line,0,regular,IDSR,33,27,30,60,5,IDSR_G27_T30,256,0a28e266e27378c2e8e8a2b8088f2901,False,True
+data/Good_png/IDSR_34.png,1,line,0,regular,IDSR,34,27,30,55,6,IDSR_G27_T30,256,98dabaad3f58e903d0c098c92ee14577,False,True
+data/Good_png/IDSR_35.png,1,line,0,regular,IDSR,35,27,30,60,6,IDSR_G27_T30,256,4a138a79c5616b2ae011a3e57fd5c6a9,False,True
+data/Good_png/IDSR_41.png,1,line,0,regular,IDSR,41,25,30,30,2,IDSR_G25_T30,256,7dd3049ef65be7748251e439ddb14832,False,True
+data/Good_png/IDSR_43.png,1,line,0,regular,IDSR,43,25,30,30,3,IDSR_G25_T30,256,17da6a1e3425406287d841485d518338,False,True
+data/Good_png/IDSR_47.png,1,line,0,regular,IDSR,47,25,30,45,4,IDSR_G25_T30,256,82f8a166015e619d8ddc6cdd75a62be3,False,True
+data/Good_png/IDSR_51.png,1,line,0,regular,IDSR,51,25,30,50,5,IDSR_G25_T30,256,2a83a84c46834414c97418061d784ab2,False,True
+data/Good_png/IDSR_52.png,1,line,0,regular,IDSR,52,25,30,45,6,IDSR_G25_T30,256,b7017a5d6617bcbe4d7220b7e18696df,False,True
+data/Good_png/IDSR_53.png,1,line,0,regular,IDSR,53,25,30,50,6,IDSR_G25_T30,256,4cffe6ac0f45aa99efe651d03b53d9d4,False,True
+data/Good_png/IDSR_55.png,1,line,0,regular,IDSR,55,25,35,25,4,IDSR_G25_T35,256,e103a07db95037a952b38ac9924a44ff,False,True
+data/Good_png/IDSR_56.png,1,line,0,regular,IDSR,56,25,35,30,4,IDSR_G25_T35,256,3359bab9ab4debb1a12163da12d0f930,False,True
+data/Good_png/IDSR_58.png,1,line,0,regular,IDSR,58,25,35,30,5,IDSR_G25_T35,256,744a3016f0c58cb1cb28771c5b497631,False,True
+data/Good_png/IDSR_61.png,1,line,0,regular,IDSR,61,25,35,30,6,IDSR_G25_T35,256,66eb87e82c73a410fd0c708290088440,False,True
+data/Good_png/IDSR_65.png,1,line,0,regular,IDSR,65,25,35,20,1,IDSR_G25_T35,256,1b53b272651e47ea8a4a8937d182325d,False,True
+data/Good_png/IDSR_68.png,1,line,0,regular,IDSR,68,25,35,25,2,IDSR_G25_T35,256,8907733a6c6038be47a44a8f5e9f29fa,False,True
+data/Good_png/IDSR_70.png,1,line,0,regular,IDSR,70,25,35,25,3,IDSR_G25_T35,256,94f534954d486ff5ea6e2f7be59b6b5a,False,True
+data/Good_png/IDSR_71.png,1,line,0,regular,IDSR,71,25,35,30,3,IDSR_G25_T35,256,b93c752c9165743dc0df15017e3221db,False,True
+data/Good_png/IDSR_73.png,1,line,0,regular,IDSR,73,30,35,55,6,IDSR_G30_T35,256,1489ca94ee5ca4e86d3b64abbe8c4370,False,True
+data/Good_png/IDSR_74.png,1,line,0,regular,IDSR,74,30,35,60,6,IDSR_G30_T35,256,07ce57984906b3f19efb702937cc4fdf,False,True
+data/Good_png/IDSR_76.png,1,line,0,regular,IDSR,76,30,35,50,5,IDSR_G30_T35,256,5a768b060714cdd8ba93f0c7cc02365d,False,True
+data/Good_png/IDSR_77.png,1,line,0,regular,IDSR,77,30,35,55,5,IDSR_G30_T35,256,6c70f6001044c5cc92c23cf97297662f,False,True
+data/Good_png/IDSR_78.png,1,line,0,regular,IDSR,78,30,35,60,5,IDSR_G30_T35,256,ea50b3c403b5e86270efaa8822607f6d,False,True
+data/Good_png/IDSR_79.png,1,line,0,regular,IDSR,79,30,35,45,4,IDSR_G30_T35,256,1d61e05b1055a2f95219a5d2e606a24d,False,True
+data/Good_png/IDSR_80.png,1,line,0,regular,IDSR,80,30,35,50,4,IDSR_G30_T35,256,73c5fa0a0121994a473e600ad30ff6ca,False,True
+data/Good_png/IDSR_81.png,1,line,0,regular,IDSR,81,30,35,55,4,IDSR_G30_T35,256,927fed14e2c0a46204d4366987e9bf93,False,True
+data/Good_png/IDSR_83.png,1,line,0,regular,IDSR,83,30,35,45,1,IDSR_G30_T35,256,bdeaa6c7080189c202b09e372a351a0f,False,True
+data/Good_png/IDSR_87.png,1,line,0,regular,IDSR,87,30,35,50,2,IDSR_G30_T35,256,b6b74c1bb6378af5eccbc29eb044eef9,False,True
+data/Good_png/IDSR_89.png,1,line,0,regular,IDSR,89,30,35,50,3,IDSR_G30_T35,256,b11587abfea786fc944696067b839315,False,True
+data/Good_png/IDSR_90.png,1,line,0,regular,IDSR,90,30,35,55,3,IDSR_G30_T35,256,b51eeb9fab6623ee3dcf4644ede8c0fa,False,True
+data/Good_png/IDSR_91.png,1,line,0,regular,IDSR,91,30,30,50,6,IDSR_G30_T30,256,3ea1bf198ba14353465e2ba29c9ff0f9,False,True
+data/Good_png/IDSR_92.png,1,line,0,regular,IDSR,92,30,30,55,6,IDSR_G30_T30,256,6693c38efc082643c054aeb69f547089,False,True
+data/Good_png/IDSR_93.png,1,line,0,regular,IDSR,93,30,30,60,6,IDSR_G30_T30,256,7be2b6a573bff150e9871202259049d8,False,True
+data/Good_png/IDSR_94.png,1,line,0,regular,IDSR,94,30,30,45,5,IDSR_G30_T30,256,2a195f028cdfa5958df05c45c214240c,False,True
+data/Good_png/IDSR_95.png,1,line,0,regular,IDSR,95,30,30,50,5,IDSR_G30_T30,256,869ce96d75290243a118699404b15c18,False,True
+data/Good_png/IDSR_96.png,1,line,0,regular,IDSR,96,30,30,55,5,IDSR_G30_T30,256,b9d0d619d94999867b0eb5699f88ff26,False,True
+data/Good_png/IDSR_97.png,1,line,0,regular,IDSR,97,30,30,45,4,IDSR_G30_T30,256,e045bd2f519bf7bdea9e1b478197b133,False,True
+data/Good_png/IDSR_98.png,1,line,0,regular,IDSR,98,30,30,50,4,IDSR_G30_T30,256,9a7136edc7068c5e52dd1b5a886f90b3,False,True
+data/Good_png/IDSR_99.png,1,line,0,regular,IDSR,99,30,30,55,4,IDSR_G30_T30,256,72b60b36f73eda63e673bdc6905a0324,False,True
+data/Good_png/IDST_02.png,1,line,0,tapered,IDST,2,27,25,20,6,IDST_G27_T25,256,e155199f913052eb9e0f62a001ec6d40,False,True
+data/Good_png/IDST_03.png,1,line,0,tapered,IDST,3,27,25,25,6,IDST_G27_T25,256,6417d519de9aa061290ef2a97ceefa2f,False,True
+data/Good_png/IDST_05.png,1,line,0,tapered,IDST,5,27,25,20,5,IDST_G27_T25,256,6b7539fa622662f5cce38e0110e8c3dd,False,True
+data/Good_png/IDST_06.png,1,line,0,tapered,IDST,6,27,25,25,5,IDST_G27_T25,256,5414f1fbc5bd0a1ca99323232763d722,False,True
+data/Good_png/IDST_07.png,1,line,0,tapered,IDST,7,27,25,15,4,IDST_G27_T25,256,032aea91593ab79e8e2e0e5eb0ec1f87,False,True
+data/Good_png/IDST_09.png,1,line,0,tapered,IDST,9,27,25,25,4,IDST_G27_T25,256,08f3bcf218c51b631c3f518bbb9cdaf0,False,True
+data/Good_png/IDST_104.png,1,line,0,tapered,IDST,104,25,30,30,2,IDST_G25_T30,256,701e9cec0e768604c2d0b432a6353658,False,True
+data/Good_png/IDST_105.png,1,line,0,tapered,IDST,105,25,30,35,2,IDST_G25_T30,256,13ff6c077b03cc0592b7e00009583ebe,False,True
+data/Good_png/IDST_108.png,1,line,0,tapered,IDST,108,25,30,35,1,IDST_G25_T30,256,39b4953b468bd8965376feb3b7293c57,False,True
+data/Good_png/IDST_12.png,1,line,0,tapered,IDST,12,27,25,20,3,IDST_G27_T25,256,95294627b61350c06abb4e02103c586d,False,True
+data/Good_png/IDST_14.png,1,line,0,tapered,IDST,14,27,25,15,2,IDST_G27_T25,256,b3b89fe4fd3fa58f32c6aa4848e929b0,False,True
+data/Good_png/IDST_15.png,1,line,0,tapered,IDST,15,27,25,20,2,IDST_G27_T25,256,c533994fdbd87a908f81469090ed38bc,False,True
+data/Good_png/IDST_16.png,1,line,0,tapered,IDST,16,27,25,10,1,IDST_G27_T25,256,c194a5d3e09e7cdeea38eaec5ed09389,False,True
+data/Good_png/IDST_17.png,1,line,0,tapered,IDST,17,27,25,15,1,IDST_G27_T25,256,a12d9a5b18ea56e752dcc3e01e772252,False,True
+data/Good_png/IDST_20.png,1,line,0,tapered,IDST,20,27,30,15,6,IDST_G27_T30,256,d4a5a5ac53508c3e66f42d756b37c919,False,True
+data/Good_png/IDST_21.png,1,line,0,tapered,IDST,21,27,30,20,6,IDST_G27_T30,256,ef4c4aa746c6b69039fe18caca6f4372,False,True
+data/Good_png/IDST_22.png,1,line,0,tapered,IDST,22,27,30,10,5,IDST_G27_T30,256,32e18393facb9a86e730ae138ec42556,False,True
+data/Good_png/IDST_23.png,1,line,0,tapered,IDST,23,27,30,15,5,IDST_G27_T30,256,fe1da5032718d0396c52294a8e476f15,False,True
+data/Good_png/IDST_24.png,1,line,0,tapered,IDST,24,27,30,20,5,IDST_G27_T30,256,31bb18fc5b43a212514a8d580bc54b3b,False,True
+data/Good_png/IDST_25.png,1,line,0,tapered,IDST,25,27,30,10,4,IDST_G27_T30,256,d940f884d00f379e62a88b58e81d2be6,False,True
+data/Good_png/IDST_26.png,1,line,0,tapered,IDST,26,27,30,15,4,IDST_G27_T30,256,39155bd2504aa16a9ae934acf8e3ee27,False,True
+data/Good_png/IDST_27.png,1,line,0,tapered,IDST,27,27,30,20,4,IDST_G27_T30,256,eebe87a2d19ba0cf08a933fc5ab840ca,False,True
+data/Good_png/IDST_29.png,1,line,0,tapered,IDST,29,27,30,15,3,IDST_G27_T30,256,3e8790f1fbc53b7c1875a26c663eb36e,False,True
+data/Good_png/IDST_31.png,1,line,0,tapered,IDST,31,27,30,10,2,IDST_G27_T30,256,539863e9a0f4cef4b9bd04822b61f7c2,False,True
+data/Good_png/IDST_32.png,1,line,0,tapered,IDST,32,27,30,15,2,IDST_G27_T30,256,5a1c40122efdfec27535a4e178534afe,False,True
+data/Good_png/IDST_34.png,1,line,0,tapered,IDST,34,27,30,10,1,IDST_G27_T30,256,79f68f1c347cd53be3c377b4aa2b7c52,False,True
+data/Good_png/IDST_35.png,1,line,0,tapered,IDST,35,27,30,15,1,IDST_G27_T30,256,35b0c468a3a502f996fbda44dd7ab6d0,False,True
+data/Good_png/IDST_40.png,1,line,0,tapered,IDST,40,30,30,25,5,IDST_G30_T30,256,7e6e2db14d132010c29f65bb65658481,False,True
+data/Good_png/IDST_41.png,1,line,0,tapered,IDST,41,30,30,20,5,IDST_G30_T30,256,c2a076211f9a2fb33cc936ebdae45625,False,True
+data/Good_png/IDST_44.png,1,line,0,tapered,IDST,44,30,30,20,4,IDST_G30_T30,256,a09de05797b5bc5dd79e763d86cc75c4,False,True
+data/Good_png/IDST_45.png,1,line,0,tapered,IDST,45,30,30,15,4,IDST_G30_T30,256,d6d7c5ca63c825113394896d6ca062c4,False,True
+data/Good_png/IDST_46.png,1,line,0,tapered,IDST,46,30,30,20,3,IDST_G30_T30,256,e1e370c52d7ca4f4170e54bb24d8779c,False,True
+data/Good_png/IDST_49.png,1,line,0,tapered,IDST,49,30,30,20,2,IDST_G30_T30,256,093cef39ecf6dba80a1939f0d7b6706e,False,True
+data/Good_png/IDST_50.png,1,line,0,tapered,IDST,50,30,30,15,2,IDST_G30_T30,256,e094a6af6515320f01adf369b7aff3ff,False,True
+data/Good_png/IDST_51.png,1,line,0,tapered,IDST,51,30,30,10,2,IDST_G30_T30,256,7d883b3ffa3f49333ae26fb93cda6c54,False,True
+data/Good_png/IDST_52.png,1,line,0,tapered,IDST,52,30,30,20,1,IDST_G30_T30,256,34d8b4f297823e027d7d37bcbb7ed451,False,True
+data/Good_png/IDST_53.png,1,line,0,tapered,IDST,53,30,30,15,1,IDST_G30_T30,256,fc311e244099c23815723c5adb221fe2,False,True
+data/Good_png/IDST_54.png,1,line,0,tapered,IDST,54,30,30,10,1,IDST_G30_T30,256,6d8bb6305c68270f5a763e14337622db,False,True
+data/Good_png/IDST_56.png,1,line,0,tapered,IDST,56,30,25,15,6,IDST_G30_T25,256,00d748884f1ef7998a4b7c3cecb32c17,False,True
+data/Good_png/IDST_62.png,1,line,0,tapered,IDST,62,30,25,15,4,IDST_G30_T25,256,1af3536b56084f6f08a069935a1431f9,False,True
+data/Good_png/IDST_63.png,1,line,0,tapered,IDST,63,30,25,20,4,IDST_G30_T25,256,442750ccaaa53a83a06dc1b9033d665d,False,True
+data/Good_png/IDST_66.png,1,line,0,tapered,IDST,66,30,25,20,3,IDST_G30_T25,256,20a83c58b60740144c601242f62edfc0,False,True
+data/Good_png/IDST_68.png,1,line,0,tapered,IDST,68,30,25,15,2,IDST_G30_T25,256,8c0b30d7f41d96590f5b12a1747f95f7,False,True
+data/Good_png/IDST_71.png,1,line,0,tapered,IDST,71,30,25,15,1,IDST_G30_T25,256,224e5c4d8f5322673825bfa62df87b95,False,True
+data/Good_png/IDST_72.png,1,line,0,tapered,IDST,72,30,25,20,1,IDST_G30_T25,256,7ed0ae192a9f86b2b23b8de9d349d44e,False,True
+data/Good_png/IDST_74.png,1,line,0,tapered,IDST,74,25,25,20,6,IDST_G25_T25,256,3b9cccda4ac79c64ceb39c966c91e62b,False,True
+data/Good_png/IDST_75.png,1,line,0,tapered,IDST,75,25,25,25,6,IDST_G25_T25,256,676733f770db06d2bec8409349a22e98,False,True
+data/Good_png/IDST_77.png,1,line,0,tapered,IDST,77,25,25,20,5,IDST_G25_T25,256,e2e3628706026b0223921fe71437afc2,False,True
+data/Good_png/IDST_78.png,1,line,0,tapered,IDST,78,25,25,25,5,IDST_G25_T25,256,736aa3e5a764030a45b553a2b169c200,False,True
+data/Good_png/IDST_79.png,1,line,0,tapered,IDST,79,25,25,15,4,IDST_G25_T25,256,b71e9f36401ebdca583dfddf4272cd0a,False,True
+data/Good_png/IDST_80.png,1,line,0,tapered,IDST,80,25,25,20,4,IDST_G25_T25,256,697ed3572b6f133ebcd9ffa80f95c11a,False,True
+data/Good_png/IDST_83.png,1,line,0,tapered,IDST,83,25,25,30,3,IDST_G25_T25,256,d2fd04058b1f6200b8de9ebcf2d5c6ba,False,True
+data/Good_png/IDST_84.png,1,line,0,tapered,IDST,84,25,25,35,3,IDST_G25_T25,256,7710fc955f660d1609f8d50692487a0b,False,True
+data/Good_png/IDST_86.png,1,line,0,tapered,IDST,86,25,25,30,2,IDST_G25_T25,256,be562f08826ac233b21b5fd782e4f92f,False,True
+data/Good_png/IDST_89.png,1,line,0,tapered,IDST,89,25,25,30,1,IDST_G25_T25,256,e8bd63d9546383e0ec92244a0adea19b,False,True
+data/Good_png/IDST_92.png,1,line,0,tapered,IDST,92,25,30,30,6,IDST_G25_T30,256,b57798deb8fd256f741a1b14a43645d7,False,True
+data/Good_png/IDST_95.png,1,line,0,tapered,IDST,95,25,30,30,5,IDST_G25_T30,256,2e10daefbf13dce1e73d4d6cff6b345b,False,True
+data/Good_png/IDST_97.png,1,line,0,tapered,IDST,97,25,30,25,4,IDST_G25_T30,256,f8965a4106bf52ee1b18ccf4a593746b,False,True
+data/Good_png/IDST_98.png,1,line,0,tapered,IDST,98,25,30,30,4,IDST_G25_T30,256,82217a2324489b8db2ca287d941848e5,False,True
+data/Good_png/IDST_99.png,1,line,0,tapered,IDST,99,25,30,35,4,IDST_G25_T30,256,91d1426910a199c1c22adb92c8353005,False,True
+data/Good_png/ID_1.png,1,square_grid,1,tapered,ID,1,27,25,35,6,ID_G27_T25,512,1b98641a9f0039269ab156b168d3fd95,False,True
+data/Good_png/ID_11.png,1,square_grid,1,tapered,ID,11,27,25,30,3,ID_G27_T25,512,7429816001a0918ec7a226599e2ad3e2,False,True
+data/Good_png/ID_13.png,1,square_grid,1,tapered,ID,13,27,25,35,2,ID_G27_T25,512,351c6bc9f502fb317403b526bf269f5e,False,True
+data/Good_png/ID_14.png,1,square_grid,1,tapered,ID,14,27,25,30,2,ID_G27_T25,512,a5ddaf8fa0e4f10b83268d6d47d2b298,False,True
+data/Good_png/ID_16.png,1,square_grid,1,tapered,ID,16,27,25,35,1,ID_G27_T25,512,15dfa70d35b84f94009a375820d97492,False,True
+data/Good_png/ID_17.png,1,square_grid,1,tapered,ID,17,27,25,30,1,ID_G27_T25,512,e587100456c5c43856c5e5037c8f8222,False,True
+data/Good_png/ID_19.png,1,square_grid,1,tapered,ID,19,27,30,20,6,ID_G27_T30,512,108434751a8ed3aa6630621dc83ee2f2,False,True
+data/Good_png/ID_2.png,1,square_grid,1,tapered,ID,2,27,25,30,6,ID_G27_T25,512,0475cee9ebb5bbde20c1037d3c145a34,False,True
+data/Good_png/ID_20.png,1,square_grid,1,tapered,ID,20,27,30,15,6,ID_G27_T30,512,bb88bc60d56a10ff534eb370507788dd,False,True
+data/Good_png/ID_22.png,1,square_grid,1,tapered,ID,22,27,30,20,5,ID_G27_T30,512,156c92a358bb3c10a76ff9ae004fb61b,False,True
+data/Good_png/ID_32.png,1,square_grid,1,tapered,ID,32,27,30,15,2,ID_G27_T30,512,032578b86083e84079b4428474a232c6,False,True
+data/Good_png/ID_35.png,1,square_grid,1,tapered,ID,35,27,30,15,1,ID_G27_T30,512,ed8ed83ae44bb1c52702c88565313b37,False,True
+data/Good_png/ID_37.png,1,square_grid,1,tapered,ID,37,30,30,25,6,ID_G30_T30,512,361660332d05a3f8c65e04b792446144,False,True
+data/Good_png/ID_38.png,1,square_grid,1,tapered,ID,38,30,30,20,6,ID_G30_T30,512,dc4870555427295a4723c6e11cab1e3e,False,True
+data/Good_png/ID_4.png,1,square_grid,1,tapered,ID,4,27,25,35,5,ID_G27_T25,512,4236682220fd9e7da5ac9fe10a1d3013,False,True
+data/Good_png/ID_40.png,1,square_grid,1,tapered,ID,40,30,30,25,5,ID_G30_T30,512,b03e60c42142acf2582dd1c03242d8aa,False,True
+data/Good_png/ID_41.png,1,square_grid,1,tapered,ID,41,30,30,20,5,ID_G30_T30,512,bff9d665420b44cc089bd7e8e16130da,False,True
+data/Good_png/ID_43.png,1,square_grid,1,tapered,ID,43,30,30,25,4,ID_G30_T30,512,468d497d24f4c981af4e80f78dc83afb,False,True
+data/Good_png/ID_44.png,1,square_grid,1,tapered,ID,44,30,30,20,4,ID_G30_T30,512,b28b507e2ce2eb37d62cb83230126794,False,True
+data/Good_png/ID_47.png,1,square_grid,1,tapered,ID,47,30,30,15,3,ID_G30_T30,512,86a90cefffee83096ce03d723f9976ed,False,True
+data/Good_png/ID_5.png,1,square_grid,1,tapered,ID,5,27,25,30,5,ID_G27_T25,512,bbd2662d586791b01f31a55c52738497,False,True
+data/Good_png/ID_50.png,1,square_grid,1,tapered,ID,50,30,30,15,2,ID_G30_T30,512,865bcbbe22ca4a1399a487b44c5dba68,False,True
+data/Good_png/ID_52.png,1,square_grid,1,tapered,ID,52,30,30,20,1,ID_G30_T30,512,43b8be2d3ad5642b9b32e8b3ccc99b54,False,True
+data/Good_png/ID_53.png,1,square_grid,1,tapered,ID,53,30,30,15,1,ID_G30_T30,512,40728439605bbff576e097a3e1f362a9,False,True
+data/Good_png/ID_55.png,1,square_grid,1,tapered,ID,55,30,25,35,6,ID_G30_T25,512,f2071ac9627eb78dc3e28545e539d76c,False,True
+data/Good_png/ID_59.png,1,square_grid,1,tapered,ID,59,30,25,30,5,ID_G30_T25,512,bd834332d9fd608b083bd15dd1f55c50,False,True
+data/Good_png/ID_62.png,1,square_grid,1,tapered,ID,62,30,25,30,4,ID_G30_T25,512,7755d95793c69c2c3ebeaa745ee6f0ab,False,True
+data/Good_png/ID_65.png,1,square_grid,1,tapered,ID,65,30,25,25,3,ID_G30_T25,512,b436a1170bc458d85e4447ac29bc02df,False,True
+data/Good_png/ID_67.png,1,square_grid,1,tapered,ID,67,30,25,30,2,ID_G30_T25,512,cf88179d50352694e3f8a5b3367152fb,False,True
+data/Good_png/ID_68.png,1,square_grid,1,tapered,ID,68,30,25,25,2,ID_G30_T25,512,4d3629f93ce0a0fcfe03ae3608d93fe3,False,True
+data/Good_png/ID_7.png,1,square_grid,1,tapered,ID,7,27,25,35,4,ID_G27_T25,512,2511d659f0096e477aeba54b3be94ead,False,True
+data/Good_png/ID_70.png,1,square_grid,1,tapered,ID,70,30,25,30,1,ID_G30_T25,512,d213f012753c515799c47448b6d7176a,False,True
+data/Good_png/ID_71.png,1,square_grid,1,tapered,ID,71,30,25,25,1,ID_G30_T25,512,70a971fbdd45ddc7ba3177d0be52f391,False,True
+data/Good_png/ID_74.png,1,square_grid,1,tapered,ID,74,25,25,30,6,ID_G25_T25,256,43a2e16c215099901edbb5ee14d23aec,False,True
+data/Good_png/ID_77.png,1,square_grid,1,tapered,ID,77,25,25,30,5,ID_G25_T25,256,898ce5b9400c36dbd457606d166e01ec,False,True
+data/Good_png/ID_8.png,1,square_grid,1,tapered,ID,8,27,25,30,4,ID_G27_T25,512,91fb8e1af32e1b6b09632f7e5f4f37c2,False,True
+data/Good_png/ID_80.png,1,square_grid,1,tapered,ID,80,25,25,30,4,ID_G25_T25,256,7ec8eaf7b0129b3b73a0ec9ca61308fd,False,True
+data/Good_png/ID_91.png,1,square_grid,1,tapered,ID,91,25,30,25,6,ID_G25_T30,256,fbd97a95a73ce6a3751bfd8373d8a9db,False,True
+data/Bad_png/IDCBR_01.png,0,circle_grid,3,regular,IDCBR,1,27,35,30,1,IDCBR_G27_T35,256,b33714bf74c67814fb3ddb6577e4145a,False,True
+data/Bad_png/IDCBR_02.png,0,circle_grid,3,regular,IDCBR,2,27,35,35,1,IDCBR_G27_T35,256,e27c4b7067b66fb495a0c1d1957fa258,False,True
+data/Bad_png/IDCBR_04.png,0,circle_grid,3,regular,IDCBR,4,27,35,35,2,IDCBR_G27_T35,256,e5d529493760c73c53d16fd4da900dce,False,True
+data/Bad_png/IDCBR_05.png,0,circle_grid,3,regular,IDCBR,5,27,35,40,2,IDCBR_G27_T35,256,01ed316f14c3640074e0b7e0967cf55b,False,True
+data/Bad_png/IDCBR_06.png,0,circle_grid,3,regular,IDCBR,6,27,35,45,2,IDCBR_G27_T35,256,35c46b25dd1bae47bbbe22eaac6d149b,False,True
+data/Bad_png/IDCBR_07.png,0,circle_grid,3,regular,IDCBR,7,27,35,45,3,IDCBR_G27_T35,256,5bf8801bc00b932cbf4a4ee2b76aabf9,False,True
+data/Bad_png/IDCBR_09.png,0,circle_grid,3,regular,IDCBR,9,27,35,55,3,IDCBR_G27_T35,256,2cd3bf172b5459a9999ebcd976232765,False,True
+data/Bad_png/IDCBR_10.png,0,circle_grid,3,regular,IDCBR,10,27,35,45,4,IDCBR_G27_T35,256,6ab19514eaea6afe8240017c48a0b9b1,False,True
+data/Bad_png/IDCBR_12.png,0,circle_grid,3,regular,IDCBR,12,27,35,55,4,IDCBR_G27_T35,256,b1f988c432e4a5c10fd9e6ea64ed93ba,False,True
+data/Bad_png/IDCBR_13.png,0,circle_grid,3,regular,IDCBR,13,27,35,45,5,IDCBR_G27_T35,256,819099cc4c57f420fe2c25cc5e573098,False,True
+data/Bad_png/IDCBR_16.png,0,circle_grid,3,regular,IDCBR,16,27,35,40,6,IDCBR_G27_T35,256,872555790ff34842a7085d65074133c1,False,True
+data/Bad_png/IDCBR_18.png,0,circle_grid,3,regular,IDCBR,18,27,35,55,6,IDCBR_G27_T35,256,461f0ed2b4d7e2f5551249304b404824,False,True
+data/Bad_png/IDCBR_19.png,0,circle_grid,3,regular,IDCBR,19,27,30,25,1,IDCBR_G27_T30,256,4d2d16b80712ba53d5d27813cac177e2,False,True
+data/Bad_png/IDCBR_25.png,0,circle_grid,3,regular,IDCBR,25,27,30,35,3,IDCBR_G27_T30,256,51a6f5d58317d96f58a60ecae3f88f31,False,True
+data/Bad_png/IDCBR_26.png,0,circle_grid,3,regular,IDCBR,26,27,30,40,3,IDCBR_G27_T30,256,b0ce7de5ca4c5ebdc77a243ef31c52ec,False,True
+data/Bad_png/IDCBR_28.png,0,circle_grid,3,regular,IDCBR,28,27,30,45,4,IDCBR_G27_T30,256,0a63b6933271caf34c830dbc37bf8ed1,False,True
+data/Bad_png/IDCBR_33.png,0,circle_grid,3,regular,IDCBR,33,27,30,45,5,IDCBR_G27_T30,256,db4ed96b6197ede663dabfab024bf26c,False,True
+data/Bad_png/IDCBR_34.png,0,circle_grid,3,regular,IDCBR,34,27,30,35,6,IDCBR_G27_T30,256,951ea2f5f762d32da226445a30eb73f7,False,True
+data/Bad_png/IDCBR_36.png,0,circle_grid,3,regular,IDCBR,36,27,30,45,6,IDCBR_G27_T30,256,b58732fb981eaddd7d3ec6d0dcbdf36b,False,True
+data/Bad_png/IDCBR_37.png,0,circle_grid,3,regular,IDCBR,37,25,30,20,1,IDCBR_G25_T30,256,c30301c74ae70d186550ceef07bf72d3,False,True
+data/Bad_png/IDCBR_40.png,0,circle_grid,3,regular,IDCBR,40,25,30,20,2,IDCBR_G25_T30,256,0319bd4f141e1c729d3a46f55ee5bcd2,False,True
+data/Bad_png/IDCBR_43.png,0,circle_grid,3,regular,IDCBR,43,25,30,25,3,IDCBR_G25_T30,256,c4224ae02c3cb66edbe7efc1f4f7995a,False,True
+data/Bad_png/IDCBR_44.png,0,circle_grid,3,regular,IDCBR,44,25,30,30,3,IDCBR_G25_T30,256,25cc9ddefe9c7406a9828b1e1f77d735,False,True
+data/Bad_png/IDCBR_45.png,0,circle_grid,3,regular,IDCBR,45,25,30,35,3,IDCBR_G25_T30,256,394f3873db8e9ee96b5321ca038be8ca,False,True
+data/Bad_png/IDCBR_48.png,0,circle_grid,3,regular,IDCBR,48,25,30,40,4,IDCBR_G25_T30,256,0b56ff9b3ec17aca01ec5a8db13c7d6a,False,True
+data/Bad_png/IDCBR_49.png,0,circle_grid,3,regular,IDCBR,49,25,30,30,5,IDCBR_G25_T30,256,87b90ba8d066e9b371acb5c9d4e7997a,False,True
+data/Bad_png/IDCBR_50.png,0,circle_grid,3,regular,IDCBR,50,25,30,35,5,IDCBR_G25_T30,256,926d90eefa6658a5da3df79621135440,False,True
+data/Bad_png/IDCBR_52.png,0,circle_grid,3,regular,IDCBR,52,25,30,30,6,IDCBR_G25_T30,256,435ff056f1213d3e8eebac069ba74c7d,False,True
+data/Bad_png/IDCBR_55.png,0,circle_grid,3,regular,IDCBR,55,25,35,20,1,IDCBR_G25_T35,256,897a8fbed5b6ff0f4de5d10057759cbd,False,True
+data/Bad_png/IDCBR_58.png,0,circle_grid,3,regular,IDCBR,58,25,35,20,2,IDCBR_G25_T35,256,a79dc7d178f78bb8df13b9353b1af6c8,False,True
+data/Bad_png/IDCBR_64.png,0,circle_grid,3,regular,IDCBR,64,25,35,30,4,IDCBR_G25_T35,256,5755b143be364c23b7438b405a0aae0f,False,True
+data/Bad_png/IDCBR_66.png,0,circle_grid,3,regular,IDCBR,66,25,35,40,4,IDCBR_G25_T35,256,09c533f4637a7fc9125bdb5c2227bf48,False,True
+data/Bad_png/IDCBR_67.png,0,circle_grid,3,regular,IDCBR,67,25,35,35,5,IDCBR_G25_T35,256,29338a454a4af4ff97d10166e23631c6,False,True
+data/Bad_png/IDCBR_71.png,0,circle_grid,3,regular,IDCBR,71,25,35,40,6,IDCBR_G25_T35,256,7a0fed099474a95e45c60d855d0cface,False,True
+data/Bad_png/IDCBR_73.png,0,circle_grid,3,regular,IDCBR,73,30,35,40,6,IDCBR_G30_T35,256,4e66b5144d1acdf4919e8647ed5a3823,False,True
+data/Bad_png/IDCBR_75.png,0,circle_grid,3,regular,IDCBR,75,30,35,50,6,IDCBR_G30_T35,256,5d55307254ecf70bb780a49ece590618,False,True
+data/Bad_png/IDCBR_78.png,0,circle_grid,3,regular,IDCBR,78,30,35,50,5,IDCBR_G30_T35,256,879378e0b67f3927f00f41358046d10c,False,True
+data/Bad_png/IDCBR_79.png,0,circle_grid,3,regular,IDCBR,79,30,35,35,4,IDCBR_G30_T35,256,24fbb4384bbe58d5197f6c1281dd492c,False,True
+data/Bad_png/IDCBR_81.png,0,circle_grid,3,regular,IDCBR,81,30,35,45,4,IDCBR_G30_T35,256,c413e07ff4ead2f322d4d21389585863,False,True
+data/Bad_png/IDCBR_82.png,0,circle_grid,3,regular,IDCBR,82,30,35,35,3,IDCBR_G30_T35,256,ce4fedb371847793d7b61338b6ce4faf,False,True
+data/Bad_png/IDCBR_85.png,0,circle_grid,3,regular,IDCBR,85,30,35,30,2,IDCBR_G30_T35,256,1b1f0f8016d48810a565f4a689486e43,False,True
+data/Bad_png/IDCBR_87.png,0,circle_grid,3,regular,IDCBR,87,30,35,40,2,IDCBR_G30_T35,256,421bb9447fa0f4a69aea78bd05ce26ed,False,True
+data/Bad_png/IDCBR_88.png,0,circle_grid,3,regular,IDCBR,88,30,35,30,1,IDCBR_G30_T35,256,32367f85e5cc744e0306e86ad540958c,False,True
+data/Bad_png/IDCBR_89.png,0,circle_grid,3,regular,IDCBR,89,30,35,35,1,IDCBR_G30_T35,256,7bd74f716f2b133fbe38fcf563849846,False,True
+data/Bad_png/IDCBR_90.png,0,circle_grid,3,regular,IDCBR,90,30,35,40,1,IDCBR_G30_T35,256,5ba69d3fb0c96f4751451b5442e7aba9,False,True
+data/Bad_png/IDCBR_93.png,0,circle_grid,3,regular,IDCBR,93,30,30,65,6,IDCBR_G30_T30,256,ccaa2a649e90beca3a4a188948cd4a5f,False,True
+data/Bad_png/IDCBR_94.png,0,circle_grid,3,regular,IDCBR,94,30,30,55,5,IDCBR_G30_T30,256,36be82ca365780caafd0326ca6fef879,False,True
+data/Bad_png/IDCB_01.png,0,circle_grid,3,tapered,IDCB,1,27,25,15,1,IDCB_G27_T25,256,48aad23fd1852dad19933ee8f127172b,False,True
+data/Bad_png/IDCB_02.png,0,circle_grid,3,tapered,IDCB,2,27,25,20,1,IDCB_G27_T25,256,acc795b80c8cddbe4f44c0fd014421c5,False,True
+data/Bad_png/IDCB_03.png,0,circle_grid,3,tapered,IDCB,3,27,25,25,1,IDCB_G27_T25,256,5823963b69f8a3756bb5bccaf8f6bf8c,False,True
+data/Bad_png/IDCB_04.png,0,circle_grid,3,tapered,IDCB,4,27,25,15,2,IDCB_G27_T25,256,0d35793b8c947527e0630b457f0af3ba,False,True
+data/Bad_png/IDCB_05.png,0,circle_grid,3,tapered,IDCB,5,27,25,20,2,IDCB_G27_T25,256,d4bf4da671e03925f7a04be0e7857e7a,False,True
+data/Bad_png/IDCB_06.png,0,circle_grid,3,tapered,IDCB,6,27,25,25,2,IDCB_G27_T25,256,897cb12a63b4968130d9c4330162fe03,False,True
+data/Bad_png/IDCB_07.png,0,circle_grid,3,tapered,IDCB,7,27,25,15,3,IDCB_G27_T25,256,c40f326262edee79ebbe89e55169587c,False,True
+data/Bad_png/IDCB_08.png,0,circle_grid,3,tapered,IDCB,8,27,25,20,3,IDCB_G27_T25,256,9ddad80fb333587c06c5128f45cb1b53,False,True
+data/Bad_png/IDCB_09.png,0,circle_grid,3,tapered,IDCB,9,27,25,25,3,IDCB_G27_T25,256,694f230f5de871b36e233ce4dbe421e7,False,True
+data/Bad_png/IDCB_10.png,0,circle_grid,3,tapered,IDCB,10,27,25,10,4,IDCB_G27_T25,256,154e0a916d599a9b2444d3d83aba9965,False,True
+data/Bad_png/IDCB_100.png,0,circle_grid,3,tapered,IDCB,100,25,30,25,4,IDCB_G25_T30,256,286717c2fd6d2c55a0aab8a29c599781,False,True
+data/Bad_png/IDCB_101.png,0,circle_grid,3,tapered,IDCB,101,25,30,30,4,IDCB_G25_T30,256,7c0e30093fef08196e944c5044c8f2cf,False,True
+data/Bad_png/IDCB_102.png,0,circle_grid,3,tapered,IDCB,102,25,30,35,4,IDCB_G25_T30,256,7d927f73e1edba99c0e9635cb0082c6d,False,True
+data/Bad_png/IDCB_14.png,0,circle_grid,3,tapered,IDCB,14,27,25,15,5,IDCB_G27_T25,256,0a0deb21efbd4b23a237c6657117fd3e,False,True
+data/Bad_png/IDCB_15.png,0,circle_grid,3,tapered,IDCB,15,27,25,20,5,IDCB_G27_T25,256,a9dc25d29848372c493b7e836a45449d,False,True
+data/Bad_png/IDCB_17.png,0,circle_grid,3,tapered,IDCB,17,27,25,15,6,IDCB_G27_T25,256,8d7646cc2b03fad937c6ea6c863b4c5e,False,True
+data/Bad_png/IDCB_19.png,0,circle_grid,3,tapered,IDCB,19,27,30,10,1,IDCB_G27_T30,256,d4a95540d591d102f785166c4d1c8f4c,False,True
+data/Bad_png/IDCB_24.png,0,circle_grid,3,tapered,IDCB,24,27,30,20,2,IDCB_G27_T30,256,3f6dbe4e572e582760888d173f262127,False,True
+data/Bad_png/IDCB_25.png,0,circle_grid,3,tapered,IDCB,25,27,30,10,3,IDCB_G27_T30,256,d610da85c47b61ce001053fda14a929d,False,True
+data/Bad_png/IDCB_27.png,0,circle_grid,3,tapered,IDCB,27,27,30,20,3,IDCB_G27_T30,256,890e83114ea16a509e20f41edffd6d77,False,True
+data/Bad_png/IDCB_28.png,0,circle_grid,3,tapered,IDCB,28,27,30,10,4,IDCB_G27_T30,256,9bd5ca97f0cf6e35ff33087bda2e5977,False,True
+data/Bad_png/IDCB_37.png,0,circle_grid,3,tapered,IDCB,37,30,30,25,1,IDCB_G30_T30,256,57d73a0022e6ed0e5da1370a1da831d7,False,True
+data/Bad_png/IDCB_39.png,0,circle_grid,3,tapered,IDCB,39,30,30,15,1,IDCB_G30_T30,256,cd90ba42b0707d969fd19b33fbc103c2,False,True
+data/Bad_png/IDCB_42.png,0,circle_grid,3,tapered,IDCB,42,30,30,15,2,IDCB_G30_T30,256,486b5fda470dd449ff9081ac4bad0d80,False,True
+data/Bad_png/IDCB_46.png,0,circle_grid,3,tapered,IDCB,46,30,30,20,4,IDCB_G30_T30,256,43928b0ea6b3f5003e7d3e2d6343d12e,False,True
+data/Bad_png/IDCB_47.png,0,circle_grid,3,tapered,IDCB,47,30,30,15,4,IDCB_G30_T30,256,8bbacde7d6fb941111b8f1e45a8cf9f4,False,True
+data/Bad_png/IDCB_49.png,0,circle_grid,3,tapered,IDCB,49,30,30,20,5,IDCB_G30_T30,256,90366e9f5ed008bbb8b1e5e370715dae,False,True
+data/Bad_png/IDCB_51.png,0,circle_grid,3,tapered,IDCB,51,30,30,10,5,IDCB_G30_T30,256,8fba9dea313905ac30ba10035c9e4daf,False,True
+data/Bad_png/IDCB_53.png,0,circle_grid,3,tapered,IDCB,53,30,30,15,6,IDCB_G30_T30,256,ac7e2dd52c78402b2fff5b4205684c0f,False,True
+data/Bad_png/IDCB_54.png,0,circle_grid,3,tapered,IDCB,54,30,30,10,6,IDCB_G30_T30,256,d29085a9f36db10fb8cfcb9d40b1e407,False,True
+data/Bad_png/IDCB_55.png,0,circle_grid,3,tapered,IDCB,55,30,25,10,1,IDCB_G30_T25,256,26270d1d98c1bf318a11eb4ba8f0fe4d,False,True
+data/Bad_png/IDCB_56.png,0,circle_grid,3,tapered,IDCB,56,30,25,15,1,IDCB_G30_T25,256,44ad1591fbc0694412563f3a38b0e702,False,True
+data/Bad_png/IDCB_57.png,0,circle_grid,3,tapered,IDCB,57,30,25,20,1,IDCB_G30_T25,256,fdc53a19727970bf3861278d2a67f9cb,False,True
+data/Bad_png/IDCB_58.png,0,circle_grid,3,tapered,IDCB,58,30,25,10,2,IDCB_G30_T25,256,dd62e67442020b9aa40798bb08447b3d,False,True
+data/Bad_png/IDCB_59.png,0,circle_grid,3,tapered,IDCB,59,30,25,15,2,IDCB_G30_T25,256,a3ee5084d8186efdc918c30f99f2f4b3,False,True
+data/Bad_png/IDCB_61.png,0,circle_grid,3,tapered,IDCB,61,30,25,10,3,IDCB_G30_T25,256,f63e0211109a9f80d2350df00b6e7399,False,True
+data/Bad_png/IDCB_62.png,0,circle_grid,3,tapered,IDCB,62,30,25,15,3,IDCB_G30_T25,256,d9547a0940196931421073a18e6033f0,False,True
+data/Bad_png/IDCB_65.png,0,circle_grid,3,tapered,IDCB,65,30,25,20,4,IDCB_G30_T25,256,caa8b705e76404a38fcc6965f85b79ec,False,True
+data/Bad_png/IDCB_67.png,0,circle_grid,3,tapered,IDCB,67,30,25,15,5,IDCB_G30_T25,256,09653c6b22a28e03a751793d425cd1f2,False,True
+data/Bad_png/IDCB_69.png,0,circle_grid,3,tapered,IDCB,69,30,25,25,5,IDCB_G30_T25,256,c86bde07ea86b799e81b47f5c24ec2c0,False,True
+data/Bad_png/IDCB_70.png,0,circle_grid,3,tapered,IDCB,70,30,25,15,6,IDCB_G30_T25,256,72c209412033eef4af0b01d9583db6be,False,True
+data/Bad_png/IDCB_74.png,0,circle_grid,3,tapered,IDCB,74,25,25,15,1,IDCB_G25_T25,256,11a42200f297a7d6b5589d69a4a3d478,False,True
+data/Bad_png/IDCB_75.png,0,circle_grid,3,tapered,IDCB,75,25,25,20,1,IDCB_G25_T25,256,bea043363fe8b7ca25be2a3778e72b88,False,True
+data/Bad_png/IDCB_78.png,0,circle_grid,3,tapered,IDCB,78,25,25,20,2,IDCB_G25_T25,256,8aa9b975c27e260e9d820d39cadc964e,False,True
+data/Bad_png/IDCB_79.png,0,circle_grid,3,tapered,IDCB,79,25,25,10,3,IDCB_G25_T25,256,cf6d19b033641146985b2a6edc5bd3a0,False,True
+data/Bad_png/IDCB_81.png,0,circle_grid,3,tapered,IDCB,81,25,25,20,3,IDCB_G25_T25,256,b0b946b64c7d43f97d7ed6a2ee944838,False,True
+data/Bad_png/IDCB_82.png,0,circle_grid,3,tapered,IDCB,82,25,25,10,4,IDCB_G25_T25,256,601ad206cbaa7a47762af658e1c3089e,False,True
+data/Bad_png/IDCB_85.png,0,circle_grid,3,tapered,IDCB,85,25,25,10,5,IDCB_G25_T25,256,5e0a80b42b016773110a14bae2a9b09e,False,True
+data/Bad_png/IDCB_87.png,0,circle_grid,3,tapered,IDCB,87,25,25,20,5,IDCB_G25_T25,256,2beeb7c4e6fb8e33a3e218f2b97ffa17,False,True
+data/Bad_png/IDCB_88.png,0,circle_grid,3,tapered,IDCB,88,25,25,10,6,IDCB_G25_T25,256,b9545992462e9ed36497f21a454d28de,False,True
+data/Bad_png/IDCB_89.png,0,circle_grid,3,tapered,IDCB,89,25,25,15,6,IDCB_G25_T25,256,3f6fd146de321ef1d65340c3155e61ce,False,True
+data/Bad_png/IDCB_93.png,0,circle_grid,3,tapered,IDCB,93,25,30,35,1,IDCB_G25_T30,256,a50ab9a958b2cd65b6b6ab8d5aa00a78,False,True
+data/Bad_png/IDCB_95.png,0,circle_grid,3,tapered,IDCB,95,25,30,30,2,IDCB_G25_T30,256,a5e9c83f8c110a526f29578a1d1222b9,False,True
+data/Bad_png/IDCB_96.png,0,circle_grid,3,tapered,IDCB,96,25,30,35,2,IDCB_G25_T30,256,4fb4cda16f036987111b0f54cd537840,False,True
+data/Bad_png/IDCB_97.png,0,circle_grid,3,tapered,IDCB,97,25,30,25,3,IDCB_G25_T30,256,7f4344d8fbffeb6ebb4b6940a3867600,False,True
+data/Bad_png/IDCB_98.png,0,circle_grid,3,tapered,IDCB,98,25,30,30,3,IDCB_G25_T30,256,f0a7732bc5ef3454b824d02301538ca3,False,True
+data/Bad_png/IDCR_02.png,0,circle,2,regular,IDCR,2,27,35,35,1,IDCR_G27_T35,256,fea9f3e34d24d098ebd36d10bb9c49b2,False,True
+data/Bad_png/IDCR_04.png,0,circle,2,regular,IDCR,4,27,35,35,2,IDCR_G27_T35,256,137634cfb3d3fd31707701ab6bc5432c,False,True
+data/Bad_png/IDCR_05.png,0,circle,2,regular,IDCR,5,27,35,40,2,IDCR_G27_T35,256,e615835ba24b5440dc66131b6065f806,False,True
+data/Bad_png/IDCR_06.png,0,circle,2,regular,IDCR,6,27,35,45,2,IDCR_G27_T35,256,0b2876d509a2ba925a58e4aafc21a0d0,False,True
+data/Bad_png/IDCR_07.png,0,circle,2,regular,IDCR,7,27,35,45,3,IDCR_G27_T35,256,93f327e882aa50307ef22c5745251f38,False,True
+data/Bad_png/IDCR_08.png,0,circle,2,regular,IDCR,8,27,35,50,3,IDCR_G27_T35,256,fc9bbfe62facfc801796600895c5468d,False,True
+data/Bad_png/IDCR_100.png,0,circle,2,regular,IDCR,100,30,30,50,3,IDCR_G30_T30,256,64653361761416f0187747ad5f65ef0e,False,True
+data/Bad_png/IDCR_101.png,0,circle,2,regular,IDCR,101,30,30,55,3,IDCR_G30_T30,256,359087fc795fd75890e206045623dd37,False,True
+data/Bad_png/IDCR_102.png,0,circle,2,regular,IDCR,102,30,30,60,3,IDCR_G30_T30,256,aadccbb36ae69bb6570d1976c395fda9,False,True
+data/Bad_png/IDCR_103.png,0,circle,2,regular,IDCR,103,30,30,45,2,IDCR_G30_T30,256,935c2ec12993f081beaf3dc1a72ab9c7,False,True
+data/Bad_png/IDCR_15.png,0,circle,2,regular,IDCR,15,27,35,55,5,IDCR_G27_T35,256,e9bcf259a031a89fd7f7ce1a0f7a519e,False,True
+data/Bad_png/IDCR_19.png,0,circle,2,regular,IDCR,19,27,30,25,1,IDCR_G27_T30,256,455b3bcf2d866223410dd31b8939b0fe,False,True
+data/Bad_png/IDCR_21.png,0,circle,2,regular,IDCR,21,27,30,35,1,IDCR_G27_T30,256,c6f5f2bf054100d0ce0a53e29f8a6923,False,True
+data/Bad_png/IDCR_22.png,0,circle,2,regular,IDCR,22,27,30,30,2,IDCR_G27_T30,256,f04a8304fe712ab72eef2b80e71e83f5,False,True
+data/Bad_png/IDCR_23.png,0,circle,2,regular,IDCR,23,27,30,35,2,IDCR_G27_T30,256,760caad6ae3d7c74584373bc932144b6,False,True
+data/Bad_png/IDCR_24.png,0,circle,2,regular,IDCR,24,27,30,40,2,IDCR_G27_T30,256,3619b30b2e9226cd41e7f5dc0d9506a1,False,True
+data/Bad_png/IDCR_27.png,0,circle,2,regular,IDCR,27,27,30,45,3,IDCR_G27_T30,256,82ab136faae496f28e2e989dde1d204b,False,True
+data/Bad_png/IDCR_33.png,0,circle,2,regular,IDCR,33,27,30,45,5,IDCR_G27_T30,256,b2d571d52b92c2c7c2eb28af9783fdad,False,True
+data/Bad_png/IDCR_35.png,0,circle,2,regular,IDCR,35,27,30,40,6,IDCR_G27_T30,256,13527ceaecc00605929379585f3a5aa0,False,True
+data/Bad_png/IDCR_36.png,0,circle,2,regular,IDCR,36,27,30,45,6,IDCR_G27_T30,256,583eeab58bae9d0f9ce589679166ac6b,False,True
+data/Bad_png/IDCR_37.png,0,circle,2,regular,IDCR,37,25,30,20,1,IDCR_G25_T30,256,dab519b6467a7bdde68fed8debfd1a7d,False,True
+data/Bad_png/IDCR_38.png,0,circle,2,regular,IDCR,38,25,30,25,1,IDCR_G25_T30,256,1c5affb70d3697ecb6263ac31e90fe7c,False,True
+data/Bad_png/IDCR_39.png,0,circle,2,regular,IDCR,39,25,30,30,1,IDCR_G25_T30,256,7349782786be51ee157492bc56ad7d28,False,True
+data/Bad_png/IDCR_40.png,0,circle,2,regular,IDCR,40,25,30,20,2,IDCR_G25_T30,256,4a375c29d1d3af94edc066fcc1232f83,False,True
+data/Bad_png/IDCR_41.png,0,circle,2,regular,IDCR,41,25,30,25,2,IDCR_G25_T30,256,3540b709ba33805f85f83a6aebc8864b,False,True
+data/Bad_png/IDCR_42.png,0,circle,2,regular,IDCR,42,25,30,30,2,IDCR_G25_T30,256,03c213d13ab2b361919165946fa9717f,False,True
+data/Bad_png/IDCR_43.png,0,circle,2,regular,IDCR,43,25,30,25,3,IDCR_G25_T30,256,45098fa35a3af8e10a73233b7782346d,False,True
+data/Bad_png/IDCR_48.png,0,circle,2,regular,IDCR,48,25,30,40,4,IDCR_G25_T30,256,491502e4d6d32f2662d9d9c862334989,False,True
+data/Bad_png/IDCR_53.png,0,circle,2,regular,IDCR,53,25,30,35,6,IDCR_G25_T30,256,714ca2a8feaac7c22fe8a98ff65c9a03,False,True
+data/Bad_png/IDCR_54.png,0,circle,2,regular,IDCR,54,25,30,40,6,IDCR_G25_T30,256,57629d7d40da3fb7192b37047efcb2aa,False,True
+data/Bad_png/IDCR_56.png,0,circle,2,regular,IDCR,56,25,35,25,1,IDCR_G25_T35,256,ab63b4408d88a8e2467f2578a33fcbc5,False,True
+data/Bad_png/IDCR_57.png,0,circle,2,regular,IDCR,57,25,35,30,1,IDCR_G25_T35,256,63fde778d3d73e60d10208575d01a5b6,False,True
+data/Bad_png/IDCR_59.png,0,circle,2,regular,IDCR,59,25,35,25,2,IDCR_G25_T35,256,9ea9896ce796a239b16989784e7a8f21,False,True
+data/Bad_png/IDCR_60.png,0,circle,2,regular,IDCR,60,25,35,30,2,IDCR_G25_T35,256,4b5145464df6a3236093ffe846fd1507,False,True
+data/Bad_png/IDCR_61.png,0,circle,2,regular,IDCR,61,25,35,30,3,IDCR_G25_T35,256,a52fb75132fe4e79ad647aa584c7cd3d,False,True
+data/Bad_png/IDCR_62.png,0,circle,2,regular,IDCR,62,25,35,35,3,IDCR_G25_T35,256,1289a0bffe49eecb98e941c0f8884dab,False,True
+data/Bad_png/IDCR_63.png,0,circle,2,regular,IDCR,63,25,35,40,3,IDCR_G25_T35,256,487d206166f1b85fa3e8399d641bdc23,False,True
+data/Bad_png/IDCR_66.png,0,circle,2,regular,IDCR,66,25,35,40,4,IDCR_G25_T35,256,6c0d32da27adc61e00328698c1d9d58b,False,True
+data/Bad_png/IDCR_67.png,0,circle,2,regular,IDCR,67,25,35,35,5,IDCR_G25_T35,256,9a3d00e864b8a905259309a5d1b4ac6a,False,True
+data/Bad_png/IDCR_69.png,0,circle,2,regular,IDCR,69,25,35,45,5,IDCR_G25_T35,256,29beec895e2f977134472089ed1f23ae,False,True
+data/Bad_png/IDCR_70.png,0,circle,2,regular,IDCR,70,25,35,35,6,IDCR_G25_T35,256,af5f43536c3570713cac1c8b98befd5a,False,True
+data/Bad_png/IDCR_72.png,0,circle,2,regular,IDCR,72,25,35,45,6,IDCR_G25_T35,256,12d9d42218be2f4b199b8e01dd77c1c7,False,True
+data/Bad_png/IDCR_77.png,0,circle,2,regular,IDCR,77,30,35,45,5,IDCR_G30_T35,256,372cb6e883d93e0262fa60c710c337f5,False,True
+data/Bad_png/IDCR_78.png,0,circle,2,regular,IDCR,78,30,35,50,5,IDCR_G30_T35,256,82c9d15ba2ba80734ebea3257ef363bd,False,True
+data/Bad_png/IDCR_81.png,0,circle,2,regular,IDCR,81,30,35,45,4,IDCR_G30_T35,256,de898bda09a11576d567deeed7da3638,False,True
+data/Bad_png/IDCR_83.png,0,circle,2,regular,IDCR,83,30,35,40,3,IDCR_G30_T35,256,e2ac9f06a114f2f8c5f7eb15e968eb31,False,True
+data/Bad_png/IDCR_87.png,0,circle,2,regular,IDCR,87,30,35,40,2,IDCR_G30_T35,256,3f921d986bfcbb488a1bd1a25fd51bd7,False,True
+data/Bad_png/IDCR_88.png,0,circle,2,regular,IDCR,88,30,35,30,1,IDCR_G30_T35,256,1942064eeebfd8fec7f0ab66f3076326,False,True
+data/Bad_png/IDCR_89.png,0,circle,2,regular,IDCR,89,30,35,35,1,IDCR_G30_T35,256,a2d49f4e025b45ce0b478e516030d8d8,False,True
+data/Bad_png/IDCR_90.png,0,circle,2,regular,IDCR,90,30,35,40,1,IDCR_G30_T35,256,641740844e92d570e0d14abf8e1e81c1,False,True
+data/Bad_png/IDCR_91.png,0,circle,2,regular,IDCR,91,30,30,55,6,IDCR_G30_T30,256,13043311616f4e4ad6cba533bc7ef027,False,True
+data/Bad_png/IDCR_92.png,0,circle,2,regular,IDCR,92,30,30,60,6,IDCR_G30_T30,256,341397ef30ac9193339e8d1f8d0edd5f,False,True
+data/Bad_png/IDCR_93.png,0,circle,2,regular,IDCR,93,30,30,65,6,IDCR_G30_T30,256,efd908548e37a3e519afbf72ff04f39a,False,True
+data/Bad_png/IDCR_96.png,0,circle,2,regular,IDCR,96,30,30,65,5,IDCR_G30_T30,256,698c462d3cde2f22d793fc5315a33157,False,True
+data/Bad_png/IDCR_97.png,0,circle,2,regular,IDCR,97,30,30,50,4,IDCR_G30_T30,256,98ee816554409fa3fc55687bb776d545,False,True
+data/Bad_png/IDCR_98.png,0,circle,2,regular,IDCR,98,30,30,55,4,IDCR_G30_T30,256,cec8b78e6add07324d81385d8415f1de,False,True
+data/Bad_png/IDCT_03.png,0,circle,2,tapered,IDCT,3,27,25,25,1,IDCT_G27_T25,256,1777b5c7f3986a0383fc58eafab2b616,False,True
+data/Bad_png/IDCT_100.png,0,circle,2,tapered,IDCT,100,25,30,25,4,IDCT_G25_T30,256,4d8b2fb387c24e8fd78024b6800af9c3,False,True
+data/Bad_png/IDCT_103.png,0,circle,2,tapered,IDCT,103,25,30,25,5,IDCT_G25_T30,256,060dd6bcff5eeaca7c207414d2ae75e8,False,True
+data/Bad_png/IDCT_106.png,0,circle,2,tapered,IDCT,106,25,30,25,6,IDCT_G25_T30,256,d298aef7715a757e817ae11d043a4c52,False,True
+data/Bad_png/IDCT_11.png,0,circle,2,tapered,IDCT,11,27,25,15,4,IDCT_G27_T25,256,0ff2efc4d655cefc5b15bd09bfcca5ba,False,True
+data/Bad_png/IDCT_13.png,0,circle,2,tapered,IDCT,13,27,25,10,5,IDCT_G27_T25,256,8d7d098f366d650fef1e275173c6dd5a,False,True
+data/Bad_png/IDCT_16.png,0,circle,2,tapered,IDCT,16,27,25,10,6,IDCT_G27_T25,256,4387d4f4862ef617777d8e223141f168,False,True
+data/Bad_png/IDCT_18.png,0,circle,2,tapered,IDCT,18,27,25,20,6,IDCT_G27_T25,256,6437de7db82a8363fac72942953c1337,False,True
+data/Bad_png/IDCT_19.png,0,circle,2,tapered,IDCT,19,27,30,10,1,IDCT_G27_T30,256,46d3d9d02e2c8058d7a47ba402c80528,True,False
+data/Bad_png/IDCT_22.png,0,circle,2,tapered,IDCT,22,27,30,10,2,IDCT_G27_T30,256,09cd81cc83a14bf6af07121d30ec91f3,False,True
+data/Bad_png/IDCT_25.png,0,circle,2,tapered,IDCT,25,27,30,10,3,IDCT_G27_T30,256,13e16f6da7e93337b39693545b1f2fc5,False,True
+data/Bad_png/IDCT_27.png,0,circle,2,tapered,IDCT,27,27,30,20,3,IDCT_G27_T30,256,005f68257c1f2308c71b601b9fbf85ef,False,True
+data/Bad_png/IDCT_28.png,0,circle,2,tapered,IDCT,28,27,30,10,4,IDCT_G27_T30,256,c292db3eb8d72107f16c418d502c1adf,False,True
+data/Bad_png/IDCT_31.png,0,circle,2,tapered,IDCT,31,27,30,10,5,IDCT_G27_T30,256,095bdedafa5b46c2e04dccf7d2a1cffb,False,True
+data/Bad_png/IDCT_32.png,0,circle,2,tapered,IDCT,32,27,30,15,5,IDCT_G27_T30,256,940aceae943a48a2c8c8215265173de5,False,True
+data/Bad_png/IDCT_33.png,0,circle,2,tapered,IDCT,33,27,30,20,5,IDCT_G27_T30,256,04eda55a08ef07ac05133df60925e99b,False,True
+data/Bad_png/IDCT_34.png,0,circle,2,tapered,IDCT,34,27,30,10,6,IDCT_G27_T30,256,3284240e2cf90d78d77be2c58e8449cb,False,True
+data/Bad_png/IDCT_39.png,0,circle,2,tapered,IDCT,39,30,30,15,1,IDCT_G30_T30,256,c54bb4454e9e7c3f20e2c4621b8a929c,False,True
+data/Bad_png/IDCT_40.png,0,circle,2,tapered,IDCT,40,30,30,25,2,IDCT_G30_T30,256,d7abc7d3162b49c3c1c3e7cbbe25f450,False,True
+data/Bad_png/IDCT_45.png,0,circle,2,tapered,IDCT,45,30,30,15,3,IDCT_G30_T30,256,ab8aa52757c37fbe553d381e436de91b,False,True
+data/Bad_png/IDCT_50.png,0,circle,2,tapered,IDCT,50,30,30,15,5,IDCT_G30_T30,256,9a676659e4319f2d7760034eddc5aa47,False,True
+data/Bad_png/IDCT_52.png,0,circle,2,tapered,IDCT,52,30,30,20,6,IDCT_G30_T30,256,3603a86d6e9ea915e9b5cf8641ac1357,False,True
+data/Bad_png/IDCT_53.png,0,circle,2,tapered,IDCT,53,30,30,15,6,IDCT_G30_T30,256,4826e2387b627f0402b63644f4a8692f,False,True
+data/Bad_png/IDCT_57.png,0,circle,2,tapered,IDCT,57,30,25,20,1,IDCT_G30_T25,256,0c8df8097012e79bd71b869c38a07727,False,True
+data/Bad_png/IDCT_60.png,0,circle,2,tapered,IDCT,60,30,25,20,2,IDCT_G30_T25,256,b1046c43e422d6d7c34e9a49e0e2b2ed,False,True
+data/Bad_png/IDCT_64.png,0,circle,2,tapered,IDCT,64,30,25,15,4,IDCT_G30_T25,256,3e64e13e7230f224bdf4da05fe9e00a1,False,True
+data/Bad_png/IDCT_66.png,0,circle,2,tapered,IDCT,66,30,25,25,4,IDCT_G30_T25,256,302bf0c7ade1d0eaed2f6520dc311d69,False,True
+data/Bad_png/IDCT_67.png,0,circle,2,tapered,IDCT,67,30,25,15,5,IDCT_G30_T25,256,03ca1b60c1389fc75ccc22b43921d0c8,False,True
+data/Bad_png/IDCT_69.png,0,circle,2,tapered,IDCT,69,30,25,25,5,IDCT_G30_T25,256,4fac01f9e3c6cd6dc0b87b726bd0f779,False,True
+data/Bad_png/IDCT_70.png,0,circle,2,tapered,IDCT,70,30,25,15,6,IDCT_G30_T25,256,124004cdc1c5b0a9ac210313345eba07,False,True
+data/Bad_png/IDCT_72.png,0,circle,2,tapered,IDCT,72,30,25,25,6,IDCT_G30_T25,256,38df78c962234a8782196fb2fecab2dd,False,True
+data/Bad_png/IDCT_73.png,0,circle,2,tapered,IDCT,73,25,25,10,1,IDCT_G25_T25,256,bd10080b3a7ca98be8d80e6804421080,False,True
+data/Bad_png/IDCT_74.png,0,circle,2,tapered,IDCT,74,25,25,15,1,IDCT_G25_T25,256,70c8ba3d157f6742b998eaf315fff2b5,False,True
+data/Bad_png/IDCT_75.png,0,circle,2,tapered,IDCT,75,25,25,20,1,IDCT_G25_T25,256,96b3483d32e89ccff1dc6401e37fa614,False,True
+data/Bad_png/IDCT_76.png,0,circle,2,tapered,IDCT,76,25,25,10,2,IDCT_G25_T25,256,2d5da52a85dcfe83a335de5b7fff25b0,False,True
+data/Bad_png/IDCT_77.png,0,circle,2,tapered,IDCT,77,25,25,15,2,IDCT_G25_T25,256,7e6372f06419ce7e67691298f69a27a3,False,True
+data/Bad_png/IDCT_78.png,0,circle,2,tapered,IDCT,78,25,25,20,2,IDCT_G25_T25,256,291773431c05399e85dbc9ca06dbb992,False,True
+data/Bad_png/IDCT_79.png,0,circle,2,tapered,IDCT,79,25,25,10,3,IDCT_G25_T25,256,63eb295916ddc170c7dada4f59b23ed3,False,True
+data/Bad_png/IDCT_80.png,0,circle,2,tapered,IDCT,80,25,25,15,3,IDCT_G25_T25,256,e2822de4abc535f42cd9e2afa8ceef59,False,True
+data/Bad_png/IDCT_81.png,0,circle,2,tapered,IDCT,81,25,25,20,3,IDCT_G25_T25,256,cd7b754d0506486ed72bdcbeec4b4aa4,False,True
+data/Bad_png/IDCT_82.png,0,circle,2,tapered,IDCT,82,25,25,10,4,IDCT_G25_T25,256,59e223a20ed87e9f04528f918f0b87ff,False,True
+data/Bad_png/IDCT_83.png,0,circle,2,tapered,IDCT,83,25,25,15,4,IDCT_G25_T25,256,999547514d1865d32f197e557a56024a,False,True
+data/Bad_png/IDCT_85.png,0,circle,2,tapered,IDCT,85,25,25,10,5,IDCT_G25_T25,256,280cb89a57e12eccea09e653bd1cb3ce,False,True
+data/Bad_png/IDCT_86.png,0,circle,2,tapered,IDCT,86,25,25,15,5,IDCT_G25_T25,256,e9387bb59b1efc7a0ac8715955ed48fe,False,True
+data/Bad_png/IDCT_88.png,0,circle,2,tapered,IDCT,88,25,25,10,6,IDCT_G25_T25,256,dca03d0989d1783e3ee222bbf6296688,False,True
+data/Bad_png/IDCT_89.png,0,circle,2,tapered,IDCT,89,25,25,15,6,IDCT_G25_T25,256,1a3cd583e137010ff0d938caad3a6161,False,True
+data/Bad_png/IDCT_92.png,0,circle,2,tapered,IDCT,92,25,30,30,1,IDCT_G25_T30,256,3eb866908ad426d55778f113b9bf8cbb,False,True
+data/Bad_png/IDCT_93.png,0,circle,2,tapered,IDCT,93,25,30,35,1,IDCT_G25_T30,256,7ef4bb642bf797b88738398bce32b89c,False,True
+data/Bad_png/IDCT_94.png,0,circle,2,tapered,IDCT,94,25,30,25,2,IDCT_G25_T30,256,d6dac82a7970a74d06e338a9c4fc5689,False,True
+data/Bad_png/IDCT_96.png,0,circle,2,tapered,IDCT,96,25,30,35,2,IDCT_G25_T30,256,137a5c297891e1a9d9cc249619c02c49,False,True
+data/Bad_png/IDCT_97.png,0,circle,2,tapered,IDCT,97,25,30,25,3,IDCT_G25_T30,256,99f4fe69600d84afe7246a9d416a01d7,False,True
+data/Bad_png/IDCT_98.png,0,circle,2,tapered,IDCT,98,25,30,30,3,IDCT_G25_T30,256,86df839bc7fbf970edea2e711ec00887,False,True
+data/Bad_png/IDSQR_ (1).png,0,square_grid,1,regular,IDSQR,1,27,35,50,1,IDSQR_G27_T35,512,d0c57ed4933a26c491c0df6bc0bbd594,False,True
+data/Bad_png/IDSQR_ (10).png,0,square_grid,1,regular,IDSQR,10,27,35,50,4,IDSQR_G27_T35,512,d96b0f5502b4af015844ff5e0a1adc73,False,True
+data/Bad_png/IDSQR_ (100).png,0,square_grid,1,regular,IDSQR,100,30,30,80,3,IDSQR_G30_T30,512,2fe3deed69dc84b0a1211419b5d1703a,False,True
+data/Bad_png/IDSQR_ (101).png,0,square_grid,1,regular,IDSQR,101,30,30,70,3,IDSQR_G30_T30,512,6d42c2dff072a0ad200e01fd7e42992c,False,True
+data/Bad_png/IDSQR_ (102).png,0,square_grid,1,regular,IDSQR,102,30,30,60,3,IDSQR_G30_T30,512,8d8e9c08ea732640d5d93b25125b47c3,False,True
+data/Bad_png/IDSQR_ (103).png,0,square_grid,1,regular,IDSQR,103,30,30,80,2,IDSQR_G30_T30,512,ecf5e8c3e49e850e925ec8f8f062aa41,False,True
+data/Bad_png/IDSQR_ (104).png,0,square_grid,1,regular,IDSQR,104,30,30,70,2,IDSQR_G30_T30,512,5340e4e5fe2c73944277b2b8f3c0a8f7,False,True
+data/Bad_png/IDSQR_ (105).png,0,square_grid,1,regular,IDSQR,105,30,30,60,2,IDSQR_G30_T30,512,872c28028a0d8cbe38e462d1a18e0671,False,True
+data/Bad_png/IDSQR_ (106).png,0,square_grid,1,regular,IDSQR,106,30,30,80,1,IDSQR_G30_T30,512,e60740e0c32e48e383b4104957519158,False,True
+data/Bad_png/IDSQR_ (107).png,0,square_grid,1,regular,IDSQR,107,30,30,70,1,IDSQR_G30_T30,512,7ccd5fcee9f362be6d4df563c435d1ad,False,True
+data/Bad_png/IDSQR_ (108).png,0,square_grid,1,regular,IDSQR,108,30,30,60,1,IDSQR_G30_T30,512,f2b610214a7d31afc4ef2978e214cab6,False,True
+data/Bad_png/IDSQR_ (11).png,0,square_grid,1,regular,IDSQR,11,27,35,45,4,IDSQR_G27_T35,512,83ce91d02452014e726e067d798f9820,False,True
+data/Bad_png/IDSQR_ (12).png,0,square_grid,1,regular,IDSQR,12,27,35,40,4,IDSQR_G27_T35,512,6d7dae789a3a3752f88985b005e3470b,False,True
+data/Bad_png/IDSQR_ (13).png,0,square_grid,1,regular,IDSQR,13,27,35,50,5,IDSQR_G27_T35,512,37a4cf14f0a8199942aaffa20553fb55,False,True
+data/Bad_png/IDSQR_ (14).png,0,square_grid,1,regular,IDSQR,14,27,35,45,5,IDSQR_G27_T35,512,86e42bc8d33c15e3d3cd165aa85d3e94,False,True
+data/Bad_png/IDSQR_ (15).png,0,square_grid,1,regular,IDSQR,15,27,35,40,5,IDSQR_G27_T35,512,00d2d11145c4e0cccca14ff466adc1bb,False,True
+data/Bad_png/IDSQR_ (16).png,0,square_grid,1,regular,IDSQR,16,27,35,50,6,IDSQR_G27_T35,512,02dc6de9d46a1de4bedd3adf213657d1,False,True
+data/Bad_png/IDSQR_ (17).png,0,square_grid,1,regular,IDSQR,17,27,35,45,6,IDSQR_G27_T35,512,febde18586d07e93884b9537e0d0d4fb,False,True
+data/Bad_png/IDSQR_ (18).png,0,square_grid,1,regular,IDSQR,18,27,35,40,6,IDSQR_G27_T35,512,a8ae6713e874389841dfe7a36059ce5d,False,True
+data/Bad_png/IDSQR_ (19).png,0,square_grid,1,regular,IDSQR,19,27,30,50,1,IDSQR_G27_T30,512,8398028ab5d234b2fbc78e1f90ee2533,False,True
+data/Bad_png/IDSQR_ (2).png,0,square_grid,1,regular,IDSQR,2,27,35,45,1,IDSQR_G27_T35,512,6826877b651698cc840a559c29444a8b,False,True
+data/Bad_png/IDSQR_ (20).png,0,square_grid,1,regular,IDSQR,20,27,30,45,1,IDSQR_G27_T30,512,70f7bcab67e4e9031ae2d6cf050f4565,False,True
+data/Bad_png/IDSQR_ (21).png,0,square_grid,1,regular,IDSQR,21,27,30,40,1,IDSQR_G27_T30,512,cbf797af73a358829c63f7381a5382fb,False,True
+data/Bad_png/IDSQR_ (22).png,0,square_grid,1,regular,IDSQR,22,27,30,50,2,IDSQR_G27_T30,512,83efe7712cd188f892db51dd1e2c36cb,False,True
+data/Bad_png/IDSQR_ (23).png,0,square_grid,1,regular,IDSQR,23,27,30,45,2,IDSQR_G27_T30,512,675362a3eb54a72c70278d3daaa6c6bf,False,True
+data/Bad_png/IDSQR_ (24).png,0,square_grid,1,regular,IDSQR,24,27,30,40,2,IDSQR_G27_T30,512,fcecb85a335a1978dc0a9a1131933a7d,False,True
+data/Bad_png/IDSQR_ (26).png,0,square_grid,1,regular,IDSQR,26,27,30,45,3,IDSQR_G27_T30,512,8c2188c783c6133095c39f7c2711b859,False,True
+data/Bad_png/IDSQR_ (27).png,0,square_grid,1,regular,IDSQR,27,27,30,40,3,IDSQR_G27_T30,512,72bea65781bca8ac6341316363207bc9,False,True
+data/Bad_png/IDSQR_ (28).png,0,square_grid,1,regular,IDSQR,28,27,30,50,4,IDSQR_G27_T30,512,b6a789de3d19aef15c827d1fd33ad1e6,False,True
+data/Bad_png/IDSQR_ (29).png,0,square_grid,1,regular,IDSQR,29,27,30,45,4,IDSQR_G27_T30,512,1b9252744d6299a28e1d290a6251ba2c,False,True
+data/Bad_png/IDSQR_ (3).png,0,square_grid,1,regular,IDSQR,3,27,35,40,1,IDSQR_G27_T35,512,7053a1da31bf43431e798e1aaa74ffa8,False,True
+data/Bad_png/IDSQR_ (30).png,0,square_grid,1,regular,IDSQR,30,27,30,40,4,IDSQR_G27_T30,512,497b5a023538fc3ac8137646d5018831,False,True
+data/Bad_png/IDSQR_ (31).png,0,square_grid,1,regular,IDSQR,31,27,30,50,5,IDSQR_G27_T30,512,299f4a2241c40913a173d7acf41e330b,False,True
+data/Bad_png/IDSQR_ (32).png,0,square_grid,1,regular,IDSQR,32,27,30,45,5,IDSQR_G27_T30,512,762ed7db9b0ba766e5745f947a165800,False,True
+data/Bad_png/IDSQR_ (33).png,0,square_grid,1,regular,IDSQR,33,27,30,40,5,IDSQR_G27_T30,512,1ba272561b52ea641e1e0976d41fade5,False,True
+data/Bad_png/IDSQR_ (34).png,0,square_grid,1,regular,IDSQR,34,27,30,50,6,IDSQR_G27_T30,512,1e5b02fef6366bf8e3a2a9bbc629bf87,False,True
+data/Bad_png/IDSQR_ (35).png,0,square_grid,1,regular,IDSQR,35,27,30,45,6,IDSQR_G27_T30,512,197e63be0aae1637a205f2ea13a495f3,False,True
+data/Bad_png/IDSQR_ (36).png,0,square_grid,1,regular,IDSQR,36,27,30,40,6,IDSQR_G27_T30,512,3cdf1ecb89b4f2ce146aa534ef91a9dd,False,True
+data/Bad_png/IDSQR_ (37).png,0,square_grid,1,regular,IDSQR,37,25,30,40,1,IDSQR_G25_T30,512,1e093c04cf1343924dfd50a95fa2a0ec,False,True
+data/Bad_png/IDSQR_ (38).png,0,square_grid,1,regular,IDSQR,38,25,30,35,1,IDSQR_G25_T30,512,35e1a7aa8e1a4bd1baf0b3a01fbef186,False,True
+data/Bad_png/IDSQR_ (39).png,0,square_grid,1,regular,IDSQR,39,25,30,30,1,IDSQR_G25_T30,512,dc5bae2a54b392be90d1c029ab032ea6,False,True
+data/Bad_png/IDSQR_ (4).png,0,square_grid,1,regular,IDSQR,4,27,35,50,2,IDSQR_G27_T35,512,fc30cf996b4404710a54fc70a9ae43f5,False,True
+data/Bad_png/IDSQR_ (40).png,0,square_grid,1,regular,IDSQR,40,25,30,40,2,IDSQR_G25_T30,512,0d66f47320ac1538f998bf7cb3cd358a,False,True
+data/Bad_png/IDSQR_ (41).png,0,square_grid,1,regular,IDSQR,41,25,30,35,2,IDSQR_G25_T30,512,e8d98a5828e63df6c6e1d716c1057314,False,True
+data/Bad_png/IDSQR_ (42).png,0,square_grid,1,regular,IDSQR,42,25,30,30,2,IDSQR_G25_T30,512,dac219da473b2993ecddbfb1236b9085,False,True
+data/Bad_png/IDSQR_ (45).png,0,square_grid,1,regular,IDSQR,45,25,30,30,3,IDSQR_G25_T30,512,d2e3e49b5f2aa16ae283f4e7a2bb7304,False,True
+data/Bad_png/IDSQR_ (46).png,0,square_grid,1,regular,IDSQR,46,25,30,40,4,IDSQR_G25_T30,512,900915b9b1ca0de2e6efe60326f7ae74,False,True
+data/Bad_png/IDSQR_ (47).png,0,square_grid,1,regular,IDSQR,47,25,30,35,4,IDSQR_G25_T30,512,bd86f28d78e29b2639b725496d9f42b8,False,True
+data/Bad_png/IDSQR_ (48).png,0,square_grid,1,regular,IDSQR,48,25,30,30,4,IDSQR_G25_T30,512,ae0e0fe669d99a268571ec078a9a76c6,False,True
+data/Bad_png/IDSQR_ (49).png,0,square_grid,1,regular,IDSQR,49,25,30,40,5,IDSQR_G25_T30,512,991f563350f60a3e0cbec0d030873790,False,True
+data/Bad_png/IDSQR_ (5).png,0,square_grid,1,regular,IDSQR,5,27,35,45,2,IDSQR_G27_T35,512,9bf7021fcdee04711dbfe3051d6c9fa1,False,True
+data/Bad_png/IDSQR_ (50).png,0,square_grid,1,regular,IDSQR,50,25,30,35,5,IDSQR_G25_T30,512,231a0b61c490800ab7cf8ad05630bd51,False,True
+data/Bad_png/IDSQR_ (51).png,0,square_grid,1,regular,IDSQR,51,25,30,30,5,IDSQR_G25_T30,512,5fd4003823374e74890fad0594cb55a7,False,True
+data/Bad_png/IDSQR_ (54).png,0,square_grid,1,regular,IDSQR,54,25,30,30,6,IDSQR_G25_T30,512,cd09a6fa54531fc398e77fcc94567ac1,False,True
+data/Bad_png/IDSQR_ (55).png,0,square_grid,1,regular,IDSQR,55,25,35,40,4,IDSQR_G25_T35,512,1117b183490b8c4ad30051fe46cc6e28,False,True
+data/Bad_png/IDSQR_ (57).png,0,square_grid,1,regular,IDSQR,57,25,35,30,4,IDSQR_G25_T35,512,b82a4192601604f39d4d6b1d1fce1a9f,False,True
+data/Bad_png/IDSQR_ (58).png,0,square_grid,1,regular,IDSQR,58,25,35,40,5,IDSQR_G25_T35,512,9ec4e9d47c1d4d0b27a897284ca669a2,False,True
+data/Bad_png/IDSQR_ (59).png,0,square_grid,1,regular,IDSQR,59,25,35,35,5,IDSQR_G25_T35,512,ef9e073959c987813d147e58bf7d1d3f,False,True
+data/Bad_png/IDSQR_ (6).png,0,square_grid,1,regular,IDSQR,6,27,35,40,2,IDSQR_G27_T35,512,cf6bc1f5cf29b43cd30599d90ff57f5b,False,True
+data/Bad_png/IDSQR_ (60).png,0,square_grid,1,regular,IDSQR,60,25,35,30,5,IDSQR_G25_T35,512,0f7bb565e9c45f3884694cf4b1f0cbc2,False,True
+data/Bad_png/IDSQR_ (63).png,0,square_grid,1,regular,IDSQR,63,25,35,30,6,IDSQR_G25_T35,512,7e627f7e56d7d0b787967e07aa441cfe,False,True
+data/Bad_png/IDSQR_ (64).png,0,square_grid,1,regular,IDSQR,64,25,35,40,1,IDSQR_G25_T35,512,ab7d21662e6d75fb22bb5b0a9fc14811,False,True
+data/Bad_png/IDSQR_ (65).png,0,square_grid,1,regular,IDSQR,65,25,35,35,1,IDSQR_G25_T35,512,82e4e2c72e969c7222ed8534ba8837c5,False,True
+data/Bad_png/IDSQR_ (66).png,0,square_grid,1,regular,IDSQR,66,25,35,30,1,IDSQR_G25_T35,512,5c6ff2f1763d745c58d2651074762a31,False,True
+data/Bad_png/IDSQR_ (67).png,0,square_grid,1,regular,IDSQR,67,25,35,40,2,IDSQR_G25_T35,512,4ea3f85d99541b12023f40b730dd4589,False,True
+data/Bad_png/IDSQR_ (68).png,0,square_grid,1,regular,IDSQR,68,25,35,35,2,IDSQR_G25_T35,512,c84eb0ea9fedc60b01bbca5aca4af1ea,False,True
+data/Bad_png/IDSQR_ (69).png,0,square_grid,1,regular,IDSQR,69,25,35,30,2,IDSQR_G25_T35,512,f0ab19dad1212d8cb250d7d50ff099b4,False,True
+data/Bad_png/IDSQR_ (7).png,0,square_grid,1,regular,IDSQR,7,27,35,50,3,IDSQR_G27_T35,512,bb46cc464a9ea5d580e9c8c62c5f22b9,False,True
+data/Bad_png/IDSQR_ (70).png,0,square_grid,1,regular,IDSQR,70,25,35,40,3,IDSQR_G25_T35,512,19d31f4b9ba529d62f348f4fea69f38f,False,True
+data/Bad_png/IDSQR_ (71).png,0,square_grid,1,regular,IDSQR,71,25,35,35,3,IDSQR_G25_T35,512,450fbaa3c4faceb9742d2802b9a45a67,False,True
+data/Bad_png/IDSQR_ (74).png,0,square_grid,1,regular,IDSQR,74,30,35,70,6,IDSQR_G30_T35,512,cf7f749c6fc4ca9d9955415988c36456,False,True
+data/Bad_png/IDSQR_ (75).png,0,square_grid,1,regular,IDSQR,75,30,35,60,6,IDSQR_G30_T35,512,fab810ebdfd61178e329e8db7e5090ab,False,True
+data/Bad_png/IDSQR_ (77).png,0,square_grid,1,regular,IDSQR,77,30,35,70,5,IDSQR_G30_T35,512,5d558d0bcab52cc0b356879a9db0d033,False,True
+data/Bad_png/IDSQR_ (78).png,0,square_grid,1,regular,IDSQR,78,30,35,60,5,IDSQR_G30_T35,512,de2f4be6ebffc0998abc6e50773e5057,False,True
+data/Bad_png/IDSQR_ (79).png,0,square_grid,1,regular,IDSQR,79,30,35,80,4,IDSQR_G30_T35,512,0f40eb0e0a087b27afd5adeb8435bdb8,False,True
+data/Bad_png/IDSQR_ (8).png,0,square_grid,1,regular,IDSQR,8,27,35,45,3,IDSQR_G27_T35,512,19980f6909759dfce5f721d79af95253,False,True
+data/Bad_png/IDSQR_ (80).png,0,square_grid,1,regular,IDSQR,80,30,35,70,4,IDSQR_G30_T35,512,781176d930aab522c264bf55e76e2c9d,False,True
+data/Bad_png/IDSQR_ (81).png,0,square_grid,1,regular,IDSQR,81,30,35,60,4,IDSQR_G30_T35,512,96759a08c90dfacbf14a604c9e6cbf18,False,True
+data/Bad_png/IDSQR_ (82).png,0,square_grid,1,regular,IDSQR,82,30,35,80,1,IDSQR_G30_T35,512,e7e7b7c224d1abb3153e33104b269b45,False,True
+data/Bad_png/IDSQR_ (83).png,0,square_grid,1,regular,IDSQR,83,30,35,70,1,IDSQR_G30_T35,512,aaff9f2a94986dc7d60e3dfa0a64ca49,False,True
+data/Bad_png/IDSQR_ (84).png,0,square_grid,1,regular,IDSQR,84,30,35,60,1,IDSQR_G30_T35,512,3e3aedca23a44e7af06ebcaf45f14f71,False,True
+data/Bad_png/IDSQR_ (85).png,0,square_grid,1,regular,IDSQR,85,30,35,80,2,IDSQR_G30_T35,512,c5b54fb3505c80ffc7ad5848d8a1907b,False,True
+data/Bad_png/IDSQR_ (86).png,0,square_grid,1,regular,IDSQR,86,30,35,70,2,IDSQR_G30_T35,512,e27077a4cac73f10e5d4002b4f0237b3,False,True
+data/Bad_png/IDSQR_ (87).png,0,square_grid,1,regular,IDSQR,87,30,35,60,2,IDSQR_G30_T35,512,ef316807799d04966570eaa6bddc4738,False,True
+data/Bad_png/IDSQR_ (88).png,0,square_grid,1,regular,IDSQR,88,30,35,80,3,IDSQR_G30_T35,512,d89d206807d4b53266b0be4a16ef2452,False,True
+data/Bad_png/IDSQR_ (89).png,0,square_grid,1,regular,IDSQR,89,30,35,70,3,IDSQR_G30_T35,512,1a2d8c00fdf3c36a018b6637501eda23,False,True
+data/Bad_png/IDSQR_ (9).png,0,square_grid,1,regular,IDSQR,9,27,35,40,3,IDSQR_G27_T35,512,5d5dd178e3c37e672f5700545fbc9367,False,True
+data/Bad_png/IDSQR_ (90).png,0,square_grid,1,regular,IDSQR,90,30,35,60,3,IDSQR_G30_T35,512,25f7b2fb4fa94714d63dfb57b76c1e7a,False,True
+data/Bad_png/IDSQR_ (91).png,0,square_grid,1,regular,IDSQR,91,30,30,80,6,IDSQR_G30_T30,512,9d18750095ad6de3b21521277cd4f93d,False,True
+data/Bad_png/IDSQR_ (92).png,0,square_grid,1,regular,IDSQR,92,30,30,70,6,IDSQR_G30_T30,512,4c443b9534fda08443d0eb5ceef1bfa7,False,True
+data/Bad_png/IDSQR_ (93).png,0,square_grid,1,regular,IDSQR,93,30,30,60,6,IDSQR_G30_T30,512,43d2a057c9cd16373a81989f21949826,False,True
+data/Bad_png/IDSQR_ (94).png,0,square_grid,1,regular,IDSQR,94,30,30,80,5,IDSQR_G30_T30,512,05258d092bf0cc52a9ee451cf6b223c5,False,True
+data/Bad_png/IDSQR_ (95).png,0,square_grid,1,regular,IDSQR,95,30,30,70,5,IDSQR_G30_T30,512,ee7308e387b9e2a3ab7b190f2c50dbd4,False,True
+data/Bad_png/IDSQR_ (96).png,0,square_grid,1,regular,IDSQR,96,30,30,60,5,IDSQR_G30_T30,512,2a19cfe28c6cae1730828114c9b2fd39,False,True
+data/Bad_png/IDSQR_ (97).png,0,square_grid,1,regular,IDSQR,97,30,30,80,4,IDSQR_G30_T30,512,0bad5e389749d128845ca7516a07fb06,False,True
+data/Bad_png/IDSQR_ (98).png,0,square_grid,1,regular,IDSQR,98,30,30,70,4,IDSQR_G30_T30,512,b991f6311b0208725f07c7a711f04bae,False,True
+data/Bad_png/IDSQR_ (99).png,0,square_grid,1,regular,IDSQR,99,30,30,60,4,IDSQR_G30_T30,512,376dbb9c4c6cbd5cccf8298454285a48,False,True
+data/Bad_png/IDSR_02.png,0,line,0,regular,IDSR,2,27,35,25,1,IDSR_G27_T35,256,5e30ba8fda437ce9a5d3cc96d8e9941e,False,True
+data/Bad_png/IDSR_03.png,0,line,0,regular,IDSR,3,27,35,30,1,IDSR_G27_T35,256,1737fbf0b5e3f2b1c7c63e1c9523eb5d,False,True
+data/Bad_png/IDSR_05.png,0,line,0,regular,IDSR,5,27,35,25,2,IDSR_G27_T35,256,0053c86cc8d67558d8e501a3932477f8,False,True
+data/Bad_png/IDSR_06.png,0,line,0,regular,IDSR,6,27,35,30,2,IDSR_G27_T35,256,3932ffbfdb328649cd50181ba44d7329,False,True
+data/Bad_png/IDSR_09.png,0,line,0,regular,IDSR,9,27,35,30,3,IDSR_G27_T35,256,0d7a57c53ce3ec15ae3c9b1a527f3bbe,False,True
+data/Bad_png/IDSR_100.png,0,line,0,regular,IDSR,100,30,30,35,3,IDSR_G30_T30,256,d8d84bf86b7842351ba693c7d0b4515b,False,True
+data/Bad_png/IDSR_106.png,0,line,0,regular,IDSR,106,30,30,25,1,IDSR_G30_T30,256,90f92c7f79f715c22b5798a52896d68f,False,True
+data/Bad_png/IDSR_108.png,0,line,0,regular,IDSR,108,30,30,35,1,IDSR_G30_T30,256,6196e95edb5adb3ae96771f4d41e2e13,False,True
+data/Bad_png/IDSR_11.png,0,line,0,regular,IDSR,11,27,35,25,4,IDSR_G27_T35,256,61bee32669617516a2dceaf4f6f94274,False,True
+data/Bad_png/IDSR_12.png,0,line,0,regular,IDSR,12,27,35,30,4,IDSR_G27_T35,256,788fece759de47939d589a44c8a9cd42,False,True
+data/Bad_png/IDSR_13.png,0,line,0,regular,IDSR,13,27,35,20,5,IDSR_G27_T35,256,1cb12c53eb10b03fb455c72604a7353e,False,True
+data/Bad_png/IDSR_15.png,0,line,0,regular,IDSR,15,27,35,30,5,IDSR_G27_T35,256,a51735b7873697268580875395af9484,True,False
+data/Bad_png/IDSR_16.png,0,line,0,regular,IDSR,16,27,35,20,6,IDSR_G27_T35,256,363b7b8485b684559162c116ba286386,False,True
+data/Bad_png/IDSR_20.png,0,line,0,regular,IDSR,20,27,30,25,1,IDSR_G27_T30,256,0fc7d61a82f40479e9fcce28ec09e2b3,False,True
+data/Bad_png/IDSR_21.png,0,line,0,regular,IDSR,21,27,30,30,1,IDSR_G27_T30,256,d9596a980a8fff402cc251d327f2288c,False,True
+data/Bad_png/IDSR_22.png,0,line,0,regular,IDSR,22,27,30,20,2,IDSR_G27_T30,256,a358ce2cef9c4507ecc6896a02b9a9c3,False,True
+data/Bad_png/IDSR_30.png,0,line,0,regular,IDSR,30,27,30,55,4,IDSR_G27_T30,256,7c1afe7d0d242fe41c8df664dac3f0c6,False,True
+data/Bad_png/IDSR_31.png,0,line,0,regular,IDSR,31,27,30,50,5,IDSR_G27_T30,256,1d51b6f9752133db225dcad8b6ba09d8,False,True
+data/Bad_png/IDSR_36.png,0,line,0,regular,IDSR,36,27,30,65,6,IDSR_G27_T30,256,4e02a7ab9de8dfad3e8ff7ae7974881f,False,True
+data/Bad_png/IDSR_37.png,0,line,0,regular,IDSR,37,25,30,20,1,IDSR_G25_T30,256,8aa2b0208aadeadf6950c8d9ace26727,False,True
+data/Bad_png/IDSR_38.png,0,line,0,regular,IDSR,38,25,30,25,1,IDSR_G25_T30,256,59dc301600e3c7a57f499b3029947e8e,False,True
+data/Bad_png/IDSR_39.png,0,line,0,regular,IDSR,39,25,30,30,1,IDSR_G25_T30,256,a55f0073a2d4b99bd858ad00a75d613b,False,True
+data/Bad_png/IDSR_40.png,0,line,0,regular,IDSR,40,25,30,25,2,IDSR_G25_T30,256,dbacf278b94c71973870de8408061ce9,False,True
+data/Bad_png/IDSR_42.png,0,line,0,regular,IDSR,42,25,30,35,2,IDSR_G25_T30,256,2fac5dd1f9b89d54145eb51ab0520263,False,True
+data/Bad_png/IDSR_44.png,0,line,0,regular,IDSR,44,25,30,35,3,IDSR_G25_T30,256,56e192da680be652b97b7456d5e8ef5b,False,True
+data/Bad_png/IDSR_45.png,0,line,0,regular,IDSR,45,25,30,45,3,IDSR_G25_T30,256,1935b79b63d96ac00cb40e03e5b77c79,False,True
+data/Bad_png/IDSR_46.png,0,line,0,regular,IDSR,46,25,30,40,4,IDSR_G25_T30,256,4f6b8a9e6748fb526684bfdca4e2b8a2,False,True
+data/Bad_png/IDSR_48.png,0,line,0,regular,IDSR,48,25,30,50,4,IDSR_G25_T30,256,71550de9fffad722872ffa9b9573cc9d,False,True
+data/Bad_png/IDSR_49.png,0,line,0,regular,IDSR,49,25,30,40,5,IDSR_G25_T30,256,ad86638f81f34783c3db338c17230cc6,False,True
+data/Bad_png/IDSR_50.png,0,line,0,regular,IDSR,50,25,30,45,5,IDSR_G25_T30,256,a113a54e223f6346af49fc9d2c42c615,False,True
+data/Bad_png/IDSR_54.png,0,line,0,regular,IDSR,54,25,30,55,6,IDSR_G25_T30,256,c87bc791e5628633506ad0bd987721bf,False,True
+data/Bad_png/IDSR_57.png,0,line,0,regular,IDSR,57,25,35,35,4,IDSR_G25_T35,256,10baf2703c27a300240a4e5a286052ab,False,True
+data/Bad_png/IDSR_59.png,0,line,0,regular,IDSR,59,25,35,35,5,IDSR_G25_T35,256,bf7deda9bd0b06c6d9f1c68d43b9a3f1,False,True
+data/Bad_png/IDSR_60.png,0,line,0,regular,IDSR,60,25,35,40,5,IDSR_G25_T35,256,3ba8a270d55e1c652443207b14c4cc0d,False,True
+data/Bad_png/IDSR_62.png,0,line,0,regular,IDSR,62,25,35,35,6,IDSR_G25_T35,256,cb424ff0ca9b1509466addef37001d10,False,True
+data/Bad_png/IDSR_63.png,0,line,0,regular,IDSR,63,25,35,40,6,IDSR_G25_T35,256,b74122c7f994f6fb1b096cedcbccf692,False,True
+data/Bad_png/IDSR_64.png,0,line,0,regular,IDSR,64,25,35,15,1,IDSR_G25_T35,256,c682fdc1edc745c8ef5d56f878882827,False,True
+data/Bad_png/IDSR_66.png,0,line,0,regular,IDSR,66,25,35,25,1,IDSR_G25_T35,256,f888f5cb02e9debb7f56660a009a724b,False,True
+data/Bad_png/IDSR_67.png,0,line,0,regular,IDSR,67,25,35,20,2,IDSR_G25_T35,256,b43a8f25d4665f2d0c73f762d1d8e544,False,True
+data/Bad_png/IDSR_69.png,0,line,0,regular,IDSR,69,25,35,30,2,IDSR_G25_T35,256,469d50dc7527319a6569fd61114ebe89,False,True
+data/Bad_png/IDSR_72.png,0,line,0,regular,IDSR,72,25,35,35,3,IDSR_G25_T35,256,ab7ec7d3c3796432a63ba42b7d3ceb2a,False,True
+data/Bad_png/IDSR_75.png,0,line,0,regular,IDSR,75,30,35,65,6,IDSR_G30_T35,256,f7c3836050af314d28ec73fbd10d58db,False,True
+data/Bad_png/IDSR_82.png,0,line,0,regular,IDSR,82,30,35,40,1,IDSR_G30_T35,256,eda0ef0d6ba3b53ed5396699a2003b72,False,True
+data/Bad_png/IDSR_84.png,0,line,0,regular,IDSR,84,30,35,50,1,IDSR_G30_T35,256,675060b2951baf739223d98e05dea121,False,True
+data/Bad_png/IDSR_85.png,0,line,0,regular,IDSR,85,30,35,40,2,IDSR_G30_T35,256,66bd970237c6103c96d5a10ce9ad2beb,False,True
+data/Bad_png/IDSR_86.png,0,line,0,regular,IDSR,86,30,35,45,2,IDSR_G30_T35,256,2b1786ce116859cbce51f2330f6ca273,False,True
+data/Bad_png/IDSR_88.png,0,line,0,regular,IDSR,88,30,35,45,3,IDSR_G30_T35,256,58a496dab182fd20e56c33b101b427c0,False,True
+data/Bad_png/IDST_01.png,0,line,0,tapered,IDST,1,27,25,15,6,IDST_G27_T25,256,270ecae84fd1f1d2523359c69b24ed49,False,True
+data/Bad_png/IDST_04.png,0,line,0,tapered,IDST,4,27,25,15,5,IDST_G27_T25,256,fa3e572c5a40783c0be7151d5c6d21cb,False,True
+data/Bad_png/IDST_08.png,0,line,0,tapered,IDST,8,27,25,20,4,IDST_G27_T25,256,cc985ef151958ad08e213ef09dd88600,False,True
+data/Bad_png/IDST_10.png,0,line,0,tapered,IDST,10,27,25,10,3,IDST_G27_T25,256,0736b457e958664138ee014b74b9dfdb,False,True
+data/Bad_png/IDST_100.png,0,line,0,tapered,IDST,100,25,30,25,3,IDST_G25_T30,256,b546e13074153bf2cdd804471f2e2e88,False,True
+data/Bad_png/IDST_101.png,0,line,0,tapered,IDST,101,25,30,30,3,IDST_G25_T30,256,9ec4433012070d9ddb6ab61c1adaee9d,False,True
+data/Bad_png/IDST_102.png,0,line,0,tapered,IDST,102,25,30,35,3,IDST_G25_T30,256,b120a27edf266538d5b614ab405e951f,False,True
+data/Bad_png/IDST_103.png,0,line,0,tapered,IDST,103,25,30,25,2,IDST_G25_T30,256,1e57430cceb7e0ae8de00bc19dec5e50,False,True
+data/Bad_png/IDST_106.png,0,line,0,tapered,IDST,106,25,30,25,1,IDST_G25_T30,256,7c6342d8e2decbbb20ad027fd3a65fc0,False,True
+data/Bad_png/IDST_107.png,0,line,0,tapered,IDST,107,25,30,30,1,IDST_G25_T30,256,5ab2da0647b5d34ea13abbbc75b922e5,False,True
+data/Bad_png/IDST_11.png,0,line,0,tapered,IDST,11,27,25,15,3,IDST_G27_T25,256,56dbe36e7acf776ee6c95bace78c1c12,False,True
+data/Bad_png/IDST_13.png,0,line,0,tapered,IDST,13,27,25,10,2,IDST_G27_T25,256,daffe8eb232404b31025cf1366a54eb9,False,True
+data/Bad_png/IDST_18.png,0,line,0,tapered,IDST,18,27,25,20,1,IDST_G27_T25,256,0e5312931080dadfd80fbc6691846de9,False,True
+data/Bad_png/IDST_19.png,0,line,0,tapered,IDST,19,27,30,10,6,IDST_G27_T30,256,b47b7d973097d0c84d59ce58278dd61d,False,True
+data/Bad_png/IDST_28.png,0,line,0,tapered,IDST,28,27,30,10,3,IDST_G27_T30,256,6dc2095bead21c30429c3351795bc4d4,False,True
+data/Bad_png/IDST_30.png,0,line,0,tapered,IDST,30,27,30,20,3,IDST_G27_T30,256,bd91cbe8599858e0fbbcfcf36b1a777b,False,True
+data/Bad_png/IDST_33.png,0,line,0,tapered,IDST,33,27,30,20,2,IDST_G27_T30,256,cc9eee1613365348c2fc4d022d1ea467,False,True
+data/Bad_png/IDST_36.png,0,line,0,tapered,IDST,36,27,30,20,1,IDST_G27_T30,256,d4c45f00bf3acd063e9abc7e4d369412,False,True
+data/Bad_png/IDST_37.png,0,line,0,tapered,IDST,37,30,30,25,6,IDST_G30_T30,256,f873a73fe046a1659677ccbb4212ca8a,False,True
+data/Bad_png/IDST_38.png,0,line,0,tapered,IDST,38,30,30,20,6,IDST_G30_T30,256,f862a5fcc8c4e9f329ecb85d1754574c,False,True
+data/Bad_png/IDST_39.png,0,line,0,tapered,IDST,39,30,30,15,6,IDST_G30_T30,256,f134c6a5a077dc786184ef84e238c39a,False,True
+data/Bad_png/IDST_42.png,0,line,0,tapered,IDST,42,30,30,15,5,IDST_G30_T30,256,814350fe3112ae71abbdd903becd49f8,False,True
+data/Bad_png/IDST_43.png,0,line,0,tapered,IDST,43,30,30,25,4,IDST_G30_T30,256,0927cb8d8c03a6e373f48399e95907ef,False,True
+data/Bad_png/IDST_47.png,0,line,0,tapered,IDST,47,30,30,15,3,IDST_G30_T30,256,24595cd400e2c3138a9a750ffe3a4806,False,True
+data/Bad_png/IDST_48.png,0,line,0,tapered,IDST,48,30,30,10,3,IDST_G30_T30,256,d1699d40eeb8768e68953d339b580e23,False,True
+data/Bad_png/IDST_55.png,0,line,0,tapered,IDST,55,30,25,10,6,IDST_G30_T25,256,7cda8dc0d36810cecb3eaa86a117fa6e,False,True
+data/Bad_png/IDST_57.png,0,line,0,tapered,IDST,57,30,25,20,6,IDST_G30_T25,256,4a934d20ba11f0b8d1e723f7391fb2ce,False,True
+data/Bad_png/IDST_58.png,0,line,0,tapered,IDST,58,30,25,10,5,IDST_G30_T25,256,c225ea2de78c0842a034d5ee233c9421,False,True
+data/Bad_png/IDST_59.png,0,line,0,tapered,IDST,59,30,25,15,5,IDST_G30_T25,256,12ab5b5e2688c4e69228fd2bcbc91c60,False,True
+data/Bad_png/IDST_60.png,0,line,0,tapered,IDST,60,30,25,20,5,IDST_G30_T25,256,92240fa121118e448d0ff82ed6b7f478,False,True
+data/Bad_png/IDST_61.png,0,line,0,tapered,IDST,61,30,25,10,4,IDST_G30_T25,256,4bbc016fc23c58c7971d54a6aaa20e52,False,True
+data/Bad_png/IDST_64.png,0,line,0,tapered,IDST,64,30,25,10,3,IDST_G30_T25,256,0066a49a8b7514d335049de76216e218,False,True
+data/Bad_png/IDST_65.png,0,line,0,tapered,IDST,65,30,25,15,3,IDST_G30_T25,256,78d463f5b315513aa811624141b93a57,False,True
+data/Bad_png/IDST_67.png,0,line,0,tapered,IDST,67,30,25,10,2,IDST_G30_T25,256,28eda66dcfa67e6ea998180bde8186fc,False,True
+data/Bad_png/IDST_69.png,0,line,0,tapered,IDST,69,30,25,20,2,IDST_G30_T25,256,f6569dc82949f4cb8407e2a8c9b5e021,False,True
+data/Bad_png/IDST_70.png,0,line,0,tapered,IDST,70,30,25,10,1,IDST_G30_T25,256,3312057c1eb896b98db4a587b759f404,False,True
+data/Bad_png/IDST_73.png,0,line,0,tapered,IDST,73,25,25,15,6,IDST_G25_T25,256,f6a5b106a9af5bcf213953f13cd35b27,False,True
+data/Bad_png/IDST_76.png,0,line,0,tapered,IDST,76,25,25,15,5,IDST_G25_T25,256,0a80d5b383335bd1eae84bc24640af05,False,True
+data/Bad_png/IDST_81.png,0,line,0,tapered,IDST,81,25,25,25,4,IDST_G25_T25,256,b6a61ca317da1a5bc6a07915c49d8c30,False,True
+data/Bad_png/IDST_82.png,0,line,0,tapered,IDST,82,25,25,25,3,IDST_G25_T25,256,fe685e1d03570f5151dc28159bf8d497,False,True
+data/Bad_png/IDST_85.png,0,line,0,tapered,IDST,85,25,25,25,2,IDST_G25_T25,256,7e3465cda0165f49a5b02bdeba2bc936,False,True
+data/Bad_png/IDST_87.png,0,line,0,tapered,IDST,87,25,25,35,2,IDST_G25_T25,256,f7594547a66aaf932df57f4560367fa5,False,True
+data/Bad_png/IDST_88.png,0,line,0,tapered,IDST,88,25,25,25,1,IDST_G25_T25,256,9a86d539481e529b99cd739447adabc7,False,True
+data/Bad_png/IDST_90.png,0,line,0,tapered,IDST,90,25,25,35,1,IDST_G25_T25,256,d393d257509ce68d591df468840a3b34,False,True
+data/Bad_png/IDST_91.png,0,line,0,tapered,IDST,91,25,30,25,6,IDST_G25_T30,256,ea062b4cd52f269f35c8a8860c5c16f0,False,True
+data/Bad_png/IDST_93.png,0,line,0,tapered,IDST,93,25,30,35,6,IDST_G25_T30,256,acca8dce7bef30dc08797ca6d819a15e,False,True
+data/Bad_png/IDST_96.png,0,line,0,tapered,IDST,96,25,30,35,5,IDST_G25_T30,256,2bdc3f9b922033b1089e04574e9bf5bd,False,True
+data/Bad_png/ID_10.png,0,square_grid,1,tapered,ID,10,27,25,35,3,ID_G27_T25,512,b9e343cf7e23dc74f01296a97dd0f2f1,False,True
+data/Bad_png/ID_100.png,0,square_grid,1,tapered,ID,100,25,30,25,3,ID_G25_T30,256,fa8c067b62b43fedf12dac5e2f2a8e15,False,True
+data/Bad_png/ID_101.png,0,square_grid,1,tapered,ID,101,25,30,30,3,ID_G25_T30,256,91e3f7beba754b716c1dcbb000282e7d,False,True
+data/Bad_png/ID_102.png,0,square_grid,1,tapered,ID,102,25,30,35,3,ID_G25_T30,256,2298a4ad0b9211963740d4b051056400,False,True
+data/Bad_png/ID_103.png,0,square_grid,1,tapered,ID,103,25,30,25,2,ID_G25_T30,256,041e05b541c2c65a0a63f0ea1e01d6f7,False,True
+data/Bad_png/ID_104.png,0,square_grid,1,tapered,ID,104,25,30,30,2,ID_G25_T30,256,60a50e224a4a2d4e12fabdcce1ae36b6,False,True
+data/Bad_png/ID_105.png,0,square_grid,1,tapered,ID,105,25,30,35,2,ID_G25_T30,256,3e2cba892f4b19932819e4ae4b0de3e9,False,True
+data/Bad_png/ID_106.png,0,square_grid,1,tapered,ID,106,25,30,25,1,ID_G25_T30,256,a3d8501c2312c44753c136d2968ab26e,False,True
+data/Bad_png/ID_107.png,0,square_grid,1,tapered,ID,107,25,30,30,1,ID_G25_T30,256,8bfd61e0fc051541180965b068018e54,False,True
+data/Bad_png/ID_108.png,0,square_grid,1,tapered,ID,108,25,30,35,1,ID_G25_T30,256,5d13b1198ad254fb767e9c95ee1a6386,False,True
+data/Bad_png/ID_12.png,0,square_grid,1,tapered,ID,12,27,25,25,3,ID_G27_T25,512,12e77b929c66d71fa324ae7e851289a5,False,True
+data/Bad_png/ID_15.png,0,square_grid,1,tapered,ID,15,27,25,25,2,ID_G27_T25,512,8f8188b3e5016b07e3708a24df82f3b4,False,True
+data/Bad_png/ID_18.png,0,square_grid,1,tapered,ID,18,27,25,25,1,ID_G27_T25,512,2def897c0f57315b6a0f47a9b04cc04f,False,True
+data/Bad_png/ID_21.png,0,square_grid,1,tapered,ID,21,27,30,10,6,ID_G27_T30,512,c0831c7c48f2577326131be57a5a77e7,False,True
+data/Bad_png/ID_23.png,0,square_grid,1,tapered,ID,23,27,30,15,5,ID_G27_T30,512,026a97221eaaae531fb882af84202fe9,False,True
+data/Bad_png/ID_24.png,0,square_grid,1,tapered,ID,24,27,30,10,5,ID_G27_T30,512,7f8cd6f8ef58fd94f822385949f37115,False,True
+data/Bad_png/ID_25.png,0,square_grid,1,tapered,ID,25,27,30,20,4,ID_G27_T30,512,14c63924ca1bba655a53c41679f3839f,False,True
+data/Bad_png/ID_26.png,0,square_grid,1,tapered,ID,26,27,30,15,4,ID_G27_T30,512,fe7a169051b1035eefc04a4800f932ec,False,True
+data/Bad_png/ID_27.png,0,square_grid,1,tapered,ID,27,27,30,10,4,ID_G27_T30,512,9b24bad545a1e26879221d1789537d15,False,True
+data/Bad_png/ID_28.png,0,square_grid,1,tapered,ID,28,27,30,20,3,ID_G27_T30,512,5b37f4ddfefd1df4ee9a28e6551ae353,False,True
+data/Bad_png/ID_29.png,0,square_grid,1,tapered,ID,29,27,30,15,3,ID_G27_T30,512,4594f26af4864501f18ff05ff4dbabe8,False,True
+data/Bad_png/ID_3.png,0,square_grid,1,tapered,ID,3,27,25,25,6,ID_G27_T25,512,55e45fc65d012455e5cb3ff2a951b829,False,True
+data/Bad_png/ID_30.png,0,square_grid,1,tapered,ID,30,27,30,10,3,ID_G27_T30,512,599dda7445c56b905a0c905463557f01,False,True
+data/Bad_png/ID_31.png,0,square_grid,1,tapered,ID,31,27,30,20,2,ID_G27_T30,512,6474943ab06c0e0d861564993a839a5a,False,True
+data/Bad_png/ID_33.png,0,square_grid,1,tapered,ID,33,27,30,10,2,ID_G27_T30,512,b231b256fbc861dc6dd6b253bf51e23c,False,True
+data/Bad_png/ID_34.png,0,square_grid,1,tapered,ID,34,27,30,20,1,ID_G27_T30,512,8890c2a72d6aa67324782ed9a3ee588a,False,True
+data/Bad_png/ID_36.png,0,square_grid,1,tapered,ID,36,27,30,10,1,ID_G27_T30,512,24c1d0d36f993f41d9e4a19b9f278466,False,True
+data/Bad_png/ID_39.png,0,square_grid,1,tapered,ID,39,30,30,15,6,ID_G30_T30,512,048720ca049ce1beedfc0284e6fa5fdb,False,True
+data/Bad_png/ID_42.png,0,square_grid,1,tapered,ID,42,30,30,15,5,ID_G30_T30,512,15aafb95cbaa98a4583207d86df29a98,False,True
+data/Bad_png/ID_45.png,0,square_grid,1,tapered,ID,45,30,30,15,4,ID_G30_T30,512,9fc6efa7bcd0ce3d368fd9a5aefb1b90,False,True
+data/Bad_png/ID_46.png,0,square_grid,1,tapered,ID,46,30,30,20,3,ID_G30_T30,512,eb20ea4efacc64552bc3399e6fb84c46,False,True
+data/Bad_png/ID_48.png,0,square_grid,1,tapered,ID,48,30,30,10,3,ID_G30_T30,512,b8d3466b7054382c8d69756a380b964e,False,True
+data/Bad_png/ID_49.png,0,square_grid,1,tapered,ID,49,30,30,20,2,ID_G30_T30,512,d8602b54887e0db384976b8cf758450a,False,True
+data/Bad_png/ID_51.png,0,square_grid,1,tapered,ID,51,30,30,10,2,ID_G30_T30,512,1b1c4c811908bbf191b886000b5dda1e,False,True
+data/Bad_png/ID_54.png,0,square_grid,1,tapered,ID,54,30,30,10,1,ID_G30_T30,512,c87a33807d21c85b627154d8d7ee834d,False,True
+data/Bad_png/ID_56.png,0,square_grid,1,tapered,ID,56,30,25,30,6,ID_G30_T25,512,937ac2307c4f9710fbc291d584ca338f,False,True
+data/Bad_png/ID_57.png,0,square_grid,1,tapered,ID,57,30,25,25,6,ID_G30_T25,512,5a71ca32c1b7620b27cd9f4346187f1e,False,True
+data/Bad_png/ID_58.png,0,square_grid,1,tapered,ID,58,30,25,35,5,ID_G30_T25,512,626ce8bdf2ebc90dcc089a1c1a48ab3a,False,True
+data/Bad_png/ID_6.png,0,square_grid,1,tapered,ID,6,27,25,25,5,ID_G27_T25,512,6df76157e1d164f06268aaf881ae7b28,False,True
+data/Bad_png/ID_60.png,0,square_grid,1,tapered,ID,60,30,25,25,5,ID_G30_T25,512,04d4a362bc79a14e2f762072dc8cee7e,False,True
+data/Bad_png/ID_61.png,0,square_grid,1,tapered,ID,61,30,25,35,4,ID_G30_T25,512,4a15aacac0380cd2203fe2f2641dd472,False,True
+data/Bad_png/ID_63.png,0,square_grid,1,tapered,ID,63,30,25,25,4,ID_G30_T25,512,8b6f0543e0ff120b4f326e31fd85f128,False,True
+data/Bad_png/ID_64.png,0,square_grid,1,tapered,ID,64,30,25,30,3,ID_G30_T25,512,4fb493893522b0fa0b8cd473cd2e5451,False,True
+data/Bad_png/ID_66.png,0,square_grid,1,tapered,ID,66,30,25,20,3,ID_G30_T25,512,ee8fc4a992ae0a0f3e850a654cf4975d,False,True
+data/Bad_png/ID_69.png,0,square_grid,1,tapered,ID,69,30,25,20,2,ID_G30_T25,512,6b341bed288a0efd1e96abedb26db97b,False,True
+data/Bad_png/ID_72.png,0,square_grid,1,tapered,ID,72,30,25,25,1,ID_G30_T25,512,9395fc28e6d4d05e6cfc1d8bc3f3489d,False,True
+data/Bad_png/ID_73.png,0,square_grid,1,tapered,ID,73,25,25,25,6,ID_G25_T25,256,5be5fe8faf0bc13e38f6919623ab49d9,False,True
+data/Bad_png/ID_75.png,0,square_grid,1,tapered,ID,75,25,25,35,6,ID_G25_T25,256,ce12da44282dae1236644d69afc8b371,False,True
+data/Bad_png/ID_76.png,0,square_grid,1,tapered,ID,76,25,25,25,5,ID_G25_T25,256,d6c80fac004f87e83b81fb6c63148b6b,False,True
+data/Bad_png/ID_78.png,0,square_grid,1,tapered,ID,78,25,25,35,5,ID_G25_T25,256,6d113ebda1a92e78ca8048cc2a5cab50,False,True
+data/Bad_png/ID_79.png,0,square_grid,1,tapered,ID,79,25,25,25,4,ID_G25_T25,256,87d072c8c17fd1d7f263535fadc2672a,False,True
+data/Bad_png/ID_81.png,0,square_grid,1,tapered,ID,81,25,25,35,4,ID_G25_T25,256,d9709b6846fd31e5022f963826a502bf,False,True
+data/Bad_png/ID_82.png,0,square_grid,1,tapered,ID,82,25,25,25,3,ID_G25_T25,256,f36a9c583ef2c56d677757489d4b2510,False,True
+data/Bad_png/ID_83.png,0,square_grid,1,tapered,ID,83,25,25,30,3,ID_G25_T25,256,a2149b202d940d43fbca31d34bb55190,False,True
+data/Bad_png/ID_84.png,0,square_grid,1,tapered,ID,84,25,25,35,3,ID_G25_T25,256,e424b7e19d91ac7c4400e33a2808c119,False,True
+data/Bad_png/ID_85.png,0,square_grid,1,tapered,ID,85,25,25,25,2,ID_G25_T25,256,d4767e1e72ae02b031bc1b6be35d0c16,False,True
+data/Bad_png/ID_86.png,0,square_grid,1,tapered,ID,86,25,25,30,2,ID_G25_T25,256,7c282a80f439143df6161f5066309d7d,False,True
+data/Bad_png/ID_87.png,0,square_grid,1,tapered,ID,87,25,25,35,2,ID_G25_T25,256,ec97132e687b39f1e5e3ff810adaec73,False,True
+data/Bad_png/ID_88.png,0,square_grid,1,tapered,ID,88,25,25,25,1,ID_G25_T25,256,2ac78169e4c65460bd6fe7011328e5ae,False,True
+data/Bad_png/ID_89.png,0,square_grid,1,tapered,ID,89,25,25,30,1,ID_G25_T25,256,9076cceda3edb7962547a08b5ee87023,False,True
+data/Bad_png/ID_9.png,0,square_grid,1,tapered,ID,9,27,25,25,4,ID_G27_T25,512,259cb97f34f7b87edb1511ed3cd4a18d,False,True
+data/Bad_png/ID_90.png,0,square_grid,1,tapered,ID,90,25,25,35,1,ID_G25_T25,256,0c5150bb35ee2111fb318f6d681921cb,False,True
+data/Bad_png/ID_92.png,0,square_grid,1,tapered,ID,92,25,30,30,6,ID_G25_T30,256,da383268a8c29550e3a9f9e013193a77,False,True
+data/Bad_png/ID_93.png,0,square_grid,1,tapered,ID,93,25,30,35,6,ID_G25_T30,256,c07ecd8f2db7dec23bfbf5d26105c08d,False,True
+data/Bad_png/ID_94.png,0,square_grid,1,tapered,ID,94,25,30,25,5,ID_G25_T30,256,e7596c3e18ff62afda986418f3f05cbf,False,True
+data/Bad_png/ID_95.png,0,square_grid,1,tapered,ID,95,25,30,30,5,ID_G25_T30,256,61d08a7798e0f3c05777aa7bbbd80e85,False,True
+data/Bad_png/ID_96.png,0,square_grid,1,tapered,ID,96,25,30,35,5,ID_G25_T30,256,5d819ebd3cd01e1104afa7b71068cad4,False,True
+data/Bad_png/ID_97.png,0,square_grid,1,tapered,ID,97,25,30,25,4,ID_G25_T30,256,ffee37f42076987d7be12b0983f86343,False,True
+data/Bad_png/ID_98.png,0,square_grid,1,tapered,ID,98,25,30,30,4,ID_G25_T30,256,7e200f874a99a1da5279a6ac3216c9a3,False,True
+data/Bad_png/ID_99.png,0,square_grid,1,tapered,ID,99,25,30,35,4,ID_G25_T30,256,54bc8fc9bac0723c98ee890e7f281d85,False,True

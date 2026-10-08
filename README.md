@@ -1,8 +1,93 @@
-# 3D Print Quality Control System
+# AI-Based Quality Assessment of 3D-Bioprinted Scaffolds
 
-This repository contains a highly customizable deep learning system for 3D print quality control. The system uses a dual-backbone neural network to compare print images against reference images and classify them as good or bad prints.
+Deep-learning quality control for extrusion-based 3D bioprinting. The repository holds a dataset of
+**864 brightfield images** of alginate–gelatin scaffolds printed under systematically varied
+parameters, each labelled **good** (acceptable) or **bad** (defective), and two models trained on it.
 
-## Features
+| | Model | Inputs | Where |
+|---|---|---|---|
+| **Current** | Evidential, geometry-conditioned ResNet-18 classifier with Beta output (probability + uncertainty), fully evaluated with session-grouped cross-validation, ablations and leave-one-geometry-out | printed image + geometry ID | [`evidential_qc/`](evidential_qc/) |
+| Legacy | Siamese dual-backbone network comparing each print with its reference design (classification + similarity heads) | printed image + reference image | repository root (`main.py`, `model.py`, …) |
+
+<p align="center"><img src="evidential_qc/figures/fig5_architecture.png" width="95%"></p>
+
+## Headline results (current model)
+
+Session-grouped 5-fold cross-validation on 860 images (whole fabrication sessions held out, model
+selection on training data only):
+
+| Model | Accuracy | Balanced accuracy | ROC-AUC |
+|---|---|---|---|
+| Evidential geometry-conditioned ResNet-18 | **0.841 ± 0.023** | **0.846 ± 0.016** | **0.912 ± 0.031** |
+| Plain ResNet-18 classifier | 0.836 ± 0.022 | 0.840 ± 0.018 | 0.909 ± 0.027 |
+| MS-SSIM similarity baseline | 0.610 ± 0.041 | 0.613 ± 0.047 | 0.653 ± 0.057 |
+
+The learned models outperform MS-SSIM by 23 percentage points; the geometry embedding and Beta head
+match, but do not beat, a plain ResNet-18, and add a calibrated probability (ECE 0.039). The model
+does not generalise to a geometry excluded from training. Full results, figures and reproduction
+instructions: **[`evidential_qc/README.md`](evidential_qc/README.md)**.
+
+## Quick start (current model)
+
+```bash
+git clone https://github.com/mohankumardey/AI-Based-3D-Bioprinting_Accuracy.git
+cd AI-Based-3D-Bioprinting_Accuracy/evidential_qc
+bash run.sh --smoke   # ~1 min check: environment, data audit, 3 short training runs
+bash run.sh           # all 51 experiments (~3.5 h on an Apple M2 Pro), report and figures
+```
+
+Every table and figure can also be regenerated from the saved predictions without retraining:
+
+```bash
+cd evidential_qc
+python analyze.py && python make_figures.py && python make_fig15.py --errors
+```
+
+## Dataset
+
+```
+data/
+├── Good_png/            # 392 acceptable prints
+├── Bad_png/             # 472 defective prints
+├── IDSR_reference.png   # line pattern reference (SLA print)
+├── IDSQR_reference.png  # square grid reference
+├── IDCR_reference.png   # circular pattern reference
+└── IDCBR_reference.png  # circular grid reference
+3D_Bioprinting Features.xlsx   # printing parameters for every print ID (one sheet per geometry × tip)
+```
+
+| Filename prefix | Geometry | Needle tip |
+|---|---|---|
+| `IDSR` / `IDST` | Line pattern | regular / tapered |
+| `IDSQR` / `ID` | Square grid | regular / tapered |
+| `IDCR` / `IDCT` | Circular pattern | regular / tapered |
+| `IDCBR` / `IDCB` | Circular grid | regular / tapered |
+
+Each geometry was printed with 2 needle tips × 3 gauges (25G, 27G, 30G) × 2 temperatures × 6 speeds
+(1–6 mm/s) × 3 extrusion pressures (10–80 psi) = 216 conditions, 864 in total, one print per condition.
+
+| Geometry | Good | Bad | % good |
+|---|---|---|---|
+| Line pattern | 122 | 94 | 56.5 |
+| Square grid | 49 | 167 | 22.7 |
+| Circular pattern | 108 | 108 | 50.0 |
+| Circular grid | 113 | 103 | 52.3 |
+
+**Known data issues** (see `evidential_qc/manifest_audit.txt`): `IDSR_15.png` and `IDCT_19.png`
+appear as identical files in both `Good_png` and `Bad_png` (print IDs `IDST_94` and `IDCT_30` are
+missing, so these are likely misnamed); square-grid images `IDSQR_*` and `ID_1`–`ID_72` are 512 px
+while all others are 256 px. The current pipeline excludes the conflicting pairs and harmonises
+resolution automatically.
+
+---
+
+## Legacy: Siamese reference-comparison model
+
+The code at the repository root is the earlier model: a dual-backbone network that compares a print
+image against its reference image and outputs a good/bad classification and a similarity score. It
+is kept for reference; `experiments/` contains one of its training runs.
+
+### Features
 
 - Customizable model architecture with different backbones (ResNet18, ResNet34, ResNet50, EfficientNet, MobileNet)
 - Configurable similarity and classification heads
@@ -15,7 +100,7 @@ This repository contains a highly customizable deep learning system for 3D print
 - Batch inference on test data
 - Visual result analysis
 
-## Directory Structure
+### Directory Structure
 
 ```
 .
@@ -28,7 +113,7 @@ This repository contains a highly customizable deep learning system for 3D print
 └── config.json         # Configuration file
 ```
 
-## Installation
+### Installation
 
 1. Clone this repository
 2. Install the required dependencies:
@@ -37,7 +122,7 @@ This repository contains a highly customizable deep learning system for 3D print
 pip install torch torchvision albumentations tensorboard matplotlib seaborn scikit-learn pillow
 ```
 
-## Data Preparation
+### Data Preparation
 
 Organize your data in the following structure:
 
@@ -56,13 +141,13 @@ data/
 └── IDSQR_reference.png
 └── IDSR_reference.png
 ```
-## 3D Bioprnting Features
+### 3D Bioprinting Features
 
 ```
 All bioprinting parameter features are available in the 3D bioprinting features Excel file.
 ```
 
-## Configuration
+### Configuration
 
 The system is highly customizable through the `config.json` file. The file is divided into several sections:
 
@@ -78,7 +163,7 @@ The system is highly customizable through the `config.json` file. The file is di
 
 Edit the `config.json` file to customize the system according to your needs.
 
-## Training
+### Training
 
 To train the model with default configuration:
 
@@ -101,7 +186,7 @@ The training script will:
 6. Save checkpoints and logs
 7. Generate visualizations of training progress
 
-## Inference
+### Inference
 
 To run inference on a single image:
 
@@ -115,7 +200,7 @@ To run batch inference on a test dataset:
 python inference.py --model path/to/model.pt --data_dir path/to/data_directory --output_dir path/to/output_directory --visualize
 ```
 
-## Experiment Tracking
+### Experiment Tracking
 
 The system uses TensorBoard for experiment tracking. To view the training progress:
 
@@ -131,9 +216,9 @@ This will allow you to visualize:
 - Confusion matrices
 - Classification reports
 
-## Examples
+### Examples
 
-### Custom Model Configuration
+#### Custom Model Configuration
 
 To use a different backbone with custom head layers:
 
@@ -148,7 +233,7 @@ To use a different backbone with custom head layers:
 }
 ```
 
-### Learning Rate Schedule
+#### Learning Rate Schedule
 
 To use cosine annealing with warm restarts:
 
@@ -161,7 +246,7 @@ To use cosine annealing with warm restarts:
 }
 ```
 
-### Custom Augmentation
+#### Custom Augmentation
 
 To focus on specific augmentations:
 
@@ -177,9 +262,9 @@ To focus on specific augmentations:
 }
 ```
 
-## Advanced Usage
+### Advanced Usage
 
-### Custom Loss Weighting
+#### Custom Loss Weighting
 
 Adjust the weights of the classification and similarity losses:
 
@@ -190,7 +275,7 @@ Adjust the weights of the classification and similarity losses:
 }
 ```
 
-### Early Stopping Customization
+#### Early Stopping Customization
 
 Configure early stopping to be more or less aggressive:
 
@@ -202,7 +287,7 @@ Configure early stopping to be more or less aggressive:
 }
 ```
 
-## Performance Tips
+### Performance Tips
 
 1. **GPU Acceleration**: Set `"device": "cuda"` and `"pin_memory": true` for faster training on GPU
 2. **Data Loading**: Adjust `"num_workers"` based on your CPU cores (typically 4-8)
@@ -212,7 +297,7 @@ Configure early stopping to be more or less aggressive:
 6. **Early Stopping**: Use early stopping to prevent overfitting
 7. **Model Size**: Smaller backbones (MobileNet) train faster but may be less accurate
 
-## Extending the System
+### Extending the System
 
 The modular design makes it easy to extend the system:
 

@@ -1,0 +1,13 @@
+geometry,role,path,label,p,u
+circle_grid,acceptable,data/Good_png/IDCBR_27.png,1,0.9639373,0.07212386
+circle_grid,defective,data/Bad_png/IDCBR_25.png,0,0.012916038,0.025832076
+circle_grid,error,data/Bad_png/IDCBR_50.png,0,0.94530714,0.1092692
+circle,acceptable,data/Good_png/IDCR_107.png,1,0.9496549,0.10063686
+circle,defective,data/Bad_png/IDCT_82.png,0,0.013399365,0.026798725
+circle,error,data/Bad_png/IDCR_101.png,0,0.9552643,0.08945441
+line,acceptable,data/Good_png/IDSR_32.png,1,0.9670462,0.065906964
+line,defective,data/Bad_png/IDST_82.png,0,0.013179395,0.02635879
+line,error,data/Good_png/IDST_105.png,1,0.02804175,0.0559934
+square_grid,acceptable,data/Good_png/ID_71.png,1,0.97671545,0.04656908
+square_grid,defective,data/Bad_png/ID_87.png,0,0.011051541,0.022103082
+square_grid,error,data/Bad_png/ID_29.png,0,0.97104317,0.057913665

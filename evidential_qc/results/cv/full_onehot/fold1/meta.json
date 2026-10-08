@@ -1,0 +1,18 @@
+{
+  "cfg": {
+    "geom": "onehot",
+    "head": "beta",
+    "harmonize": true,
+    "epochs": 50
+  },
+  "seed": 42,
+  "device": "mps",
+  "n_train": 572,
+  "n_sel": 126,
+  "n_eval": 162,
+  "best_epoch": 20,
+  "trainable_params": 11375170,
+  "total_params": 11375170,
+  "torch": "2.11.0",
+  "minutes": 3.9416539033253986
+}
