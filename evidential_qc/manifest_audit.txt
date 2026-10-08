@@ -1,0 +1,45 @@
+864 files, 862 distinct images, 48 session blocks
+
+Good/bad by geometry:
+label        bad  good  All  % good
+geometry                           
+circle       108   108  216    50.0
+circle_grid  103   113  216    52.3
+line          94   122  216    56.5
+square_grid  167    49  216    22.7
+All          472   392  864    45.4
+
+Good/bad by geometry x tip:
+label                bad  good
+geometry    tip               
+circle      regular   56    52
+            tapered   52    56
+circle_grid regular   47    61
+            tapered   56    52
+line        regular   47    62
+            tapered   47    60
+square_grid regular   97    11
+            tapered   70    38
+
+Label-conflict files (identical image in Good and Bad):
+                     path prefix  print_id
+data/Good_png/IDCT_19.png   IDCT        19
+data/Good_png/IDSR_15.png   IDSR        15
+ data/Bad_png/IDCT_19.png   IDCT        19
+ data/Bad_png/IDSR_15.png   IDSR        15
+Missing print IDs for IDST: [94]
+Missing print IDs for IDCT: [30]
+
+Image width by prefix:
+width   256  512
+prefix          
+ID       36   72
+IDCB    108    0
+IDCBR   108    0
+IDCR    108    0
+IDCT    108    0
+IDSQR     0  108
+IDSR    109    0
+IDST    107    0
+
+Usable (conflicts removed): 860

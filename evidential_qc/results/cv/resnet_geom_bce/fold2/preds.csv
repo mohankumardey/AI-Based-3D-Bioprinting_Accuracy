@@ -1,0 +1,178 @@
+path,label,geometry,tip,prefix,print_id,session,p
+data/Good_png/IDCBR_56.png,1,circle_grid,regular,IDCBR,56,IDCBR_G25_T35,0.9947449
+data/Good_png/IDCBR_57.png,1,circle_grid,regular,IDCBR,57,IDCBR_G25_T35,0.9544381
+data/Good_png/IDCBR_59.png,1,circle_grid,regular,IDCBR,59,IDCBR_G25_T35,0.9656095
+data/Good_png/IDCBR_60.png,1,circle_grid,regular,IDCBR,60,IDCBR_G25_T35,0.97745365
+data/Good_png/IDCBR_61.png,1,circle_grid,regular,IDCBR,61,IDCBR_G25_T35,0.9410903
+data/Good_png/IDCBR_62.png,1,circle_grid,regular,IDCBR,62,IDCBR_G25_T35,0.9361589
+data/Good_png/IDCBR_63.png,1,circle_grid,regular,IDCBR,63,IDCBR_G25_T35,0.82012296
+data/Good_png/IDCBR_65.png,1,circle_grid,regular,IDCBR,65,IDCBR_G25_T35,0.85566366
+data/Good_png/IDCBR_68.png,1,circle_grid,regular,IDCBR,68,IDCBR_G25_T35,0.9752449
+data/Good_png/IDCBR_69.png,1,circle_grid,regular,IDCBR,69,IDCBR_G25_T35,0.97057873
+data/Good_png/IDCBR_70.png,1,circle_grid,regular,IDCBR,70,IDCBR_G25_T35,0.88997436
+data/Good_png/IDCBR_72.png,1,circle_grid,regular,IDCBR,72,IDCBR_G25_T35,0.85364485
+data/Good_png/IDCB_60.png,1,circle_grid,tapered,IDCB,60,IDCB_G30_T25,0.94354653
+data/Good_png/IDCB_63.png,1,circle_grid,tapered,IDCB,63,IDCB_G30_T25,0.93983835
+data/Good_png/IDCB_64.png,1,circle_grid,tapered,IDCB,64,IDCB_G30_T25,0.9451667
+data/Good_png/IDCB_66.png,1,circle_grid,tapered,IDCB,66,IDCB_G30_T25,0.89137435
+data/Good_png/IDCB_68.png,1,circle_grid,tapered,IDCB,68,IDCB_G30_T25,0.66464245
+data/Good_png/IDCB_71.png,1,circle_grid,tapered,IDCB,71,IDCB_G30_T25,0.9520106
+data/Good_png/IDCB_72.png,1,circle_grid,tapered,IDCB,72,IDCB_G30_T25,0.88660836
+data/Good_png/IDCR_55.png,1,circle,regular,IDCR,55,IDCR_G25_T35,0.60468084
+data/Good_png/IDCR_58.png,1,circle,regular,IDCR,58,IDCR_G25_T35,0.7806515
+data/Good_png/IDCR_64.png,1,circle,regular,IDCR,64,IDCR_G25_T35,0.7909205
+data/Good_png/IDCR_65.png,1,circle,regular,IDCR,65,IDCR_G25_T35,0.9230096
+data/Good_png/IDCR_68.png,1,circle,regular,IDCR,68,IDCR_G25_T35,0.84222007
+data/Good_png/IDCR_71.png,1,circle,regular,IDCR,71,IDCR_G25_T35,0.6630012
+data/Good_png/IDCR_73.png,1,circle,regular,IDCR,73,IDCR_G30_T35,0.5373587
+data/Good_png/IDCR_74.png,1,circle,regular,IDCR,74,IDCR_G30_T35,0.6195458
+data/Good_png/IDCR_75.png,1,circle,regular,IDCR,75,IDCR_G30_T35,0.7964374
+data/Good_png/IDCR_76.png,1,circle,regular,IDCR,76,IDCR_G30_T35,0.7719983
+data/Good_png/IDCR_79.png,1,circle,regular,IDCR,79,IDCR_G30_T35,0.8128306
+data/Good_png/IDCR_80.png,1,circle,regular,IDCR,80,IDCR_G30_T35,0.79767203
+data/Good_png/IDCR_82.png,1,circle,regular,IDCR,82,IDCR_G30_T35,0.8907317
+data/Good_png/IDCR_84.png,1,circle,regular,IDCR,84,IDCR_G30_T35,0.89420074
+data/Good_png/IDCR_85.png,1,circle,regular,IDCR,85,IDCR_G30_T35,0.7624424
+data/Good_png/IDCR_86.png,1,circle,regular,IDCR,86,IDCR_G30_T35,0.7447319
+data/Good_png/IDCT_20.png,1,circle,tapered,IDCT,20,IDCT_G27_T30,0.92905784
+data/Good_png/IDCT_21.png,1,circle,tapered,IDCT,21,IDCT_G27_T30,0.67757165
+data/Good_png/IDCT_23.png,1,circle,tapered,IDCT,23,IDCT_G27_T30,0.5363644
+data/Good_png/IDCT_24.png,1,circle,tapered,IDCT,24,IDCT_G27_T30,0.94545126
+data/Good_png/IDCT_26.png,1,circle,tapered,IDCT,26,IDCT_G27_T30,0.86679643
+data/Good_png/IDCT_29.png,1,circle,tapered,IDCT,29,IDCT_G27_T30,0.94490325
+data/Good_png/IDCT_35.png,1,circle,tapered,IDCT,35,IDCT_G27_T30,0.9497135
+data/Good_png/IDCT_36.png,1,circle,tapered,IDCT,36,IDCT_G27_T30,0.9627787
+data/Good_png/IDSQR_ (56).png,1,square_grid,regular,IDSQR,56,IDSQR_G25_T35,0.9569113
+data/Good_png/IDSQR_ (61).png,1,square_grid,regular,IDSQR,61,IDSQR_G25_T35,0.97939223
+data/Good_png/IDSQR_ (62).png,1,square_grid,regular,IDSQR,62,IDSQR_G25_T35,0.96279794
+data/Good_png/IDSQR_ (72).png,1,square_grid,regular,IDSQR,72,IDSQR_G25_T35,0.9941408
+data/Good_png/IDSR_01.png,1,line,regular,IDSR,1,IDSR_G27_T35,0.9298985
+data/Good_png/IDSR_04.png,1,line,regular,IDSR,4,IDSR_G27_T35,0.95049405
+data/Good_png/IDSR_07.png,1,line,regular,IDSR,7,IDSR_G27_T35,0.87707627
+data/Good_png/IDSR_08.png,1,line,regular,IDSR,8,IDSR_G27_T35,0.9067265
+data/Good_png/IDSR_10.png,1,line,regular,IDSR,10,IDSR_G27_T35,0.9512994
+data/Good_png/IDSR_14.png,1,line,regular,IDSR,14,IDSR_G27_T35,0.80299693
+data/Good_png/IDSR_17.png,1,line,regular,IDSR,17,IDSR_G27_T35,0.95417583
+data/Good_png/IDSR_18.png,1,line,regular,IDSR,18,IDSR_G27_T35,0.88808054
+data/Good_png/IDSR_55.png,1,line,regular,IDSR,55,IDSR_G25_T35,0.31889638
+data/Good_png/IDSR_56.png,1,line,regular,IDSR,56,IDSR_G25_T35,0.7433766
+data/Good_png/IDSR_58.png,1,line,regular,IDSR,58,IDSR_G25_T35,0.9471516
+data/Good_png/IDSR_61.png,1,line,regular,IDSR,61,IDSR_G25_T35,0.95423853
+data/Good_png/IDSR_65.png,1,line,regular,IDSR,65,IDSR_G25_T35,0.9376376
+data/Good_png/IDSR_68.png,1,line,regular,IDSR,68,IDSR_G25_T35,0.91627985
+data/Good_png/IDSR_70.png,1,line,regular,IDSR,70,IDSR_G25_T35,0.9010293
+data/Good_png/IDSR_71.png,1,line,regular,IDSR,71,IDSR_G25_T35,0.8390379
+data/Good_png/IDST_20.png,1,line,tapered,IDST,20,IDST_G27_T30,0.9052892
+data/Good_png/IDST_21.png,1,line,tapered,IDST,21,IDST_G27_T30,0.9488445
+data/Good_png/IDST_22.png,1,line,tapered,IDST,22,IDST_G27_T30,0.85896486
+data/Good_png/IDST_23.png,1,line,tapered,IDST,23,IDST_G27_T30,0.8422833
+data/Good_png/IDST_24.png,1,line,tapered,IDST,24,IDST_G27_T30,0.9318677
+data/Good_png/IDST_25.png,1,line,tapered,IDST,25,IDST_G27_T30,0.86733204
+data/Good_png/IDST_26.png,1,line,tapered,IDST,26,IDST_G27_T30,0.8931182
+data/Good_png/IDST_27.png,1,line,tapered,IDST,27,IDST_G27_T30,0.92427284
+data/Good_png/IDST_29.png,1,line,tapered,IDST,29,IDST_G27_T30,0.9372847
+data/Good_png/IDST_31.png,1,line,tapered,IDST,31,IDST_G27_T30,0.7269891
+data/Good_png/IDST_32.png,1,line,tapered,IDST,32,IDST_G27_T30,0.9059439
+data/Good_png/IDST_34.png,1,line,tapered,IDST,34,IDST_G27_T30,0.9696218
+data/Good_png/IDST_35.png,1,line,tapered,IDST,35,IDST_G27_T30,0.9413851
+data/Good_png/ID_91.png,1,square_grid,tapered,ID,91,ID_G25_T30,0.8835353
+data/Bad_png/IDCBR_55.png,0,circle_grid,regular,IDCBR,55,IDCBR_G25_T35,0.8946922
+data/Bad_png/IDCBR_58.png,0,circle_grid,regular,IDCBR,58,IDCBR_G25_T35,0.7151928
+data/Bad_png/IDCBR_64.png,0,circle_grid,regular,IDCBR,64,IDCBR_G25_T35,0.85019743
+data/Bad_png/IDCBR_66.png,0,circle_grid,regular,IDCBR,66,IDCBR_G25_T35,0.6241921
+data/Bad_png/IDCBR_67.png,0,circle_grid,regular,IDCBR,67,IDCBR_G25_T35,0.33260772
+data/Bad_png/IDCBR_71.png,0,circle_grid,regular,IDCBR,71,IDCBR_G25_T35,0.96759486
+data/Bad_png/IDCB_55.png,0,circle_grid,tapered,IDCB,55,IDCB_G30_T25,0.0018704392
+data/Bad_png/IDCB_56.png,0,circle_grid,tapered,IDCB,56,IDCB_G30_T25,0.9673281
+data/Bad_png/IDCB_57.png,0,circle_grid,tapered,IDCB,57,IDCB_G30_T25,0.040413793
+data/Bad_png/IDCB_58.png,0,circle_grid,tapered,IDCB,58,IDCB_G30_T25,0.011004324
+data/Bad_png/IDCB_59.png,0,circle_grid,tapered,IDCB,59,IDCB_G30_T25,0.966199
+data/Bad_png/IDCB_61.png,0,circle_grid,tapered,IDCB,61,IDCB_G30_T25,0.0018034934
+data/Bad_png/IDCB_62.png,0,circle_grid,tapered,IDCB,62,IDCB_G30_T25,0.95853573
+data/Bad_png/IDCB_65.png,0,circle_grid,tapered,IDCB,65,IDCB_G30_T25,0.78612304
+data/Bad_png/IDCB_67.png,0,circle_grid,tapered,IDCB,67,IDCB_G30_T25,0.03133896
+data/Bad_png/IDCB_69.png,0,circle_grid,tapered,IDCB,69,IDCB_G30_T25,0.26674545
+data/Bad_png/IDCB_70.png,0,circle_grid,tapered,IDCB,70,IDCB_G30_T25,0.068165176
+data/Bad_png/IDCR_56.png,0,circle,regular,IDCR,56,IDCR_G25_T35,0.029450828
+data/Bad_png/IDCR_57.png,0,circle,regular,IDCR,57,IDCR_G25_T35,0.025316192
+data/Bad_png/IDCR_59.png,0,circle,regular,IDCR,59,IDCR_G25_T35,0.8227828
+data/Bad_png/IDCR_60.png,0,circle,regular,IDCR,60,IDCR_G25_T35,0.6032005
+data/Bad_png/IDCR_61.png,0,circle,regular,IDCR,61,IDCR_G25_T35,0.6494679
+data/Bad_png/IDCR_62.png,0,circle,regular,IDCR,62,IDCR_G25_T35,0.7082175
+data/Bad_png/IDCR_63.png,0,circle,regular,IDCR,63,IDCR_G25_T35,0.0013112955
+data/Bad_png/IDCR_66.png,0,circle,regular,IDCR,66,IDCR_G25_T35,0.0014246622
+data/Bad_png/IDCR_67.png,0,circle,regular,IDCR,67,IDCR_G25_T35,0.30464995
+data/Bad_png/IDCR_69.png,0,circle,regular,IDCR,69,IDCR_G25_T35,0.91380584
+data/Bad_png/IDCR_70.png,0,circle,regular,IDCR,70,IDCR_G25_T35,0.04064498
+data/Bad_png/IDCR_72.png,0,circle,regular,IDCR,72,IDCR_G25_T35,0.0963714
+data/Bad_png/IDCR_77.png,0,circle,regular,IDCR,77,IDCR_G30_T35,0.07631404
+data/Bad_png/IDCR_78.png,0,circle,regular,IDCR,78,IDCR_G30_T35,0.03549176
+data/Bad_png/IDCR_81.png,0,circle,regular,IDCR,81,IDCR_G30_T35,0.0007056869
+data/Bad_png/IDCR_83.png,0,circle,regular,IDCR,83,IDCR_G30_T35,0.030047754
+data/Bad_png/IDCR_87.png,0,circle,regular,IDCR,87,IDCR_G30_T35,0.089068055
+data/Bad_png/IDCR_88.png,0,circle,regular,IDCR,88,IDCR_G30_T35,0.31309935
+data/Bad_png/IDCR_89.png,0,circle,regular,IDCR,89,IDCR_G30_T35,0.6449994
+data/Bad_png/IDCR_90.png,0,circle,regular,IDCR,90,IDCR_G30_T35,0.18667454
+data/Bad_png/IDCT_22.png,0,circle,tapered,IDCT,22,IDCT_G27_T30,0.00046106495
+data/Bad_png/IDCT_25.png,0,circle,tapered,IDCT,25,IDCT_G27_T30,0.09596171
+data/Bad_png/IDCT_27.png,0,circle,tapered,IDCT,27,IDCT_G27_T30,0.6917549
+data/Bad_png/IDCT_28.png,0,circle,tapered,IDCT,28,IDCT_G27_T30,0.07655839
+data/Bad_png/IDCT_31.png,0,circle,tapered,IDCT,31,IDCT_G27_T30,0.22764917
+data/Bad_png/IDCT_32.png,0,circle,tapered,IDCT,32,IDCT_G27_T30,0.067619555
+data/Bad_png/IDCT_33.png,0,circle,tapered,IDCT,33,IDCT_G27_T30,0.29217222
+data/Bad_png/IDCT_34.png,0,circle,tapered,IDCT,34,IDCT_G27_T30,0.8028107
+data/Bad_png/IDSQR_ (55).png,0,square_grid,regular,IDSQR,55,IDSQR_G25_T35,0.005660789
+data/Bad_png/IDSQR_ (57).png,0,square_grid,regular,IDSQR,57,IDSQR_G25_T35,0.90916646
+data/Bad_png/IDSQR_ (58).png,0,square_grid,regular,IDSQR,58,IDSQR_G25_T35,0.79058826
+data/Bad_png/IDSQR_ (59).png,0,square_grid,regular,IDSQR,59,IDSQR_G25_T35,0.022055048
+data/Bad_png/IDSQR_ (60).png,0,square_grid,regular,IDSQR,60,IDSQR_G25_T35,0.4187154
+data/Bad_png/IDSQR_ (63).png,0,square_grid,regular,IDSQR,63,IDSQR_G25_T35,0.73913485
+data/Bad_png/IDSQR_ (64).png,0,square_grid,regular,IDSQR,64,IDSQR_G25_T35,0.6353232
+data/Bad_png/IDSQR_ (65).png,0,square_grid,regular,IDSQR,65,IDSQR_G25_T35,0.8056081
+data/Bad_png/IDSQR_ (66).png,0,square_grid,regular,IDSQR,66,IDSQR_G25_T35,0.37672353
+data/Bad_png/IDSQR_ (67).png,0,square_grid,regular,IDSQR,67,IDSQR_G25_T35,0.76973003
+data/Bad_png/IDSQR_ (68).png,0,square_grid,regular,IDSQR,68,IDSQR_G25_T35,0.90959036
+data/Bad_png/IDSQR_ (69).png,0,square_grid,regular,IDSQR,69,IDSQR_G25_T35,0.31068122
+data/Bad_png/IDSQR_ (70).png,0,square_grid,regular,IDSQR,70,IDSQR_G25_T35,0.0006488069
+data/Bad_png/IDSQR_ (71).png,0,square_grid,regular,IDSQR,71,IDSQR_G25_T35,0.0011643065
+data/Bad_png/IDSR_02.png,0,line,regular,IDSR,2,IDSR_G27_T35,0.110863835
+data/Bad_png/IDSR_03.png,0,line,regular,IDSR,3,IDSR_G27_T35,0.013383704
+data/Bad_png/IDSR_05.png,0,line,regular,IDSR,5,IDSR_G27_T35,0.07634909
+data/Bad_png/IDSR_06.png,0,line,regular,IDSR,6,IDSR_G27_T35,0.012851377
+data/Bad_png/IDSR_09.png,0,line,regular,IDSR,9,IDSR_G27_T35,0.1705166
+data/Bad_png/IDSR_11.png,0,line,regular,IDSR,11,IDSR_G27_T35,0.1566096
+data/Bad_png/IDSR_12.png,0,line,regular,IDSR,12,IDSR_G27_T35,0.05095471
+data/Bad_png/IDSR_13.png,0,line,regular,IDSR,13,IDSR_G27_T35,0.053187605
+data/Bad_png/IDSR_16.png,0,line,regular,IDSR,16,IDSR_G27_T35,0.8197928
+data/Bad_png/IDSR_57.png,0,line,regular,IDSR,57,IDSR_G25_T35,0.021351289
+data/Bad_png/IDSR_59.png,0,line,regular,IDSR,59,IDSR_G25_T35,0.02267947
+data/Bad_png/IDSR_60.png,0,line,regular,IDSR,60,IDSR_G25_T35,0.020271294
+data/Bad_png/IDSR_62.png,0,line,regular,IDSR,62,IDSR_G25_T35,0.12155045
+data/Bad_png/IDSR_63.png,0,line,regular,IDSR,63,IDSR_G25_T35,0.15495467
+data/Bad_png/IDSR_64.png,0,line,regular,IDSR,64,IDSR_G25_T35,0.008123579
+data/Bad_png/IDSR_66.png,0,line,regular,IDSR,66,IDSR_G25_T35,0.039108403
+data/Bad_png/IDSR_67.png,0,line,regular,IDSR,67,IDSR_G25_T35,0.37709752
+data/Bad_png/IDSR_69.png,0,line,regular,IDSR,69,IDSR_G25_T35,0.10774223
+data/Bad_png/IDSR_72.png,0,line,regular,IDSR,72,IDSR_G25_T35,0.34856597
+data/Bad_png/IDST_19.png,0,line,tapered,IDST,19,IDST_G27_T30,0.044719387
+data/Bad_png/IDST_28.png,0,line,tapered,IDST,28,IDST_G27_T30,0.0033632815
+data/Bad_png/IDST_30.png,0,line,tapered,IDST,30,IDST_G27_T30,0.85071856
+data/Bad_png/IDST_33.png,0,line,tapered,IDST,33,IDST_G27_T30,0.4599026
+data/Bad_png/IDST_36.png,0,line,tapered,IDST,36,IDST_G27_T30,0.001130795
+data/Bad_png/ID_100.png,0,square_grid,tapered,ID,100,ID_G25_T30,0.00046861765
+data/Bad_png/ID_101.png,0,square_grid,tapered,ID,101,ID_G25_T30,0.013065878
+data/Bad_png/ID_102.png,0,square_grid,tapered,ID,102,ID_G25_T30,0.00018134752
+data/Bad_png/ID_103.png,0,square_grid,tapered,ID,103,ID_G25_T30,0.000855658
+data/Bad_png/ID_104.png,0,square_grid,tapered,ID,104,ID_G25_T30,0.0005921044
+data/Bad_png/ID_105.png,0,square_grid,tapered,ID,105,ID_G25_T30,0.0003064227
+data/Bad_png/ID_106.png,0,square_grid,tapered,ID,106,ID_G25_T30,0.031019049
+data/Bad_png/ID_107.png,0,square_grid,tapered,ID,107,ID_G25_T30,0.0010931705
+data/Bad_png/ID_108.png,0,square_grid,tapered,ID,108,ID_G25_T30,0.00024197361
+data/Bad_png/ID_92.png,0,square_grid,tapered,ID,92,ID_G25_T30,0.019380288
+data/Bad_png/ID_93.png,0,square_grid,tapered,ID,93,ID_G25_T30,0.00013242252
+data/Bad_png/ID_94.png,0,square_grid,tapered,ID,94,ID_G25_T30,0.00024719397
+data/Bad_png/ID_95.png,0,square_grid,tapered,ID,95,ID_G25_T30,0.00015581958
+data/Bad_png/ID_96.png,0,square_grid,tapered,ID,96,ID_G25_T30,0.0002177154
+data/Bad_png/ID_97.png,0,square_grid,tapered,ID,97,ID_G25_T30,0.02466169
+data/Bad_png/ID_98.png,0,square_grid,tapered,ID,98,ID_G25_T30,0.00089682866
+data/Bad_png/ID_99.png,0,square_grid,tapered,ID,99,ID_G25_T30,0.00037521942

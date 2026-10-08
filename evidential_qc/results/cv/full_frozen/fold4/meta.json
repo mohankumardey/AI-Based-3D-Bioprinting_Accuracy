@@ -1,0 +1,19 @@
+{
+  "cfg": {
+    "geom": "embed32",
+    "head": "beta",
+    "freeze": true,
+    "harmonize": true,
+    "epochs": 50
+  },
+  "seed": 42,
+  "device": "mps",
+  "n_train": 573,
+  "n_sel": 108,
+  "n_eval": 179,
+  "best_epoch": 7,
+  "trainable_params": 205954,
+  "total_params": 11382466,
+  "torch": "2.11.0",
+  "minutes": 2.2003979166348775
+}

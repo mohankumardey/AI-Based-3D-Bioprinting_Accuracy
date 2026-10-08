@@ -1,0 +1,18 @@
+{
+  "cfg": {
+    "geom": "none",
+    "head": "bce",
+    "harmonize": true,
+    "epochs": 50
+  },
+  "seed": 42,
+  "device": "mps",
+  "n_train": 573,
+  "n_sel": 108,
+  "n_eval": 179,
+  "best_epoch": 17,
+  "trainable_params": 11373889,
+  "total_params": 11373889,
+  "torch": "2.11.0",
+  "minutes": 3.896424051125844
+}
